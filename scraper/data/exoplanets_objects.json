@@ -1,0 +1,866 @@
+[
+  {
+    "title": "Epsilon Indi Ab Exoplanet (MIRI Image)",
+    "file": "data/exoplanets/cards_html/0.html",
+    "release_date": "July 24, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J09EC4V6EKK95KF9YJ84KVBE.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the gas-giant exoplanet Epsilon Indi Ab was taken with the coronagraph on NASA’s James Webb Space Telescope’s MIRI (Mid-Infrared Instrument). A star symbol marks the location of the host star Epsilon Indi A, whose light has been blocked by the coronagraph, resulting in the dark circle marked with a dashed white line. Epsilon Indi Ab is one of the coldest exoplanets ever directly imaged. Light at 10.6 microns was assigned the color blue, while light at 15.5 microns was assigned the color orange. MIRI did not resolve the planet, which is a point source.</p>",
+    "ra_position": [
+      22,
+      3,
+      21
+    ],
+    "dec_position": [
+      -56,
+      47,
+      9
+    ]
+  },
+  {
+    "title": "Warm Gas-Giant Exoplanet WASP-107 b Transmission Spectrum (NIRSpec)",
+    "file": "data/exoplanets/cards_html/10.html",
+    "release_date": "May 20, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HY1GSWNR2YRCWFYTFAWR22YG.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This transmission spectrum, captured using Webb’s NIRSpec (Near-Infrared Spectrograph), shows the amounts of different wavelengths (colors) of near-infrared starlight blocked by the atmosphere of the gas-giant exoplanet <a href=\"https://webbtelescope.org/contents/media/images/2024/113/01HXW1X526F5TRNHCSMX41YCNA\">WASP-107 b</a>.</p>\n<p>The spectrum was made by observing the planet-star system for about 8.5 hours before, during, and after the transit as the planet moved across the face of the star. &nbsp;</p>\n<p>By comparing the brightness of light filtered through the planet’s atmosphere (transmitted light) to unfiltered starlight, it is possible to calculate the amount of each wavelength that is blocked by the atmosphere. Since each molecule absorbs a unique combination of wavelengths, the transmission spectrum can be used to constrain the abundance of various gases.</p>\n<p>This spectrum shows clear evidence for water (H<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>), carbon monoxide (CO), methane (CH<sub>4</sub>), and sulfur dioxide (SO<sub>2</sub>) in the planet’s atmosphere, allowing researchers to estimate the interior temperature and mass of the core.</p>",
+    "ra_position": [
+      12,
+      33,
+      32
+    ],
+    "dec_position": [
+      -10,
+      8,
+      46
+    ]
+  },
+  {
+    "title": "Super-Earth Exoplanet 55 Cancri e (Artist’s Concept)",
+    "file": "data/exoplanets/cards_html/11.html",
+    "release_date": "May 08, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HWQYVDYKAN7WPCR0YRVCAJG0.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This artist’s concept shows what the exoplanet 55 Cancri e could look like.</p>\n<p>Also called Janssen, 55 Cancri e is a so-called super-Earth, a rocky planet significantly larger than Earth but smaller than Neptune, which orbits its star at a distance of only 1.4 million miles (0.015 astronomical units), completing one full orbit in less than 18 hours. (Mercury is 25 times farther from the Sun than 55 Cancri e is from its star.) The system, which also includes four large gas-giant planets, is located about 41 light-years from Earth, in the constellation Cancer.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/102/01HWQT20ZQAXZPCWKYGSNC80ND\">Observations from Webb’s NIRCam and MIRI</a> suggest that the planet may be surrounded by an atmosphere rich in carbon dioxide (CO<sub>2</sub>) or carbon monoxide (CO). Because it is so close to its star, the planet is extremely hot and is thought to be covered in molten rock. Researchers think that the gases that make up the atmosphere could have bubbled out of the magma.</p>\n<p>An atmosphere on this planet would likely be complex and quite variable due to interactions with the magma ocean. In addition to carbon monoxide or carbon dioxide, there could be gases like nitrogen, water vapor, sulfur dioxide, some vaporized rock, and even short-lived clouds made of tiny droplets of lava condensed from the air.&nbsp;</p>\n<p>The star, 55 Cancri, is a K-type star nearly the same size and mass as the Sun, but slightly cooler and dimmer. It is just bright enough to see with the naked eye in a very dark sky. The star and planet are so close to each other that the star would appear 70 times wider in the planet’s sky than the Sun appears in our sky. In addition, because the planet is likely to be tidally locked, from any given point, the star would appear fixed in the sky.</p>\n<p>This artist’s concept is based on new data gathered by NIRCam and MIRI as well as <a href=\"https://exoplanetarchive.ipac.caltech.edu/overview/55%20cancri%20e#planet_55-Cnc-e_collapsible\">previous observations</a> from other ground- and space-based telescopes, including NASA’s Hubble and retired Spitzer space telescopes. Webb has not captured any images of the planet.</p>",
+    "ra_position": [
+      8,
+      52,
+      35
+    ],
+    "dec_position": [
+      28,
+      19,
+      47
+    ]
+  },
+  {
+    "title": "Super-Earth Exoplanet 55 Cancri e (MIRI Secondary Eclipse Light Curve)",
+    "file": "data/exoplanets/cards_html/12.html",
+    "release_date": "May 08, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HWQSZWPR8FHJCD53Y7P0W16K.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This light curve shows the change in brightness of the 55 Cancri system as the rocky planet <a href=\"https://webbtelescope.org/contents/media/images/2024/102/01HWQWN21X8Q7H2W4VX7FVKT1R\">55 Cancri e</a>, the closest of the five known planets in the system, moves behind the star. This phenomenon is known a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-13e5ee83-416d-4850-889d-409022d5aa49\">secondary eclipse</a>.</p>\n<p>When the planet is next to the star, the mid-infrared light emitted by both the star and the dayside of the planet reaches the telescope, and the system appears brighter. When the planet is behind the star, the light emitted by the planet is blocked and only the starlight reaches the telescope, causing the apparent brightness to decrease.</p>\n<p>Astronomers can subtract the brightness of the star from the combined brightness of the star and planet to calculate how much infrared light is coming from the dayside of the planet. This is then used to calculate the dayside temperature and infer whether or not the planet has an atmosphere.</p>\n<p>The graph shows data collected using the low-resolution spectroscopy mode on Webb’s Mid-Infrared Instrument in March 2023. Each of the purple data points shows the brightness of light ranging in wavelength from 7.5 to 11.8 microns, averaged over intervals of about 5 minutes. The grey line is the best fit, or model light curve that matches the data most closely. The decrease in brightness during the secondary eclipse is just 110 parts per million, or about 0.011 percent.</p>\n<p>The temperature of the planet calculated from this observation is about 1,800 kelvins (around 2,800 degrees Fahrenheit), which is significantly lower than would be expected if the planet has no atmosphere or only a thin rock-vapor atmosphere. This relatively low temperature indicates that heat is being distributed from the dayside to the nightside of the planet, possibly by a <a href=\"https://webbtelescope.org/contents/media/images/2024/102/01HWQT20ZQAXZPCWKYGSNC80ND\">volatile-rich atmosphere</a>.</p>",
+    "ra_position": [
+      8,
+      52,
+      35
+    ],
+    "dec_position": [
+      28,
+      19,
+      47
+    ]
+  },
+  {
+    "title": "Super-Earth Exoplanet 55 Cancri e (NIRCam + MIRI Emission Spectrum)",
+    "file": "data/exoplanets/cards_html/13.html",
+    "release_date": "May 08, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HWQT28H3Z3P7VQ4AD5E7P8NW.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A thermal emission spectrum captured by Webb’s NIRCam (Near-Infrared Camera) in November 2022, and MIRI (Mid-Infrared Instrument) in March 2023, shows the brightness (<em>y</em>-axis) of different wavelengths of infrared light (<em>x</em>-axis) emitted by the super-Earth exoplanet <a href=\"https://webbtelescope.org/contents/media/images/2024/102/01HWQWN21X8Q7H2W4VX7FVKT1R\">55 Cancri e</a>. The spectrum shows that the planet may be surrounded by an atmosphere rich in carbon dioxide or carbon monoxide and other volatiles, not just vaporized rock.</p>\n<p>The graph compares data collected by NIRCam (orange dots) and MIRI (purple dots) to two different models. Model A, in red, shows what the emission spectrum of 55 Cancri e should look like if it has an atmosphere made of vaporized rock. Model B, in blue, shows what the emission spectrum should look like if the planet has a volatile-rich atmosphere outgassed from a magma ocean that has a similar volatile content as Earth’s mantle. Both MIRI and NIRCam data are consistent with the volatile-rich model.</p>\n<p>The amount of mid-infrared light emitted by the planet (MIRI) shows that its dayside temperature is significantly lower than what it would be if it did not have an atmosphere to distribute heat from the dayside to the nightside. The dip in the spectrum between 4 and 5 microns (NIRCam data) can be explained by absorption of those wavelengths by carbon monoxide or carbon dioxide molecules in the atmosphere.</p>\n<p>The spectrum was made by measuring the brightness of 4- to 5-micron light with Webb’s NIRCam GRISM spectrometer, and 5- to 12-micron with MIRI low-resolution spectrometer, before, during, and after the planet moved behind its star (the <a href=\"https://webbtelescope.org/contents/media/images/2024/102/01HWQSZ6R6QHTSTE0Z0Z630R10\">secondary eclipse</a>). The amount of each wavelength emitted by the planet (<em>y</em>-axis) was calculated by subtracting the brightness of the star alone (during the secondary eclipse) from the brightness of the star and planet combined (before and after the eclipse). Each observation lasted about 8 hours.</p>\n<p>Note the NIRCam data have been shifted vertically to align with Model B. Although the differences in brightness between each wavelength in the NIRCam band was derived from the observation (the data suggest a valley between 4 and 5 microns), the absolute brightness (the vertical position of that valley) could not be measured precisely because of noise in the data.</p>",
+    "ra_position": [
+      8,
+      52,
+      35
+    ],
+    "dec_position": [
+      28,
+      19,
+      47
+    ]
+  },
+  {
+    "title": "Hot Gas-Giant Exoplanet WASP-43 b (Artist’s Concept)",
+    "file": "data/exoplanets/cards_html/14.html",
+    "release_date": "April 30, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HW67KNA4439D1FXA3VGR868T.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This artist’s concept shows what the hot gas-giant exoplanet WASP-43 b could look like. WASP-43 b is a Jupiter-sized planet circling a star roughly 280 light-years away, in the constellation Sextans. The planet orbits at a distance of about 1.3 million miles (0.014 astronomical units, or AU), completing one circuit in about 19.5 hours. Because it is so close to its star, WASP-43 b is probably tidally locked: its rotation rate and orbital period are the same, such that one side faces the star at all times.</p>\n<p>Temperature measurements based on the amount of 5- to 12-micron mid-infrared light emitted by the planet show that the nightside is probably covered in thick, high clouds. Spectroscopy measurements indicate the presence of water vapor on both the dayside and nightside. But because it is too hot for liquid water to exist, the clouds are probably made of tiny mineral grains instead of water droplets. A surprising lack of methane on the nightside suggests that strong eastward winds are mixing atmospheric gases around the planet.</p>\n<p>This illustration is based on new data gathered by Webb’s Mid-Infrared Instrument (MIRI) as well as <a href=\"https://exoplanetarchive.ipac.caltech.edu/overview/WASP-43%20b#planet_WASP-43-b_collapsible\">previous observations</a> from other ground- and space-based telescopes, including Hubble and Spitzer. Webb has not captured any images of the planet.</p>",
+    "ra_position": [
+      10,
+      19,
+      37
+    ],
+    "dec_position": [
+      -9,
+      48,
+      23
+    ]
+  },
+  {
+    "title": "Hot Gas-Giant Exoplanet WASP-43 b (MIRI Phase Curve)",
+    "file": "data/exoplanets/cards_html/15.html",
+    "release_date": "April 30, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HW67RF7NV3B8HKNXDP33YSES.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This light curve shows the change in brightness of the WASP-43 system over time as the planet orbits the star. This type of light curve is known as a <a href=\"https://webbtelescope.org/contents/media/images/01HK57P2YHV18MMV0RG5N7HY70\">phase curve</a> because it includes the entire orbit, or all phases of the planet.</p>\n<p>Because it is tidally locked, different sides of <a href=\"https://webbtelescope.org/contents/media/images/2024/117/01HW67GT1W6Y1D47MG9AKJXRM4\">WASP-43 b</a> rotate into view as it orbits. The system appears brightest when the hot dayside is facing the telescope, just before and after the <a href=\"https://webbtelescope.org/glossary.html#h3-CK-13e5ee83-416d-4850-889d-409022d5aa49\">secondary eclipse</a> when the planet passes behind the star. The system grows dimmer as the planet continues its orbits and the nightside rotates into view. After the transit when the planet passes in front of the star, blocking some of the starlight, the system brightens again as the dayside rotates back into view.</p>\n<p>This graph shows more than 8,000 measurements of 5- to 12-micron mid-infrared light captured over a single 24-hour observation using the low-resolution spectroscopy mode on Webb’s MIRI (Mid-Infrared Instrument). By subtracting the amount of light contributed by the star, astronomers can calculate the amount coming from the visible side of the planet as it orbits. Webb was able to detect differences in brightness as small as 0.004% (40 parts per million).</p>\n<p>Since the amount of mid-infrared light given off by an object is directly related to its temperature, astronomers were able to use these measurements to calculate the <a href=\"https://webbtelescope.org/contents/media/images/2024/117/01HW67W24KX2ZP8M56MSCG6NDY\">average temperature of different sides of the planet</a>.</p>",
+    "ra_position": [
+      10,
+      19,
+      37
+    ],
+    "dec_position": [
+      -9,
+      48,
+      23
+    ]
+  },
+  {
+    "title": "Hot Gas-Giant Exoplanet WASP-43 b (Temperature Maps)",
+    "file": "data/exoplanets/cards_html/16.html",
+    "release_date": "April 30, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HW67WBW9KFBZF27BVFJVNZ79.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This set of maps shows the temperature of the visible side of the hot gas-giant exoplanet WASP-43 b, as the planet orbits its star.</p>\n<p>The temperatures were calculated based on more than <a href=\"https://webbtelescope.org/contents/media/images/2024/117/01HW67R5KDZXH3EXN22R37S9YH\">8,000 brightness measurements</a> of 5- to 12-micron mid-infrared light detected from the star-planet system by MIRI (the Mid-Infrared Instrument) on NASA’s James Webb Space Telescope. In general, the hotter an object is, the more mid-infrared light it gives off.</p>\n<p>Because WASP-43 b orbits so close to its star (about 1.3 million miles, or 0.014 astronomical units), it is tidally locked: One side faces the star at all times, receiving continuous radiation, while the other faces away from the star in permanent darkness. This results in a clear temperature difference between the dayside and nightside. The amount of infrared light detected from the planet is greatest when the hot dayside faces the telescope, just before and after it passes behind the star (a phenomenon known as a secondary eclipse). The planet appears much dimmer in infrared light when the cooler nightside faces the telescope, as it moves across the star (the transit).</p>\n<p>The exact difference in temperature, however, also depends on factors such as wind speeds and cloud cover. Based on the MIRI observations, WASP-43 b has an average temperature of about 2,280°F (1,250°C) on the dayside and 1,115°F (600°C) on the nightside. This is consistent with strong winds that carry heat around from the dayside to the nightside, and the presence of nightside clouds that prevent heat energy from escaping to space.</p>\n<p>The temperature maps were made by carefully analyzing the change in temperature as different parts of the planet rotate into and out of view. The research indicates that the hottest point on the planet is not the point that receives the most light from the star (the substellar point, where the star is straight above in the sky). Instead, it is shifted about 7 degrees eastward. (This is why the maps look slightly off-center.) This is a result of strong equatorial winds, which blow at speeds upwards of 5,000 miles per hour, moving the hot air horizontally before it can radiate energy back out to space.</p>",
+    "ra_position": [
+      10,
+      19,
+      37
+    ],
+    "dec_position": [
+      -9,
+      48,
+      23
+    ]
+  },
+  {
+    "title": "Beta Pictoris (MIRI Image)",
+    "file": "data/exoplanets/cards_html/17.html",
+    "release_date": "January 10, 2024 3:15PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HKAHM6P1KVVK9747NV6237DW.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has imaged star system Beta Pictoris. Webb’s MIRI (Mid-Infrared Instrument) enabled a team of astronomers to investigate the composition of Beta Pic’s main and secondary debris disks—the latter feature previously detected by the Hubble Space Telescope.</p>\n<p>Unexpectedly, Webb’s infrared capabilities detected a new feature of the Beta Pic system: a curvy branch of dust that resembles the shape of a cat’s tail. This tail, only noticeable in the MIRI data, extends from the southwest portion of the secondary debris disk and is estimated to span 10 billion miles.</p>\n<p>The dust that forms the tail may be similar to the matter found on the surfaces of comets and asteroids in our solar system. Further analysis is required to understand the origins of the cat’s tail, though the team believes a dust production event—such as a collision between asteroids, comets, or planetesimals—is responsible.</p>\n<p>A coronagraph (black circle and two small disks) has been used to block the light of the central star, whose location is marked with a white star shape. In this image, light at 15.5 microns is colored cyan and 23 microns is orange (filters F1550C and F2300C, respectively).</p>",
+    "ra_position": [
+      5,
+      47,
+      17
+    ],
+    "dec_position": [
+      -51,
+      3,
+      59
+    ]
+  },
+  {
+    "title": "Beta Pictoris (MIRI Annotated Image)",
+    "file": "data/exoplanets/cards_html/18.html",
+    "release_date": "January 10, 2024 3:15PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HKAN56HHRBD0KHF8B15C3PA4.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Annotated version of the Beta Pictoris image captured by Webb’s MIRI (Mid-Infrared Instrument). A coronagraph (black circle and two small disks) has been used to block the light of the central star. Certain features are highlighted and labeled.&nbsp;</p>\n<p>A white line traces over the orange main debris disk and is labeled “main disk plane.” A thin blue-green disk is inclined about five degrees counterclockwise relative to the orange main disk and is highlighted by a blue-green line labeled “extended secondary disk.” Some of the gray material clustered near the center forms a curved feature in the upper right, which is marked with a yellow line labeled “cat’s tail.”&nbsp;</p>\n<p>A scale bar shows that the disks of Beta Pic extend for hundreds of astronomical units (AU), where one AU is the average Earth-Sun distance. (In our solar system, Neptune orbits 30 AU from the sun.) In this image, light at 15.5 microns is colored cyan and 23 microns is orange (filters F1550C and F2300C, respectively).</p>",
+    "ra_position": [
+      5,
+      47,
+      17
+    ],
+    "dec_position": [
+      -51,
+      3,
+      59
+    ]
+  },
+  {
+    "title": "Beta Pictoris (MIRI Compass Image)",
+    "file": "data/exoplanets/cards_html/19.html",
+    "release_date": "January 10, 2024 3:15PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HMS7SJ47A6HPXECNV3VQNHXJ.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Annotated image of star system Beta Pictoris captured by Webb's MIRI (Mid-Infrared Instrument), with compass arrows, a scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in astronomical units and arcseconds. One AU is the average Earth-Sun distance. (In our solar system, Neptune orbits 30 AU from the sun.) Arcseconds is a measure of angular distance on the sky. One arcsecond is equal to 1/3600 of one degree of arc. (The full Moon has an angular diameter of about 0.5 degrees.) The actual size of an object that covers one arcsecond on the sky depends on its distance from the telescope.</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/101/01HKAHK9XJKKR4MFFSST52K2BY\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a></p>",
+    "ra_position": [
+      5,
+      47,
+      17
+    ],
+    "dec_position": [
+      -51,
+      3,
+      59
+    ]
+  },
+  {
+    "title": "IC 348 (NIRCam Image)",
+    "file": "data/exoplanets/cards_html/23.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFC83QXT6N4MRJ1RS4D5KFJS.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the NIRCam (Near-Infrared Camera) instrument on NASA’s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter. The smallest weighs just three to four times Jupiter, challenging theories for star formation.</p>\n<p>The wispy curtains filling the image are interstellar material reflecting the light from the cluster’s stars – what is known as a reflection nebula. The material also includes carbon-containing molecules known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the center of the frame is actually a pair of type B stars in a binary system, which are the most massive stars in the cluster. Winds from these stars may help sculpt the large loop seen on the right side of the field of view.</p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "Brown Dwarfs in IC 348 (NIRCam Image)",
+    "file": "data/exoplanets/cards_html/24.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFCA1BS7CYFW4Z9KFH9KCYTW.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the NIRCam (Near-Infrared Camera) instrument on NASA’s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter, which are circled in the main image and shown in the detailed pullouts at right. The smallest weighs just three to four times Jupiter, challenging theories for star formation.</p>\n<p>The wispy curtains filling the image are interstellar material reflecting the light from the cluster’s stars – what is known as a reflection nebula. The material also includes carbon-containing molecules known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the center of the frame is actually a pair of type B stars in a binary system, which are the most massive stars in the cluster. Winds from these stars may help sculpt the large loop seen on the right side of the field of view.</p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "IC 348 (NIRCam Compass Image)",
+    "file": "data/exoplanets/cards_html/25.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFCAD4MGT3V6AS2XBM0FSX1J.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of star cluster IC 348, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.1 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 0.5 light-years across and 0.8 light-years high.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/151/01HFC82GPW3B8RPAJ3VWXJEAHZ\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a></p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-17 b (Artist's Concept)",
+    "file": "data/exoplanets/cards_html/34.html",
+    "release_date": "October 16, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HC3AW9CAR7FD4T7VXV9YCYD7.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This artist's concept shows what the exoplanet WASP-17 b could look like.</p>\n<p>WASP-17 b, also called Ditsö̀, is a hot gas giant that orbits its star at a distance of just 0.051 AU (about 4.75 million miles, or one-eighth the distance between Mercury and the Sun), completing one full circuit in about 3.7 Earth-days. The system lies within the Milky Way, about 1,300 light-years from Earth, in the constellation Scorpius.</p>\n<p>With a volume more than seven times that of Jupiter and a mass less than one-half of Jupiter, WASP-17 b is an extremely puffy planet. Its short orbital period, large size, and thick, extended atmosphere make it ideal for observation using <a href=\"https://webbtelescope.org/contents/articles/spectroscopy-101--types-of-spectra-and-spectroscopy\">transmission spectroscopy</a>, which involves measuring the effects of the planet’s atmosphere on the starlight filtering through it.</p>\n<p>WASP-17 b’s atmosphere is composed primarily of hydrogen and helium, along with small amounts of water vapor and hints of carbon dioxide and other molecules. <a href=\"https://webbtelescope.org/contents/media/images/2023/140/01HC3B0DZNEMRQT3KQ6X4ZMNN2\">Observations of 5- to 12-micron infrared light</a> from Webb's MIRI (Mid-Infrared Instrument) show that WASP-17 b’s atmosphere also contains clouds made of nanocrystals of quartz (SiO<sub>2</sub>).</p>\n<p>WASP-17 b is tidally locked and has a retrograde orbit. Its temperature ranges from about 1,000 kelvins (1,350 degrees F or 725 degrees C) on the cooler nightside to nearly 2,000 kelvins (3,150 degrees F or 1,725 degrees C) on the side in permanent daylight.</p>\n<p>The star, WASP-17 (also called Diwö), is an F-type star: slightly larger, more massive, hotter, and whiter than the Sun.</p>\n<p>This artist’s concept is based on new data gathered by MIRI as well as&nbsp;<a href=\"https://exoplanetarchive.ipac.caltech.edu/overview/WASP-17%20b#planet_WASP-17-b_collapsible\">previous observations</a> from other ground- and space-based telescopes, including NASA’s Hubble and retired Spitzer space telescopes. Webb has not captured any images of the planet.</p>",
+    "ra_position": [
+      15,
+      59,
+      50
+    ],
+    "dec_position": [
+      -28,
+      3,
+      42
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-17 b (MIRI Transmission Spectrum)",
+    "file": "data/exoplanets/cards_html/35.html",
+    "release_date": "October 16, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HCJBRZYFVETZ4SZYS068XV6A.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A <a href=\"https://webbtelescope.org/contents/articles/spectroscopy-101--types-of-spectra-and-spectroscopy\">transmission spectrum</a> of the hot gas giant exoplanet <a href=\"https://webbtelescope.org/contents/media/images/2023/140/01HC39WKWCQQB3ZS1P8FK7N7EY\">WASP-17 b</a> captured by MIRI (Webb’s Mid-Infrared Instrument) on March 12-13, 2023, reveals the first evidence for quartz (crystalline silica, SiO<sub>2</sub>) in the clouds of an exoplanet.</p>\n<p>The spectrum was made by measuring the change in brightness of 28 wavelength-bands of mid-infrared light as the planet transited its star. Webb observed the WASP-17 system using MIRI’s low-resolution spectrograph for nearly 10 hours, collecting more than 1,275 measurements before, during, and after the transit.</p>\n<p>For each wavelength, the amount of light blocked by the planet’s atmosphere (white circles) was calculated by subtracting the amount that made it through the atmosphere from the amount originally emitted by the star.</p>\n<p>The solid purple line is a best-fit model to the Webb (MIRI), Hubble, and Spitzer data. (The Hubble and Spitzer data cover wavelengths from 0.34 to 4.5 microns and are not shown on the graph.) The spectrum shows a clear feature around 8.6 microns, which astronomers think is caused by silica particles absorbing some of the starlight passing through the atmosphere. &nbsp;</p>\n<p>The dashed yellow line shows what that part of the transmission spectrum would look like if the clouds in WASP-17 b’s atmosphere did <em>not</em> contain SiO<sub>2</sub>.</p>\n<p>This marks the first time that SiO<sub>2</sub> has been identified in an exoplanet, and the first time any specific cloud species has been identified in a transiting exoplanet.</p>\n<p>&nbsp;</p>",
+    "ra_position": [
+      15,
+      59,
+      50
+    ],
+    "dec_position": [
+      -28,
+      3,
+      42
+    ]
+  },
+  {
+    "title": "L1527 and Protostar (MIRI Image)",
+    "file": "data/exoplanets/cards_html/4.html",
+    "release_date": "July 02, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J0BY5NWGXKR165XPC66KS4PT.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>L1527, shown in this image from NASA’s James Webb Space Telescope’s MIRI (Mid-Infrared Instrument), is a molecular cloud that harbors a protostar. It resides about 460 light-years from Earth in the constellation Taurus. The more diffuse blue light and the filamentary structures in the image come from organic compounds known as polycyclic aromatic hydrocarbons (PAHs), while the red at the center of this image is an energized, thick layer of gases and dust that surrounds the protostar. The region in between, which shows up in white, is a mixture of PAHs, ionized gas, and other molecules.</p>\n<p>This image includes filters representing 7.7 microns light as blue, 12.8 microns light as green, and 18 microns light as red.&nbsp;</p>",
+    "ra_position": [
+      4,
+      39,
+      53
+    ],
+    "dec_position": [
+      26,
+      3,
+      5
+    ]
+  },
+  {
+    "title": "Exoplanet GJ 486 b (Artist Concept)",
+    "file": "data/exoplanets/cards_html/43.html",
+    "release_date": "May 01, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GYSX585XR5SMM68RNGX44M4V.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This artist concept represents the rocky exoplanet GJ 486 b, which orbits a red dwarf star that is only 26 light-years away in the constellation Virgo. By observing GJ 486 b transit in front of its star, astronomers sought signs of an atmosphere. They detected hints of water vapor. However, they caution that while this might be a sign of a planetary atmosphere, the water could be on the star itself – specifically, in cool starspots – and not from the planet at all.</p>\n<p>GJ 486 b is about 30% larger than the Earth and weighs three times as much. It orbits its star closely in just under 1.5 days.</p>",
+    "ra_position": [
+      12,
+      47,
+      57
+    ],
+    "dec_position": [
+      9,
+      45,
+      5
+    ]
+  },
+  {
+    "title": "Exoplanet GJ 486 b (Transmission Spectrum)",
+    "file": "data/exoplanets/cards_html/44.html",
+    "release_date": "May 01, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GYT3QYTSBB88MJBEQ8RR9DKX.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This graphic shows the transmission spectrum obtained by Webb observations of rocky exoplanet GJ 486 b. The science team’s analysis shows hints of water vapor; however, computer models show that the signal could be from a water-rich planetary atmosphere (indicated by the blue line) or from starspots from the red dwarf host star (indicated by the yellow line). The two models diverge noticeably at shorter infrared wavelengths, indicating that additional observations with other Webb instruments will be needed to constrain the source of the water signal.</p>\n<p>The background illustration of a planet is an artist concept. Webb has not taken an image of the planet.</p>",
+    "ra_position": [
+      12,
+      47,
+      57
+    ],
+    "dec_position": [
+      9,
+      45,
+      5
+    ]
+  },
+  {
+    "title": "Rocky Exoplanet TRAPPIST-1 b (Illustration)",
+    "file": "data/exoplanets/cards_html/45.html",
+    "release_date": "March 27, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GW5EQWKG8SS1G8C939PF9YTE.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This illustration shows what the hot rocky exoplanet TRAPPIST-1 b could look like based on this work. TRAPPIST-1 b, the innermost of seven known planets in the TRAPPIST-1 system, orbits its star at a distance of 0.011 AU, completing one circuit in just 1.51 Earth-days. TRAPPIST-1 b is slightly larger than Earth, but has around the same density, which indicates that it must have a rocky composition. Webb’s measurement of mid-infrared light given off by TRAPPIST-1 b suggests that the planet does not have any substantial atmosphere. The star, TRAPPIST-1, is an ultracool red dwarf (M dwarf) with a temperature of only 2,566 kelvins and a mass just 0.09 times the mass of the Sun.&nbsp;</p>\n<p>This illustration is based on new data gathered by Webb’s Mid-Infrared Instrument (MIRI) as well as <a href=\"https://exoplanetarchive.ipac.caltech.edu/overview/TRAPPIST-1\" target=\"_self\">previous observations</a> from other ground- and space-based telescopes. Webb has not captured any images of the planet.&nbsp;</p>",
+    "ra_position": [
+      23,
+      6,
+      30
+    ],
+    "dec_position": [
+      -5,
+      2,
+      30
+    ]
+  },
+  {
+    "title": "Rocky Exoplanet TRAPPIST-1 b (Secondary Eclipse Light Curve)",
+    "file": "data/exoplanets/cards_html/46.html",
+    "release_date": "March 27, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GW5FRDXKJ37838S7A13XA3YF.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This light curve shows the change in brightness of the TRAPPIST-1 system as the innermost planet, TRAPPIST-1 b, moves behind the star. This phenomenon is known as a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-13e5ee83-416d-4850-889d-409022d5aa49\" target=\"_self\">secondary eclipse</a>.&nbsp;</p>\n<p>Astronomers used Webb’s Mid-Infrared Instrument (MIRI) to measure the brightness of mid-infrared light. When the planet is beside the star, the light emitted by both the star and the dayside of the planet reach the telescope, and the system appears brighter. When the planet is behind the star, the light emitted by the planet is blocked and only the starlight reaches the telescope, causing the apparent brightness to decrease.&nbsp;</p>\n<p>Astronomers can subtract the brightness of the star from the combined brightness of the star and planet to calculate how much infrared light is coming from the planet’s dayside. This is then used to calculate the dayside temperature.</p>\n<p>The graph shows combined data from five separate observations made using MIRI’s F1500W filter, which only allows light with wavelengths ranging from 13.5-16.6 microns to pass through to the detectors. The blue squares are individual brightness measurements. The red circles show measurements that are “binned,” or averaged to make it easier to see the change over time. The decrease in brightness during the secondary eclipse is less than 0.1%. MIRI was able to detect changes as small as 0.027% (or 1 part in 3,700).</p>\n<p>This is the first thermal emission observation of TRAPPIST-1 b, or any planet as small as Earth and as cool as the rocky planets in our solar system.&nbsp;</p>\n<p>The observations are being repeated using a <a href=\"https://www.stsci.edu/jwst/phase2-public/1279.pdf\" target=\"_self\">12.8-micron filter</a> in order to confirm the results and narrow down the interpretations.</p>",
+    "ra_position": [
+      23,
+      6,
+      30
+    ],
+    "dec_position": [
+      -5,
+      2,
+      30
+    ]
+  },
+  {
+    "title": "Rocky Exoplanet TRAPPIST-1 b (Dayside Temperature Comparison)",
+    "file": "data/exoplanets/cards_html/47.html",
+    "release_date": "March 27, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GW5FXJ7DVSD1KZM36EK9704F.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Comparison of the dayside temperature of TRAPPIST-1 b as measured using Webb’s Mid-Infrared Instrument (MIRI) to computer models showing what the temperature would be under various conditions. The models take into account the known properties of the system, including the temperature of the star and the planet’s orbital distance. The temperature of the dayside of Mercury is also shown for reference.&nbsp;</p>\n<p>The dayside brightness of TRAPPIST-1 b at 15 microns corresponds to a temperature of about 500 kelvins (roughly 450 degrees Fahrenheit). This is consistent with the temperature assuming the planet is tidally locked (one side facing the star at all times), with a dark-colored surface, no atmosphere, and no redistribution of heat from the dayside to the nightside.&nbsp;</p>\n<p>If the heat energy from the star were distributed evenly around the planet (for example, by a circulating carbon dioxide-free atmosphere), the temperature at 15 microns would be 400 kelvins (260 degrees Fahrenheit). If the atmosphere had a substantial amount of carbon dioxide, it would emit even less 15-micron light and would appear to be even cooler.&nbsp;&nbsp;</p>\n<p>Although TRAPPIST-1 b is hot by Earth standards, it is cooler than the dayside of Mercury, which consists of bare rock and no significant atmosphere. Mercury receives about 1.6 times more energy from the Sun than TRAPPIST-1 b does from its star.</p>",
+    "ra_position": [
+      23,
+      6,
+      30
+    ],
+    "dec_position": [
+      -5,
+      2,
+      30
+    ]
+  },
+  {
+    "title": "L1527 and Protostar (MIRI Compass Image)",
+    "file": "data/exoplanets/cards_html/5.html",
+    "release_date": "July 02, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J0BYGCY13ZCJC678HV2E4JR3.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the nebula L1527, captured by Webb’s Mid-Infrared Instrument (MIRI), shows compass arrows, a scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in astronomical units (AU), which is the average distance between Earth and the Sun, or 93 million miles (150 million kilometers).&nbsp;</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/125/01J0BY3XJBEG8K740S8M7N07Z9\">Read the full image caption.</a></p>",
+    "ra_position": [
+      4,
+      39,
+      53
+    ],
+    "dec_position": [
+      26,
+      3,
+      5
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-39 b and its Star (Illustration)",
+    "file": "data/exoplanets/cards_html/53.html",
+    "release_date": "November 22, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJ3Q0VY3708TBE4KGSAMXBWB.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This illustration shows what exoplanet WASP-39 b could look like, based on current understanding of the planet.</p>\n<p>WASP-39 b is a hot, puffy gas giant with a mass 0.28 times Jupiter (0.94 times Saturn) and a diameter 1.3 times greater than Jupiter, orbiting just 0.0486 astronomical units (4,500,000 miles) from its star. The star, WASP-39, is fractionally smaller and less massive than the Sun. Because it is so close to its star, WASP-39 b is very hot and is likely to be tidally locked, with one side facing the star at all times.</p>\n<p>NASA’s James Webb Space Telescope’s exquisitely sensitive instruments have provided a profile of WASP-39 b’s atmospheric constituents and identified a plethora of contents, including water, sulfur dioxide, carbon monoxide, sodium and potassium.</p>\n<p>This illustration is based on indirect transit observations from Webb as well as other space- and ground-based telescopes. Webb has not captured a direct image of this planet.</p>",
+    "ra_position": [
+      14,
+      29,
+      18
+    ],
+    "dec_position": [
+      3,
+      26,
+      40
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-39 b (Transmission Spectra)",
+    "file": "data/exoplanets/cards_html/54.html",
+    "release_date": "November 22, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJ3Q7NW7NZ43AQHX8D6AXQ7Q.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The atmospheric composition of the hot gas giant exoplanet WASP-39 b has been revealed by NASA’s James Webb Space Telescope. This graphic shows four <a href=\"https://webbtelescope.org/contents/media/videos/2018/30/1158-Video\" target=\"_self\">transmission spectra</a> from three of Webb’s instruments operated in four instrument modes. All are plotted on a common scale extending from 0.5 to 5.5 microns. This graphic, as well as all four of the component elements, are available for download from the links at the left side of this page.</p>\n<p>A transmission spectrum is made by comparing starlight filtered through a planet’s atmosphere as it moves in front of the star, to the unfiltered starlight detected when the planet is beside the star. Each of the data points (white circles) on these graphs represents the amount of a specific wavelength of light that is blocked by the planet and absorbed by its atmosphere. Wavelengths that are preferentially absorbed by the atmosphere appear as peaks in the transmission spectrum.</p>\n<p>The blue line is a best-fit model that takes into account the data, the known properties of WASP-39 b and its star (e.g., size, mass, temperature), and assumed characteristics of the atmosphere. Researchers can vary the parameters in the model – changing unknown characteristics like cloud height in the atmosphere and abundances of various gases – to get a better fit and further understand what the atmosphere is really like.</p>\n<p>At upper left, data from NIRISS shows fingerprints of potassium (K), water (H<sub>2</sub>O), and carbon monoxide (CO). At upper right, data from NIRCam shows a prominent water signature. At lower left, data from NIRSpec indicates water, sulfur dioxide (SO<sub>2</sub>), carbon dioxide (CO<sub>2</sub>), and carbon monoxide (CO). At lower right, additional NIRSpec data reveals all of these molecules as well as sodium (Na).</p>\n<p></p>",
+    "ra_position": [
+      14,
+      29,
+      18
+    ],
+    "dec_position": [
+      3,
+      26,
+      40
+    ]
+  },
+  {
+    "title": "L1527 and Protostar (NIRCam Image)",
+    "file": "data/exoplanets/cards_html/55.html",
+    "release_date": "November 16, 2022 10:30AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GGWCY2S6MMY594JESZYYSVZ2.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The protostar within the dark cloud L1527, shown in this image from NASA’s James Webb Space Telescope Near-Infrared Camera (NIRCam), is embedded within a cloud of material feeding its growth. Ejections from the star have cleared out cavities above and below it, whose boundaries glow orange and blue in this infrared view. The upper central region displays bubble-like shapes due to stellar “burps,” or sporadic ejections. Webb also detects filaments made of molecular hydrogen that has been shocked by past stellar ejections. The edges of the cavities at upper left and lower right appear straight, while the boundaries at upper right and lower left are curved. The region at lower right appears blue, as there’s less dust between it and Webb than the orange regions above it.</p>",
+    "ra_position": [
+      4,
+      39,
+      53
+    ],
+    "dec_position": [
+      26,
+      3,
+      5
+    ]
+  },
+  {
+    "title": "L1527 and Protostar (NIRCam Compass Image)",
+    "file": "data/exoplanets/cards_html/56.html",
+    "release_date": "November 16, 2022 10:30AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GGWDMK3K6JS398P01PBG0TPN.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the nebula L1527, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in astronomical units (AU), which is the average distance between Earth and the Sun, or 93 million miles (150 million kilometers).&nbsp;</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/055/01GGWCXTEXGJ0C3FWSCB3SDBV5\">Read the full image caption.</a>.</p>",
+    "ra_position": [
+      4,
+      39,
+      53
+    ],
+    "dec_position": [
+      26,
+      3,
+      5
+    ]
+  },
+  {
+    "title": "Image of Exoplanet HIP 65426 b in Near and Mid Infrared",
+    "file": "data/exoplanets/cards_html/57.html",
+    "release_date": "September 01, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GBV0RFAAK0T0TNE86MH5JM6A.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p><strong><em>Editor’s Note: </em></strong><em>The findings reported here are based on preliminary results that have not been shared formally with the scientific community via peer-reviewed publication.</em></p>\n<p>This image shows the exoplanet HIP 65426 b in different bands of infrared light, as seen from the James Webb Space Telescope: purple shows the NIRCam instrument’s view at 3.00 microns, blue shows the NIRCam instrument’s view at 4.44 microns, yellow shows the MIRI instrument’s view at 11.4 microns, and red shows the MIRI instrument’s view at 15.5 microns. These images look different because of the ways that the different Webb instruments capture light. A set of masks within each instrument, called a coronagraph, blocks out the host star’s light so that the planet can be seen. The small white star in each image marks the location of the host star HIP 65426, which has been subtracted using the coronagraphs and image processing. The bar shapes in the NIRCam images are artifacts of the telescope’s optics, not objects in the scene.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/nasas-webb-takes-its-first-ever-direct-image-of-distant-world.html\" target=\"_self\">Read the story</a></p>",
+    "ra_position": [
+      13,
+      24,
+      36
+    ],
+    "dec_position": [
+      -51,
+      30,
+      16
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-39 b and Its Star (Illustration)",
+    "file": "data/exoplanets/cards_html/58.html",
+    "release_date": "August 25, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GB2S090BPKEH5HB9NEAHN59X.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This illustration shows what exoplanet WASP-39 b could look like, based on current understanding of the planet.</p>\n<p>WASP-39 b is a hot, puffy gas giant with a mass 0.28 times Jupiter (0.94 times Saturn) and a diameter 1.3 times greater than Jupiter, orbiting just 0.0486 astronomical units (4,500,000 miles) from its star. The star, WASP-39, is fractionally smaller and less massive than the Sun. Because it is so close to its star, WASP-39 b is very hot and is likely to be tidally locked, with one side facing the star at all times.&nbsp;</p>\n<p>Data collected by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0T08S2V810Y7ENZMGWTVDA\" target=\"_self\">Near-Infrared Spectrograph</a> (NIRSpec) show unambiguous evidence for carbon dioxide in the atmosphere, while previous observations from NASA’s <a href=\"https://www.nasa.gov/feature/goddard/2018/nasa-finds-a-large-amount-of-water-in-an-exoplanets-atmosphere\" target=\"_self\">Hubble and Spitzer</a> space telescopes, as well as other telescopes, indicate the presence of water vapor, sodium, and potassium. The planet probably has clouds and some form of weather, but it may not have atmospheric bands like those of Jupiter and Saturn.</p>\n<p>This illustration is based on indirect transit observations from Webb as well as other space and ground-based telescopes. Webb has not captured a direct image of this planet.</p>",
+    "ra_position": [
+      14,
+      29,
+      18
+    ],
+    "dec_position": [
+      3,
+      26,
+      40
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-39 b (NIRSpec Transmission Spectrum)",
+    "file": "data/exoplanets/cards_html/59.html",
+    "release_date": "August 25, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GB3170R02JQ5KWMAAYMW5RZF.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A transmission spectrum of the hot gas giant exoplanet WASP-39 b captured by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0T08S2V810Y7ENZMGWTVDA\" target=\"_self\">Near-Infrared Spectrograph</a> (NIRSpec) on July 10, 2022, reveals the first clear evidence for carbon dioxide in a planet outside the solar system. This is also the first detailed exoplanet transmission spectrum ever captured that covers wavelengths between 3 and 5.5 microns.&nbsp;</p>\n<p>A <a href=\"https://webbtelescope.org/contents/media/videos/2018/30/1158-Video\" target=\"_self\">transmission spectrum</a> is made by comparing starlight filtered through a planet’s atmosphere as it moves in front of the star, to the unfiltered starlight detected when the planet is beside the star. Each of the 95 data points (white circles) on this graph represents the amount of a specific wavelength of light that is blocked by the planet and absorbed by its atmosphere. Wavelengths that are preferentially absorbed by the atmosphere appear as peaks in the transmission spectrum. The peak centered around 4.3 microns represents the light absorbed by carbon dioxide.&nbsp;</p>\n<p>The gray lines extending above and below each data point are error bars that show the uncertainty of each measurement, or the reasonable range of actual possible values. For a single observation, the error on these measurements is extremely small.</p>\n<p>The blue line is a best-fit model that takes into account the data, the known properties of WASP-39 b and its star (e.g., size, mass, temperature), and assumed characteristics of the atmosphere. Researchers can vary the parameters in the model – changing unknown characteristics like cloud height in the atmosphere and abundances of various gases – to get a better fit and further understand what the atmosphere is really like. The model shown here assumes that the planet is made primarily of hydrogen and helium, with small amounts of water and carbon dioxide, and a thin veil of clouds.</p>\n<p>The observation was made using the NIRSpec PRISM bright object time-series mode, which involves using a prism to spread out light from a single bright object (like the star WASP-39) and measuring the brightness of each wavelength at set intervals of time.</p>\n<p>WASP-39 b is a hot gas giant exoplanet that orbits a Sun-like star roughly 700 light-years away, in the constellation Virgo. The planet orbits extremely close to its star (less than 1/20th the distance between Earth and the Sun) and completes one orbit in just over 4 Earth-days. The planet’s discovery, based on ground-based observations, was announced in 2011. The star, WASP-39, is roughly the same size, mass, temperature, and color as the Sun.</p>\n<p>The background illustration of WASP-39 b and its star is based on current understanding of the planet from Webb spectroscopy and previous ground- and space-based observations. Webb has not captured a direct image of the planet or its atmosphere.</p>",
+    "ra_position": [
+      14,
+      29,
+      18
+    ],
+    "dec_position": [
+      3,
+      26,
+      40
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-39 b (NIRSpec Transit Light Curves)",
+    "file": "data/exoplanets/cards_html/60.html",
+    "release_date": "August 25, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GB31JWTAQP9W946GXZCR3NQ7.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A series of light curves from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0T08S2V810Y7ENZMGWTVDA\" target=\"_self\">Near-Infrared Spectrograph</a> (NIRSpec) shows the change in brightness of three different wavelengths (colors) of light from the WASP-39 star system over time as the planet transited the star on July 10, 2022.  A <a href=\"https://viewspace.org/interactives/unveiling_invisible_universe/detecting_other_worlds/transiting_exoplanet\" target=\"_self\">transit</a> occurs when an orbiting planet moves between the star and the telescope, blocking some of the light from the star.&nbsp;</p>\n<p>This observation was made using the NIRSpec PRISM bright object time-series mode, which involves using a prism to spread out light from a single bright object (like the star WASP-39) and measure the brightness of each wavelength at set intervals of time.</p>\n<p>To capture these data, Webb stared at the WASP-39 star system for more than eight hours, beginning about three hours before the transit and ending about two hours after the transit was complete. The transit itself lasted about three hours. Each curve shown here includes a total of 500 individual brightness measurements – about one per minute.</p>\n<p>Although all colors are blocked to some extent by the planet, some colors are blocked more than others. This occurs because each gas in the atmosphere absorbs different amounts of specific wavelengths. As a result, each color has a slightly different light curve. During the transit of WASP-39 b, light with a wavelength of 4.3 microns is not as bright as 3.0-micron or 4.7-micron light because it is absorbed by carbon dioxide.</p>\n<p>WASP-39 b is a hot gas giant exoplanet that orbits a Sun-like star roughly 700 light-years away, in the constellation Virgo. The planet orbits extremely close to its star (less than 1/20th the distance between Earth and the Sun) and completes one orbit in just over 4 Earth-days. The star, WASP-39, is roughly the same size, mass, temperature, and color as the Sun. The planet’s discovery, from ground-based observations, was announced in 2011.&nbsp;</p>\n<p>The background illustration of WASP-39 b and its star is based on current understanding of the planet from Webb spectroscopy and previous ground- and space-based observations. Webb has not captured a direct image of the planet or its atmosphere.</p>\n<p></p>",
+    "ra_position": [
+      14,
+      29,
+      18
+    ],
+    "dec_position": [
+      3,
+      26,
+      40
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-96 b (NIRISS Transmission Spectrum)",
+    "file": "data/exoplanets/cards_html/61.html",
+    "release_date": "July 12, 2022 10:46AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G819GFQSE5T2ZSZM3QX8S153.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A transmission spectrum made from a single observation using Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0T0WM3X65FFXM0JBR4C5ZB\" target=\"_self\">Near-Infrared Imager and Slitless Spectrograph</a> (NIRISS) reveals atmospheric characteristics of the hot gas giant exoplanet WASP-96 b.&nbsp;&nbsp;</p>\n<p>A <a href=\"https://webbtelescope.org/contents/media/videos/2018/30/1158-Video\" target=\"_self\">transmission spectrum</a> is made by comparing  starlight filtered through a planet’s atmosphere as it moves across the star, to the unfiltered starlight detected when the planet is beside the star.  Each of the 141 data points (white circles) on this graph represents the amount of a specific wavelength of light that is blocked by the planet and absorbed by its atmosphere.&nbsp;</p>\n<p>In this observation, the wavelengths detected by NIRISS range from 0.6 microns (red) to 2.8 microns (in the near-infrared). The amount of starlight blocked ranges from about 13,600 parts per million (1.36 percent) to 14,700 parts per million (1.47 percent).</p>\n<p>Researchers are able to detect and measure the abundances of key gases in a planet’s atmosphere based on the absorption pattern – the locations and heights of peaks on the graph: each gas has a characteristic set of wavelengths that it absorbs. The temperature of the atmosphere can be calculated based in part on the height of the peaks: a hotter planet has taller peaks. Other characteristics, like the presence of haze and clouds, can be inferred based on the overall shape of different portions of the spectrum.&nbsp;&nbsp;</p>\n<p>The gray lines extending above and below each data point are error bars that show the uncertainty of each measurement, or the reasonable range of actual possible values. For a single observation, the error on these measurements is remarkably small.</p>\n<p>The blue line is a best-fit model that takes into account the data, the known properties of WASP-96 b and its star (e.g., size, mass, temperature), and assumed characteristics of the atmosphere. Researchers can vary the parameters in the model – changing unknown characteristics like cloud height in the atmosphere and abundances of various gases – to get a better fit and further understand what the atmosphere is really like. The difference between the best-fit model shown here and the data simply reflects the additional work to be done in analyzing and interpreting the data and the planet.&nbsp;</p>\n<p>Although full analysis of the spectrum will take additional time, it is possible to draw a number of preliminary conclusions. The labeled peaks in the spectrum indicate the presence of water vapor. The height of the water peaks, which is less than expected based on previous observations, is evidence for the presence of clouds that suppress the water vapor features. The gradual downward slope of the left side of the spectrum (shorter wavelengths) is indicative of possible haze. The height of the peaks along with other characteristics of the spectrum is used to calculate an atmospheric temperature of about 1350°F (725°C).&nbsp;&nbsp;</p>\n<p>This is the most detailed infrared exoplanet transmission spectrum ever collected, the first transmission spectrum that includes wavelengths longer than 1.6 microns with such high resolution and accuracy, and the first to cover the entire wavelength range from 0.6 microns (visible red light) to 2.8 microns (near-infrared) in a single shot. The speed with which researchers have been able to make confident interpretations of the spectrum is further testament to the quality of the data.&nbsp;</p>\n<p>The observation was made using NIRISS’s Single-Object Slitless Spectroscopy (SOSS) mode, which involves capturing the spectrum of a single bright object, like the star WASP-96, in a field of view.&nbsp;</p>\n<p>WASP-96 b is a hot gas giant exoplanet that orbits a Sun-like star roughly 1,150 light-years away, in the constellation Phoenix. The planet orbits extremely close to its star (less than 1/20th the distance between Earth and the Sun) and completes one orbit in less than 3½ Earth-days. The planet’s discovery, based on ground-based observations, was announced in 2014. The star, WASP-96, is somewhat older than the Sun, but is about the same size, mass, temperature, and color.</p>\n<p>The background illustration of WASP-96 b and its star is based on current understanding of the planet from both NIRISS spectroscopy and previous ground- and space-based observations. Webb has not captured a direct image of the planet or its atmosphere.</p>\n<p><em>NIRISS was contributed by the Canadian Space Agency. The instrument was designed and built by Honeywell in collaboration with the Université de Montréal and the National Research Council Canada.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a></p>\n<p></p>",
+    "ra_position": [
+      0,
+      4,
+      11
+    ],
+    "dec_position": [
+      -47,
+      21,
+      38
+    ]
+  },
+  {
+    "title": "Exoplanet WASP-96 b (NIRISS Transit Light Curve)",
+    "file": "data/exoplanets/cards_html/62.html",
+    "release_date": "July 12, 2022 10:46AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NBD9BKJRTT3G6N8V27QZRM.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A light curve from <a href=\"https://webbtelescope.org/contents/media/images/01FA0T0WM3X65FFXM0JBR4C5ZB\" target=\"_self\">Webb’s Near-Infrared Imager and Slitless Spectrograph</a> (NIRISS) shows the change in brightness of light from the WASP-96 star system over time as the planet transits the star. A <a href=\"https://viewspace.org/interactives/unveiling_invisible_universe/detecting_other_worlds/transiting_exoplanet\" target=\"_self\">transit</a> occurs when an orbiting planet moves between the star and the telescope, blocking some of the light from the star. This observation was made using NIRISS’s Single-Object Slitless Spectroscopy (SOSS) mode, which involves capturing the spectrum of a single bright object, like the star WASP-96, in a field of view.&nbsp;</p>\n<p>To capture these data, Webb stared at the WASP-96 star system for 6 hours 23 minutes, beginning about 2½ hours before the transit and ending about 1½ hours after the transit was complete. The transit itself lasted for just under 2½ hours. The curve includes a total of 280 individual brightness measurements – one every 1.4 minutes.</p>\n<p>Because the observation was made using a spectrograph, which spreads the light out into hundreds of individual wavelengths, each of the 280 points on the graph represents the combined brightness of thousands of wavelengths of infrared light.</p>\n<p>The actual dimming caused by the planet is extremely small: The difference between the brightest and dimmest points is less than 1.5 percent. NIRISS is ideally suited for this observation because it has the ability to observe relatively bright targets over time, along with the sensitivity needed to measure such small differences in brightness: In this observation, the instrument was able to measure differences in brightness as small as 0.02 percent.</p>\n<p>Although the presence, size, mass, and orbit of the planet had already been determined based on previous transit observations, this transit light curve can be used to confirm and refine existing measurements, such as the planet’s diameter, the timing of the transit, and the planet’s orbital properties.&nbsp;</p>\n<p>WASP-96 b is a hot gas giant exoplanet that orbits a Sun-like star roughly 1,150 light-years away, in the constellation Phoenix. The planet orbits extremely close to its star (less than 1/20th the distance between Earth and the Sun) and completes one orbit in less than 3½ Earth-days. The planet’s discovery, from ground-based observations, was announced in 2014.&nbsp;</p>\n<p>The background illustration of WASP-96 b and its Sun-like star is based on current understanding of the planet from both NIRISS spectroscopy and previous ground- and space-based observations. Webb has not captured a direct image of the planet or its atmosphere.</p>\n<p><em>NIRISS was contributed by the Canadian Space Agency. The instrument was designed and built by Honeywell in collaboration with the Université de Montréal and the National Research Council Canada.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a></p>",
+    "ra_position": [
+      0,
+      4,
+      11
+    ],
+    "dec_position": [
+      -47,
+      21,
+      38
+    ]
+  },
+  {
+    "title": "Illustration of Exoplanet 55 Cancri e and Its Star",
+    "file": "data/exoplanets/cards_html/63.html",
+    "release_date": "May 26, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G3H062R9W8NH4PYC3KKEVNXK.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Illustration showing what exoplanet 55 Cancri e could look like, based on current understanding of the planet.&nbsp;</p>\n<p>55 Cancri e is a rocky planet with a diameter almost twice that of Earth orbiting just 0.015 astronomical units from its Sun-like star. Because of its tight orbit, the planet is extremely hot, with dayside temperatures reaching 4,400 degrees Fahrenheit (about 2,400 degrees Celsius).&nbsp;</p>\n<p>Although previous studies have ruled out a thick hydrogen, carbon dioxide, or water atmosphere, it is possible that the planet has a substantial atmosphere made of oxygen or nitrogen, or a very thin atmosphere of mineral vapor, such as silicon oxide.</p>\n<p>Researchers think that if the planet is tidally locked, the lit surface must be permanently molten. If the planet is not locked, it would experience day-night cycles, with the surface heating up and melting during the day, and cooling and solidifying at night. The extreme heat during the day would also cause some of the molten rock to vaporize, forming a very tenuous mineral vapor atmosphere. In the evening, this vapor would condense and fall as a rain of lava back onto the surface, where it would turn solid overnight.&nbsp;</p>\n<p>Spectroscopic observations using Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI) will help determine whether or not the planet has an atmosphere, and if so, what that atmosphere is made of. The observations will also help determine whether or not the planet is tidally locked.&nbsp;</p>",
+    "ra_position": [
+      8,
+      52,
+      35
+    ],
+    "dec_position": [
+      28,
+      19,
+      47
+    ]
+  },
+  {
+    "title": "Illustration of Exoplanet LHS 3844 b and Its Star",
+    "file": "data/exoplanets/cards_html/64.html",
+    "release_date": "May 26, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G3GXFKZECVP2S1K10597JQ56.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Illustration showing what exoplanet LHS 3844 b could look like, based on current understanding of the planet.</p>\n<p>LHS 3844 b is a rocky planet with a diameter 1.3 times that of Earth orbiting 0.006 astronomical units from its cool red dwarf star. The planet is hot, with dayside temperatures calculated to be greater than 1,000 degrees Fahrenheit (greater than about 525 degrees Celsius).&nbsp;</p>\n<p>Previous studies show that the planet is unlikely to have a substantial atmosphere and that the surface may be composed of dark, perhaps basaltic, rock.&nbsp;</p>\n<p>Observations of the planet’s thermal emission spectrum using Webb’s Mid-Infrared Instrument (MIRI) will provide more evidence to help determine what the surface is made of.</p>",
+    "ra_position": [
+      22,
+      41,
+      59
+    ],
+    "dec_position": [
+      69,
+      10,
+      19
+    ]
+  },
+  {
+    "title": "Simulated Thermal Emission Spectrum of Exoplanet LHS 3844 b",
+    "file": "data/exoplanets/cards_html/66.html",
+    "release_date": "May 26, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G3H3FNZ9YQZVQ85GRZ5D4SYS.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Possible thermal emission spectrum of the hot super-Earth exoplanet LHS 3844 b, as measured by Webb’s Mid-Infrared Instrument. A thermal emission spectrum shows the amount of light of different infrared wavelengths (colors) that are emitted by the planet. Researchers use computer models to predict what a planet’s thermal emission spectrum will look like assuming certain conditions, such as whether or not there is an atmosphere and what the surface of the planet is made of.&nbsp;</p>\n<p>This particular simulation assumes that LHS 3844 b has no atmosphere and the day side is covered in the dark volcanic rock basalt. (Basalt is the most common volcanic rock in our solar system, making up volcanic islands like Hawaii and most of Earth’s ocean floor, as well as large portions of the surfaces of the Moon and Mars.)</p>\n<p>For comparison, the gray line represents a model spectrum of basaltic rock based on laboratory measurements. The pink line is the spectrum of granite, the most common igneous rock found on Earth’s continents. The two types of rock have very different spectra because they are made of different minerals, which absorb and emit different amounts of different wavelengths of light.&nbsp;</p>\n<p>After Webb observes the planet, researchers will compare the actual spectrum to model spectra of various rock types like these to figure out what the surface of the planet is made of.&nbsp;&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      22,
+      41,
+      59
+    ],
+    "dec_position": [
+      69,
+      10,
+      19
+    ]
+  },
+  {
+    "title": "Exoplanet TOI-421 b and Its Star (Illustration)",
+    "file": "data/exoplanets/cards_html/67.html",
+    "release_date": "November 17, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FMJ8FHA909ZXATYPW0P25D1D.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Illustration of what exoplanet TOI-421 b might look like. TOI-421 b is a hot sub-Neptune-sized exoplanet orbiting a Sun-like star roughly 244 light-years from Earth. TOI-421 b is thought to have a clear atmosphere free of haze and clouds.&nbsp;</p>\n<p>This illustration is based on our knowledge of the planet and its host star, and predictions about the likely properties of the planet’s atmosphere. Spectroscopic data from Webb will help us better understand the composition of the planet’s atmosphere.&nbsp;</p>\n<p>TOI-421 b is in between Earth and Neptune in terms of size (radius 2.68 times Earth), mass (7.2 times Earth), and density (2 times water). It orbits its star at a distance of only 0.056 astronomical unit (5.6% of the distance between Earth and the Sun), completing one orbit in 5.2 Earth-days. The star, TOI-421, has a radius 0.87 times that of the Sun, a mass 0.85 times the Sun, and a temperature of 5325 kelvins (around 5050 degrees Celsius), slightly cooler than the Sun.</p>",
+    "ra_position": [
+      5,
+      27,
+      24
+    ],
+    "dec_position": [
+      -14,
+      16,
+      36
+    ]
+  },
+  {
+    "title": "Exoplanet GJ 1214 b and Its Star (Illustration)",
+    "file": "data/exoplanets/cards_html/68.html",
+    "release_date": "November 17, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FMJM6P94M7VJW6QZ55XW7WWT.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Illustration showing what exoplanet GJ 1214 b could look like based on current information. GJ 1214 b, a warm sub-Neptune-sized exoplanet roughly 48 light-years from Earth, is one of the most studied exoplanets in the galaxy. Previous spectroscopic observations indicate that the planet is shrouded in aerosols (clouds or haze), which have thus far made it impossible to determine the composition of gases that make up its thick atmosphere.&nbsp;</p>\n<p>This illustration is based on our knowledge of the planet and its host star, and predictions about the likely properties of the planet’s atmosphere. Spectroscopic data from Webb will help us better understand the gases and aerosols that make up the planet’s atmosphere.</p>\n<p>GJ 1214 b is in between Earth and Neptune in terms of size (radius 2.74 times Earth), mass (8.2 times Earth), and density (2.2 times water). It orbits its star at a distance of only 0.015 astronomical unit (1.5% of the distance between Earth and the Sun), completing one orbit in 1.58 Earth-days. The star, GJ 1214, is cool red dwarf star with a radius of just 0.22 times that of the Sun, a mass of just 0.18 times the Sun, and a temperature of just 3,250 kelvins (around 2,975 degrees Celsius), about 2,500 degrees cooler than the Sun.&nbsp;</p>",
+    "ra_position": [
+      17,
+      15,
+      19
+    ],
+    "dec_position": [
+      4,
+      57,
+      38
+    ]
+  },
+  {
+    "title": "Simulated Transmission Spectrum of Exoplanet TOI-421 b",
+    "file": "data/exoplanets/cards_html/70.html",
+    "release_date": "November 17, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FMJX9B4NH8SW39M04DZ7MY1G.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Possible transmission spectrum of the hot sub-Neptune exoplanet TOI-421 b. A transmission spectrum shows the amount of starlight of different wavelengths (colors) that is blocked by the planet’s atmosphere. Researchers use computer models to predict what spectra will look like assuming certain plausible atmospheric conditions such as temperature, the abundance of different gases, and what types of aerosols are present.&nbsp;</p>\n<p>This particular simulation assumes that TOI-421 b has a hot hydrogen-, carbon-, and oxygen-rich atmosphere that is free of clouds and haze. Webb’s Near-Infrared Imager and Slitless Spectrograph (NIRISS) and Near-Infrared Spectrograph (NIRSpec) will make it possible to easily identify and measure the abundance of molecules like water (H<sub>2</sub>O), methane (CH<sub>4</sub>), and carbon dioxide (CO<sub>2</sub>) in a haze-free atmosphere like this. The spectrum shows prominent peaks indicating an abundance of water vapor and carbon dioxide, and minor amounts of methane. Once Webb observes the planet, researchers will compare the real data to simulated spectra like this to determine the actual conditions of the planet.&nbsp;</p>",
+    "ra_position": [
+      5,
+      27,
+      24
+    ],
+    "dec_position": [
+      -14,
+      16,
+      36
+    ]
+  },
+  {
+    "title": "Diagram of an Exoplanet Phase Curve",
+    "file": "data/exoplanets/cards_html/71.html",
+    "release_date": "November 17, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FMJYNB09YCDB298HDDAXCT68.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This simplified diagram of an exoplanet phase curve shows the change in total brightness of a star–planet system as the planet orbits the star. The system looks brighter when more of the lit side of the planet is facing the telescope (full phase), and dimmer when more of the dark side is facing the telescope (new phase).&nbsp;</p>\n<p>(Top) Diagram showing the change in a planet’s phase (the amount of the lit side facing the telescope) as it orbits its star. (Middle) Three-dimensional graph showing the change in the total brightness of the star–planet system as the planet orbits its star. In this graph, known as a light curve, the horizontal plane is orbital location and the vertical axis is brightness. (Bottom) Color scale bar. In both the orbital diagram and the light curve, brightness is color-coded from blue (least amount of light detected) to red (most light detected).&nbsp;</p>\n<p>Researchers will use Webb’s Mid-Infrared Instrument (MIRI) to measure the brightness of different wavelengths of mid-infrared light as exoplanet GJ 1214 b completes one full orbit around its star. Although Webb will not be able to observe the planet directly on its own – the star is too bright and the planet too close to see separately – it is sensitive enough to measure very subtle changes in the total amount of light from the star and planet together, as the planet moves.</p>\n<p>Because it is so close to its star, GJ 1214 b is thought to be tidally locked: One side of the planet faces toward the star at all times and is permanently lit, while the other side faces away in permanent darkness. As a result, the day side of the planet is expected to be significantly hotter, emitting more infrared light than the night side. However, the detailed difference in temperature with longitude depends on how much the atmosphere reflects or absorbs starlight, how well it retains heat, and how it moves heat from one side of the planet to the other. This in turn depends on the composition of the atmosphere. (A water steam atmosphere, for example, would transport a very different amount of heat to the night side than an atmosphere dominated by hydrogen.) Researchers will use the mid-infrared phase curve of GJ 1214 b to map the temperature of the planet by longitude, and then use that information to narrow down possible atmospheric characteristics.&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      17,
+      15,
+      19
+    ],
+    "dec_position": [
+      4,
+      57,
+      38
+    ]
+  },
+  {
+    "title": "Debris Disk Around Star Beta Pictoris (Hubble)",
+    "file": "data/exoplanets/cards_html/75.html",
+    "release_date": "July 21, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G6EQT0882MH3SW2VBP65WM32.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A debris disk, which includes comets, asteroids, rocks of various sizes, and plenty of dust, orbits the star Beta Pictoris, which is blocked at the center of this 2012 image by a coronagraph aboard the Hubble Space Telescope. This is the visible-light view of the system. NASA’s James Webb Space Telescope will view Beta Pictoris in infrared light, both using its coronagraphs and capturing data known as spectra to allow researchers to learn significantly more about the gas and dust in the debris disk, which includes lots of smaller bodies like exocomets.</p>",
+    "ra_position": [
+      5,
+      47,
+      17
+    ],
+    "dec_position": [
+      -51,
+      3,
+      59
+    ]
+  },
+  {
+    "title": "HR 8799 Exoplanet System (Hubble)",
+    "file": "data/exoplanets/cards_html/78.html",
+    "release_date": "April 21, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01F3NVA9NX8F9D08N0K3E2HB65.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Left: This is an image of the star HR 8799 taken by Hubble's Near Infrared Camera and Multi-Object Spectrometer (NICMOS) in 1998. A mask within the camera (coronagraph) blocks most of the light from the star. Astronomers also used software to digitally subtract more starlight. Nevertheless, scattered light from HR 8799 dominates the image, obscuring the four faint planets. The exoplanets were discovered in 2007, 2008, and 2010 in near-infrared ground-based images taken with the W.M. Keck Observatory in Hawaii and the Gemini North telescope in Chile. The system is 133 light-years from Earth.</p>\n<p>Right: A re-analysis of NICMOS data in 2011 uncovered three of the exoplanets, which were not seen in the 1998 images. Sophisticated software processing of the NICMOS data removes most of the scattered starlight to reveal the three planets orbiting HR 8799. Astronomers used this decade-old image to calculate the planets’ orbits. The fourth, innermost planet cannot be seen because it is on the edge of the NICMOS coronagraphic spot that blocks the light from the central star.&nbsp;</p>\n<p>Webb will probe the planets’ atmospheres at infrared wavelengths astronomers have rarely used to image distant worlds. Webb will also hunt for other distant worlds — possibly down to Saturn-size — on the outskirts of planetary systems that cannot be detected with ground-based telescopes.</p>",
+    "ra_position": [
+      23,
+      7,
+      28
+    ],
+    "dec_position": [
+      21,
+      8,
+      3
+    ]
+  },
+  {
+    "title": "Warm Gas-Giant Exoplanet WASP-107 b (Artist's Concept)",
+    "file": "data/exoplanets/cards_html/8.html",
+    "release_date": "May 20, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HXW1XP60CX3KMVDRRHZBAYH8.jpg",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This artist’s concept shows what the exoplanet WASP-107 b could look like based on recent data gathered by NASA’s James Webb Space Telescope, along with <a href=\"https://exoplanetarchive.ipac.caltech.edu/overview/WASP-107%20b#planet_WASP-107-b_collapsible\">previous observations</a> from Hubble and other space- and ground-based telescopes. &nbsp;</p>\n<p>WASP-107 b is a “warm Neptune” exoplanet orbiting a relatively small and cool star approximately 210 light-years from Earth, in the constellation Virgo. The planet is about 80% the size of Jupiter in terms of volume, but has a mass less than 10% of Jupiter, making it one of the least dense exoplanets known. &nbsp;</p>\n<p>WASP-107 b orbits its star at a distance of about 5 million miles (0.055 astronomical units, or AU), completing one circuit in 5.72 days. The planet is tidally locked: It rotates at the same rate that it orbits the star, which means that one side is permanently lit, with the other in continuous darkness, with no day-night cycle. The orbit of WASP-107 b is slightly elliptical, which means that the gravitational pull between the star and planet changes continuously as the planet moves toward and away from the star during its orbit.</p>\n<p>Observations of 0.8- to 12-micron infrared light captured by Hubble’s WFC3 (Wide Field Camera 3), and Webb’s NIRCam (Near-Infrared Camera), NIRSpec (Near-Infrared Spectrograph), and MIRI (Mid-Infrared Instrument), suggest that the planet has a relatively large core surrounded by a relatively small mass of hydrogen and helium gas, which has been inflated due to tidal heating of the interior.</p>\n<p>WASP-107 b has not been directly imaged by any telescope.</p>",
+    "ra_position": [
+      12,
+      33,
+      32
+    ],
+    "dec_position": [
+      -10,
+      8,
+      46
+    ]
+  },
+  {
+    "title": "Exoplanet 51 Eridani b (Gemini)",
+    "file": "data/exoplanets/cards_html/80.html",
+    "release_date": "April 21, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01F3NWCCAVBVCD6C6YZ9X6ZZTT.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This discovery image of a Jupiter-sized extrasolar planet orbiting the nearby star 51 Eridani was taken in near-infrared light in 2014 by the Gemini Planet Imager. The bright central star is hidden behind a mask in the center of the image to enable the detection of the exoplanet, which is 1 million times fainter than 51 Eridani. The exoplanet is on the outskirts of the planetary system 11 billion miles from its star. Its distance is equivalent to a location between the orbits of Neptune and Saturn in our solar system. The 51 Eridani system is 96 light-years from Earth.</p>\n<p>Webb will probe the planet’s atmosphere at infrared wavelengths astronomers have rarely used to image distant worlds. Webb will also hunt for other distant worlds — possibly down to Saturn-size — on the outskirts of planetary systems that cannot be detected with ground-based telescopes.</p>",
+    "ra_position": [
+      4,
+      37,
+      36
+    ],
+    "dec_position": [
+      -2,
+      28,
+      24
+    ]
+  },
+  {
+    "title": "Protoplanetary Disk Around  Dwarf Star PDS 70 (VLT)",
+    "file": "data/exoplanets/cards_html/82.html",
+    "release_date": "December 16, 2020 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSSSYVNJ2YSVZSBPWT3AB1X.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>PDS 70 is approximately 370 light-years away and features a large gap in its inner ring. The European Southern Observatory's Very Large Telescope provided the first clear image of a planet forming around the central star in 2018. The planet is a bright point to the right of the center of the image. The central star is black since its light was blocked by an instrument known as a coronagraph. A second planet has also been detected. This system is a future target of NASA’s James Webb Space Telescope.</p>",
+    "ra_position": [
+      14,
+      8,
+      10
+    ],
+    "dec_position": [
+      -41,
+      23,
+      52
+    ]
+  },
+  {
+    "title": "Four Proplyds in the Orion Nebula (Hubble)",
+    "file": "data/exoplanets/cards_html/85.html",
+    "release_date": "April 30, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSTH13NZRC6WTETFGJBWES1.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>These are Hubble Space Telescope images of four protoplanetary disks around young stars in the Orion Nebula, approximately 1,300 light-years away. The disks range in size from two to eight times the diameter of our solar system. Astronomers spotted the disks in large-scale survey images of the Orion nebula taken with Hubble between January 1994 and March 1995.</p>",
+    "ra_position": [
+      5,
+      35,
+      17
+    ],
+    "dec_position": [
+      -5,
+      23,
+      27
+    ]
+  },
+  {
+    "title": "Circumstellar Disk Around HR 4796A (Hubble)",
+    "file": "data/exoplanets/cards_html/89.html",
+    "release_date": "May 29, 2019 1:00PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSVHP1AKMEFXR143ZH6JR7V.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>One of the targets Webb will study is the well-known, giant ring of dust and planetesimals orbiting a young star called HR 4796A. This Hubble Space Telescope photo shows a vast, complex dust structure, about 150 billion miles across, enveloping the young star HR 4796A. (The light from HR 4796A and its binary companion, HR 4796B, have been blocked to reveal the much dimmer dust structure.) A bright, narrow inner ring of dust encircling the star may have been corralled by the gravitational pull of an unseen giant planet.</p>",
+    "ra_position": [
+      12,
+      36,
+      1
+    ],
+    "dec_position": [
+      -39,
+      52,
+      10
+    ]
+  },
+  {
+    "title": "Warm Gas-Giant Exoplanet WASP-107 b Transmission Spectrum (Hubble WFC3, Webb NIRCam, Webb MIRI)",
+    "file": "data/exoplanets/cards_html/9.html",
+    "release_date": "May 20, 2024 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HY3F8MQM090332CBRTR17PK0.png",
+    "category": "exoplanets",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This transmission spectrum, captured using NASA’s Hubble and James Webb space telescopes, shows the amounts of different wavelengths (colors) of starlight blocked by the atmosphere of the gas-giant exoplanet <a href=\"https://webbtelescope.org/contents/media/images/2024/113/01HXW1X526F5TRNHCSMX41YCNA\">WASP-107 b</a>.</p>\n<p>The spectrum includes light collected over five separate observations using a total of three different instruments: Hubble’s WFC3 (0.8–1.6 microns), Webb’s NIRCam (2.4–4.0 microns and 3.9–5.0 microns), and Webb’s MIRI (5–12 microns). Each set of measurements was made by observing the planet-star system for about 10 hours before, during, and after the transit as the planet moved across the face of the star. &nbsp;</p>\n<p>By comparing the brightness of light filtered through the planet’s atmosphere (transmitted light) to unfiltered starlight, it is possible to calculate the amount of each wavelength that is blocked by the atmosphere. Since each molecule absorbs a unique combination of wavelengths, the transmission spectrum can be used to constrain the abundance of various gases.</p>\n<p>This spectrum shows clear evidence for water (H<sub>2</sub>O), carbon dioxide (CO<sub>2</sub>), carbon monoxide (CO), methane (CH<sub>4</sub>), sulfur dioxide (SO<sub>2</sub>), and ammonia (NH<sub>3</sub>) in the planet’s atmosphere, allowing researchers to estimate the interior temperature and mass of the core.</p>\n<p>This wavelength coverage from optical to mid-infrared is the broadest of any exoplanet transmission spectrum to date, and includes the first reported space telescope detection of ammonia in an exoplanet atmosphere.</p>\n<p>&nbsp;</p>",
+    "ra_position": [
+      12,
+      33,
+      32
+    ],
+    "dec_position": [
+      -10,
+      8,
+      46
+    ]
+  }
+]
