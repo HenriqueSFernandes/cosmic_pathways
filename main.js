@@ -14,7 +14,7 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 // Instantiate the AudioHandler
-const audioHandler = new AudioHandler(camera, "../sound/galaxy_2.mp3");
+window.addEventListener('click', ()=> {new AudioHandler(camera, "../sound/galaxy_2.mp3")})
 
 const geometry = new THREE.BoxGeometry(1, 1, 1);
 const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });

@@ -25,10 +25,9 @@ export default class AudioHandler {
         this.sound.setVolume(this.volume);
 
         console.log("Audio loaded and playing.");
-        this.playSound();
 
         // Add a 1-second delay for background sound function
-        setTimeout(() => this.sound_bckg(), 1000);
+        this.sound_bckg();
       },
       undefined,
       (err) => {
@@ -53,9 +52,13 @@ export default class AudioHandler {
         .then(() => {
           this.playSound(); // Play sound after resuming
         });
+
+      // Example of using setTimeout to change window location
+      setTimeout(() => {
+        window.location.href = "../views/solar.html"; // Ensure correct property name
+      }, 5000); // Change to your desired URL and time
     } else {
       this.playSound(); // Play sound if AudioContext is active
     }
   }
 }
-
