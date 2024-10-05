@@ -1,0 +1,1316 @@
+[
+  {
+    "title": "Digel Cloud 2S",
+    "file": "data/nebulas/cards_html/0.html",
+    "release_date": "September 12, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J5NSEJTP6AWGVE845JMY21KT.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope observed the outskirts of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located more than 58,000 light-years from the Galactic Center.</p>\n<p>To learn more about how a local environment affects the star formation process within it, a team of scientists directed the telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) toward a total of four star-forming areas within Digel Clouds 1 and 2: 1A, 1B, 2N, and 2S.</p>\n<p>In the case of Cloud 2S, shown here, Webb revealed a luminous main cluster that contains newly formed stars. Several of these young stars are emitting extended jets of material from their poles. To the main cluster’s top right is a sub-cluster of stars, a feature that scientists previously suspected to exist but has now been confirmed with Webb. Additionally, the telescope revealed a deep sea of background galaxies and red nebulous structures that are being carved away by winds and radiation from nearby stars.</p>",
+    "ra_position": [
+      2,
+      48,
+      28
+    ],
+    "dec_position": [
+      58,
+      23,
+      29
+    ]
+  },
+  {
+    "title": "Digel Cloud 2S (Compass Image)",
+    "file": "data/nebulas/cards_html/1.html",
+    "release_date": "September 12, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J5ZYBMQPJCSQT38NP8GGX8N8.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Annotated image of Digel Cloud 2S captured by Webb's NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), with compass arrows, a scale bar, color key, and graphic overlays for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years and arcseconds. One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. One arcsecond is equal to 1/3600 of one degree of arc. (The full Moon has an angular diameter of about 0.5 degrees.) The actual size of an object that covers one arcsecond on the sky depends on its distance from the telescope.</p>\n<p>This image shows invisible near- and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p>In the main cluster are five white arrows, which highlight the paths of five protostar jets.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/131/01J5NSECSVDPZ6XWKM5M38MPDK\">Read the full image caption.</a></p>",
+    "ra_position": [
+      2,
+      48,
+      28
+    ],
+    "dec_position": [
+      58,
+      23,
+      29
+    ]
+  },
+  {
+    "title": "Horsehead Nebula (NIRCam Image)",
+    "file": "data/nebulas/cards_html/10.html",
+    "release_date": "April 29, 2024 5:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HV4BDR9C8MNJGJNS9TNE78YX.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Horsehead Nebula from NASA’s James Webb Space Telescope focuses on a portion of the horse’s “mane” that is about 0.8 light-years in width. It was taken with Webb’s NIRCam (Near-infrared Camera). The ethereal clouds that appear blue at the bottom of the image are filled with a variety of materials including hydrogen, methane, and water ice. Red-colored wisps extending above the main nebula represent both atomic and molecular hydrogen. In this area, known as a photodissociation region, ultraviolet light from nearby young, massive stars creates a mostly neutral, warm area of gas and dust between the fully ionized gas above and the nebula below. As with many Webb images, distant galaxies are sprinkled in the background.</p>\n<p>This image is composed of light at wavelengths of 1.4 and 2.5 microns (represented in blue), 3.0 and 3.23 microns (cyan), 3.35 microns (green), 4.3 microns (yellow), and 4.7 and 4.05 microns (red).</p>",
+    "ra_position": [
+      5,
+      40,
+      52
+    ],
+    "dec_position": [
+      -2,
+      28,
+      47
+    ]
+  },
+  {
+    "title": "Horsehead Nebula (MIRI Image)",
+    "file": "data/nebulas/cards_html/11.html",
+    "release_date": "April 29, 2024 5:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HWDBW8X37TMQKWGY532CFS7E.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Horsehead Nebula from NASA’s James Webb Space Telescope focuses on a portion of the horse’s “mane.” It was taken with Webb’s MIRI (Mid-Infrared Instrument). Mid-infrared light captures the glow of substances like dusty silicates and soot-like molecules called polycyclic aromatic hydrocarbons.</p>\n<p>In this image, blue represents light at wavelengths of 5.6, 7.7, and 10 microns; green is 11, 12, and 15 microns; and red is 18, 21, and 25 microns.</p>",
+    "ra_position": [
+      5,
+      40,
+      52
+    ],
+    "dec_position": [
+      -2,
+      28,
+      47
+    ]
+  },
+  {
+    "title": "Horsehead Nebula (Euclid, Hubble and Webb Images)",
+    "file": "data/nebulas/cards_html/12.html",
+    "release_date": "April 29, 2024 5:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HV6MQ5QQ6GBYANM6GV7YWYK5.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image showcases three views of one of the most distinctive objects in our skies, the Horsehead Nebula. The first image (left), released in November 2023, features the Horsehead Nebula as seen in visible light by ESA’s Euclid telescope, which has contributions from NASA. The second image (middle) shows a view of the Horsehead Nebula in near-infrared light from NASA’s Hubble Space Telescope, which was featured as the telescope’s 23rd <a href=\"https://hubblesite.org/contents/news-releases/2013/news-2013-12.html\">anniversary image</a> in 2013. This image reveals a beautiful, delicate structure that is normally obscured by dust. The third image (right) features a new view of the Horsehead Nebula from NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera) instrument.</p>",
+    "ra_position": [
+      5,
+      40,
+      52
+    ],
+    "dec_position": [
+      -2,
+      28,
+      47
+    ]
+  },
+  {
+    "title": "NGC 604 (NIRCam Image)",
+    "file": "data/nebulas/cards_html/14.html",
+    "release_date": "March 09, 2024 3:30PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HQNV4QZ16BPB3TBEVMYS3G7N.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera) of star-forming region NGC 604 shows how stellar winds from bright, hot young stars carve out cavities in surrounding gas and dust.</p>\n<p>The bright orange streaks in this image signify the presence of carbon-based molecules known as polycyclic aromatic hydrocarbons, or PAHs. As you travel further from the immediate cavities of dust where the star is forming, the deeper red signifies molecular hydrogen. This cooler gas is a prime environment for star formation. Hydrogen ionized by ultraviolet radiation appears as a white and blue ghostly glow.</p>\n<p>NGC 604 is located in the Triangulum galaxy (M33), 2.73 million light-years away from Earth. It provides an opportunity for astronomers to study a high concentration of very young, massive stars in a relatively nearby region.</p>",
+    "ra_position": [
+      1,
+      34,
+      33
+    ],
+    "dec_position": [
+      30,
+      46,
+      59
+    ]
+  },
+  {
+    "title": "NGC 604 (MIRI Image)",
+    "file": "data/nebulas/cards_html/15.html",
+    "release_date": "March 09, 2024 3:30PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HQP6HC5D1NMKD35BAC1VM8AW.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from NASA’s James Webb Space Telescope’s MIRI (Mid-Infrared Instrument) of star-forming region NGC 604 shows how large clouds of cooler gas and dust glow in mid-infrared wavelengths. This region is a hotbed of star formation and home to more than 200 of the hottest, most massive kinds of stars, all in the early stages of their lives.</p>\n<p>In the MIRI view of NGC 604, there are noticeably fewer stars than <a href=\"https://webbtelescope.org/contents/media/images/2024/110/01HQNV4GP6PR6E7ZSJXRRBQQDS\" target=\"_blank\" rel=\"noopener\">Webb’s NIRCam image</a>. This is because hot stars emit much less light at these wavelengths. Some of the stars seen in this image are red supergiants—stars that are cool but very large, hundreds of times the diameter of our Sun. The blue tendrils of material signify the presence of polycyclic aromatic hydrocarbons, or PAHs.</p>",
+    "ra_position": [
+      1,
+      34,
+      33
+    ],
+    "dec_position": [
+      30,
+      46,
+      59
+    ]
+  },
+  {
+    "title": "NGC 604 (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/16.html",
+    "release_date": "March 09, 2024 3:30PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HQP7771P4QR3Q3DNT1Q90ZTV.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the NGC 604, captured by Webb’s NIRCam (Near-Infrared Camera) shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky.</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 3 years for light to travel a distance equal to the length of the scale bar). One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/110/01HQNV4GP6PR6E7ZSJXRRBQQDS\">Read the full image caption.</a></p>",
+    "ra_position": [
+      1,
+      34,
+      33
+    ],
+    "dec_position": [
+      30,
+      46,
+      59
+    ]
+  },
+  {
+    "title": "IC 348 (NIRCam Image)",
+    "file": "data/nebulas/cards_html/18.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFC83QXT6N4MRJ1RS4D5KFJS.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the NIRCam (Near-Infrared Camera) instrument on NASA’s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter. The smallest weighs just three to four times Jupiter, challenging theories for star formation.</p>\n<p>The wispy curtains filling the image are interstellar material reflecting the light from the cluster’s stars – what is known as a reflection nebula. The material also includes carbon-containing molecules known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the center of the frame is actually a pair of type B stars in a binary system, which are the most massive stars in the cluster. Winds from these stars may help sculpt the large loop seen on the right side of the field of view.</p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "Brown Dwarfs in IC 348 (NIRCam Image)",
+    "file": "data/nebulas/cards_html/19.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFCA1BS7CYFW4Z9KFH9KCYTW.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the NIRCam (Near-Infrared Camera) instrument on NASA’s James Webb Space Telescope shows the central portion of the star cluster IC 348. Astronomers combed the cluster in search of tiny, free-floating brown dwarfs: objects too small to be stars but larger than most planets. They found three brown dwarfs that are less than eight times the mass of Jupiter, which are circled in the main image and shown in the detailed pullouts at right. The smallest weighs just three to four times Jupiter, challenging theories for star formation.</p>\n<p>The wispy curtains filling the image are interstellar material reflecting the light from the cluster’s stars – what is known as a reflection nebula. The material also includes carbon-containing molecules known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the center of the frame is actually a pair of type B stars in a binary system, which are the most massive stars in the cluster. Winds from these stars may help sculpt the large loop seen on the right side of the field of view.</p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "IC 348 (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/20.html",
+    "release_date": "December 13, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HFCAD4MGT3V6AS2XBM0FSX1J.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of star cluster IC 348, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.1 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 0.5 light-years across and 0.8 light-years high.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/151/01HFC82GPW3B8RPAJ3VWXJEAHZ\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a></p>",
+    "ra_position": [
+      3,
+      44,
+      34
+    ],
+    "dec_position": [
+      32,
+      9,
+      43
+    ]
+  },
+  {
+    "title": "Cassiopeia A (NIRCam Image)",
+    "file": "data/nebulas/cards_html/21.html",
+    "release_date": "December 10, 2023 8:00PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HGGZ53NN6J3N8R0EXPG1VH6W.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A new high-definition image from NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera) unveils intricate details of supernova remnant Cassiopeia A (Cas A), and shows the expanding shell of material slamming into the gas shed by the star before it exploded.</p>\n<p>The most noticeable colors in Webb’s newest image are clumps of bright orange and light pink that make up the inner shell of the supernova remnant. These tiny knots of gas, comprised of sulfur, oxygen, argon, and neon from the star itself, are only detectable by NIRCam’s exquisite resolution, and give researchers a hint at how the dying star shattered like glass when it exploded.</p>\n<p>The outskirts of the main inner shell looks like smoke from a campfire. This marks where ejected material from the exploded star is ramming into surrounding circumstellar material. Researchers say this white color is light from synchrotron radiation, which is generated by charged particles traveling at extremely high speeds spiraling around magnetic field lines.</p>\n<p>There are also several light echoes visible in this image, most notably in the bottom right corner. This is where light from the star’s long-ago explosion has reached, and is warming distant dust, which is glowing as it cools down.</p>",
+    "ra_position": [
+      23,
+      23,
+      24
+    ],
+    "dec_position": [
+      58,
+      48,
+      54
+    ]
+  },
+  {
+    "title": "Cassiopeia A (NIRCam and MIRI side by side)",
+    "file": "data/nebulas/cards_html/22.html",
+    "release_date": "December 10, 2023 8:00PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HGH0BFAX3GVZ2T22TKPWWEBD.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image provides a side-by-side comparison of supernova remnant Cassiopeia A (Cas A) as captured by NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument).</p>\n<p>At first glance, Webb’s NIRCam image appears less colorful than the MIRI image overall, however, this is only due to the wavelengths in which the material from the object is emitting its light. The NIRCam image appears a bit sharper than the MIRI image due to its increased resolution.</p>\n<p>The outskirts of the main inner shell, which appeared as a deep orange and red in the MIRI image, looks like smoke from a campfire in the NIRCam image. This marks where the supernova blast wave is ramming into surrounding circumstellar material. The dust in the circumstellar material is too cool to be detected directly at near-infrared wavelengths, but lights up in the mid-infrared.</p>\n<p>Also not seen in the near-infrared view is the loop of green light in the central cavity of Cas A that glowed in mid-infrared, nicknamed the Green Monster by the research team. The circular holes visible in the MIRI image within the Green Monster, however, are faintly outlined in white and purple emission in the NIRCam image.</p>",
+    "ra_position": [
+      23,
+      23,
+      24
+    ],
+    "dec_position": [
+      58,
+      48,
+      54
+    ]
+  },
+  {
+    "title": "Cassiopeia A (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/23.html",
+    "release_date": "December 10, 2023 8:00PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HGH0STMD0B5SX3NHKRCJ53X5.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Cassiopeia A supernova remnant, captured by Webb’s NIRCam (Near-Infrared Camera) shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky.</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 3 years for light to travel a distance equal to the length of the scale bar). One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/149/01HGGZ4TPD8XFNPCBTZ2QYM0ZM\">Read the full image caption.</a></p>",
+    "ra_position": [
+      23,
+      23,
+      24
+    ],
+    "dec_position": [
+      58,
+      48,
+      54
+    ]
+  },
+  {
+    "title": "Crab Nebula (NIRCam and MIRI Image)",
+    "file": "data/nebulas/cards_html/24.html",
+    "release_date": "October 30, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HBBMDW8B4A90QZ64RGQJHRV1.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has gazed at the Crab Nebula in the search for answers about the supernova remnant’s origins. Webb’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) have revealed new details in infrared light.</p>\n<p>Similar to the Hubble optical wavelength image released in 2005, with Webb the remnant appears comprised of a crisp, cage-like structure of fluffy red-orange filaments of gas that trace doubly ionized sulfur (sulfur III). Among the remnant’s interior, yellow-white and green fluffy ridges form large-scale loop-like structures, which represent areas where dust particles reside.</p>\n<p>The area within is comprised of translucent, milky material. This white material is synchrotron radiation, which is emitted across the electromagnetic spectrum but becomes particularly vibrant thanks to Webb’s sensitivity and spatial resolution. It is generated by particles accelerated to extremely high speeds as they wind around magnetic field lines. Trace the synchrotron radiation throughout the majority of the Crab Nebula’s interior.</p>\n<p>Locate the wisps that follow a ripple-like pattern in the middle. In the center of this ring-like structure is a bright white dot: a rapidly rotating neutron star. Further out from the core, follow the thin white ribbons of the radiation. The curvy wisps are closely grouped together, following different directions that mimic the structure of the pulsar’s magnetic field. Note how certain gas filaments are bluer in color. These areas contain singly ionized iron (iron II).</p>",
+    "ra_position": [
+      5,
+      34,
+      32
+    ],
+    "dec_position": [
+      22,
+      0,
+      52
+    ]
+  },
+  {
+    "title": "Crab Nebula (Webb and Hubble Comparison)",
+    "file": "data/nebulas/cards_html/25.html",
+    "release_date": "October 30, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HBXSJ8AQENKP48XBHYJVHWJV.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A side-by-side comparison of the Crab Nebula as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right). The Hubble image was released in 2005, while astronomers have recently used Webb’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) to reveal new details of the Crab Nebula.</p>\n<p>In the Hubble image, orange filaments consisting mostly of hydrogen form a crisp, cage-like exterior shell. Blue mottled filaments toward the outer part of the Crab contain neutral oxygen, while singly-ionized sulfur and doubly-ionized sulfur form fluffy red and green material. The bright glow in the interior’s center highlights the nebula’s pulsar, a rapidly rotating neutron star.</p>\n<p>Similar to the Hubble optical image, Webb’s infrared capabilities show the supernova remnant’s crisp, cage-like structure of fluffy red-orange filaments of gas that trace doubly ionized sulfur. Among the remnant’s interior, yellow-white and green fluffy ridges form large-scale loop-like structures, which represent areas where dust particles reside. The central area within is comprised of translucent, milky material. This white material is synchrotron radiation, which is emitted across the electromagnetic spectrum but becomes particularly vibrant thanks to Webb’s sensitivity and spatial resolution. It is generated by particles accelerated to extremely high speeds as they wind around magnetic field lines. In the center of this ring-like structure is a bright white dot: the nebula’s pulsar. Note how certain gas filaments are bluer in color. These areas contain singly ionized iron.</p>\n<p>By studying Webb data and consulting previous observations of the remnant taken by other telescopes, like Hubble, astronomers can improve their understanding of the Crab Nebula as well as broaden their knowledge on the life and death of stars.</p>\n<p>Hubble Image: NASA, ESA, J. Hester, A. Loll (Arizona State University); Webb Image: NASA, ESA, CSA, STScI, T. Temim (Princeton University).</p>",
+    "ra_position": [
+      5,
+      34,
+      32
+    ],
+    "dec_position": [
+      22,
+      0,
+      52
+    ]
+  },
+  {
+    "title": "Crab Nebula (NIRCam and MIRI Compass Image)",
+    "file": "data/nebulas/cards_html/26.html",
+    "release_date": "October 30, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HDPQCA8R1SD8CY8FH7CE3NZM.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Crab Nebula captured by Webb’s NIRCam and MIRI, with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 10 light-years across.&nbsp;</p>\n<p>This image shows invisible near-infrared and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/137/01HBBMDH12APPEGB8DXVVEP8XA\">Read the full image caption.</a></p>",
+    "ra_position": [
+      5,
+      34,
+      32
+    ],
+    "dec_position": [
+      22,
+      0,
+      52
+    ]
+  },
+  {
+    "title": "NGC 346 (MIRI Image)",
+    "file": "data/nebulas/cards_html/27.html",
+    "release_date": "October 10, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HBVHYACKXBP5Y9R50MAEQYKR.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This new infrared image of NGC 346 from NASA’s James Webb Space Telescope’s Mid-Infrared Instrument (MIRI) traces emission from cool gas and dust. In this image blue represents silicates and sooty chemical molecules known as polycyclic aromatic hydrocarbons, or PAHs. More diffuse red emission shines from warm dust heated by the brightest and most massive stars in the heart of the region. Bright patches and filaments mark areas with abundant numbers of <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8defd830-8923-41ce-86bf-e6fa53e2b3af\">protostars</a>. This image includes 7.7-micron light shown in blue, 10 microns in cyan, 11.3 microns in green, 15 microns in yellow, and 21 microns in red (770W, 1000W, 1130W, 1500W, and 2100W filters, respectively).</p>",
+    "ra_position": [
+      0,
+      59,
+      4
+    ],
+    "dec_position": [
+      -72,
+      10,
+      9
+    ]
+  },
+  {
+    "title": "NGC 346 (MIRI Compass Image)",
+    "file": "data/nebulas/cards_html/28.html",
+    "release_date": "October 10, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HBVHA0F85PBPGYDYE0D4RSNG.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of NGC 346, captured by Webb’s Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 200 light-years across.</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/145/01HBVF32473WERVA8Y2XVE6446\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      59,
+      4
+    ],
+    "dec_position": [
+      -72,
+      10,
+      9
+    ]
+  },
+  {
+    "title": "Supernova 1987A (NIRCam Image)",
+    "file": "data/nebulas/cards_html/29.html",
+    "release_date": "August 31, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H8Q0314JZ8C08QGG70FDMH4F.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Webb’s NIRCam (Near-Infrared Camera) captured this detailed image of SN 1987A (Supernova 1987A). At the center, material ejected from the supernova forms a keyhole shape. Just to its left and right are faint crescents newly discovered by Webb. Beyond them an equatorial ring, formed from material ejected tens of thousands of years before the supernova explosion, contains bright hot spots. Exterior to that is diffuse emission and two faint outer rings. In this image blue represents light at 1.5 microns (F150W), cyan 1.64 and 2.0 microns (F164N, F200W), yellow 3.23 microns (F323N), orange 4.05 microns (F405N), and red 4.44 microns (F444W).</p>",
+    "ra_position": [
+      5,
+      35,
+      28
+    ],
+    "dec_position": [
+      -69,
+      16,
+      11
+    ]
+  },
+  {
+    "title": "Supernova 1987A (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/30.html",
+    "release_date": "August 31, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H8Q0Z0JYESHXYHASM5MM94EH.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Webb’s NIRCam (Near-Infrared Camera) captured this detailed image of SN 1987A (Supernova 1987A), which has been annotated to highlight key structures. At the center, material ejected from the supernova forms a keyhole shape. Just to its left and right are faint crescents newly discovered by Webb. Beyond them an equatorial ring, formed from material ejected tens of thousands of years before the supernova explosion, contains bright hot spots. Exterior to that is diffuse emission and two faint outer rings. In this image blue represents light at 1.5 microns (F150W), cyan 1.64 and 2.0 microns (F164N, F200W), yellow 3.23 microns (F323N), orange 4.05 microns (F405N), and red 4.44 microns (F444W).</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/136/01H8Q02S452MC9CAF0VSJ3ZTFX\">Read the full image caption.</a></p>",
+    "ra_position": [
+      5,
+      35,
+      28
+    ],
+    "dec_position": [
+      -69,
+      16,
+      11
+    ]
+  },
+  {
+    "title": "Ring Nebula (NIRCam Image)",
+    "file": "data/nebulas/cards_html/31.html",
+    "release_date": "August 21, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H82G1P61JMNCENZ6S3D6AGHQ.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has observed the well-known Ring Nebula in unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8f7896b3-d793-44f8-b363-38da364a1d70\">planetary nebula</a>. Also known as M57 and NGC 6720, it is relatively close to Earth at roughly 2,500 light-years away.</p>\n<p>This new image from Webb’s NIRCam (Near-Infrared Camera) provides unprecedented spatial resolution and spectral sensitivity. For example, the intricate details of the filament structure of the inner ring are particularly visible in this dataset.</p>\n<p>There are some 20,000 dense globules in the nebula, which are rich in molecular hydrogen. In contrast, the inner region shows very hot gas. The main shell contains a thin ring of enhanced emission from carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly ten concentric arcs are located just beyond the outer edge of the main ring. The arcs are thought to originate from the interaction of the central star with a low-mass companion orbiting at a distance comparable to that between the Earth and Pluto. In this way, nebulae like the Ring Nebula reveal a kind of astronomical archaeology, as astronomers study the nebula to learn about the star that created it.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-reveals-intricate-details-in-the-remains-of-a-dying-star\">Read the story.</a></p>",
+    "ra_position": [
+      18,
+      53,
+      35
+    ],
+    "dec_position": [
+      33,
+      1,
+      45
+    ]
+  },
+  {
+    "title": "Ring Nebula (MIRI image)",
+    "file": "data/nebulas/cards_html/32.html",
+    "release_date": "August 21, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H82PFHGYX6VBJXTWJJJKV0YJ.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has observed the well-known Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers as it runs out of fuel, the Ring Nebula is an archetypal <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8f7896b3-d793-44f8-b363-38da364a1d70\">planetary nebula</a>. Also known as M57 and NGC 6720, it is relatively close to Earth at roughly 2,500 light-years away.</p>\n<p>This new image provides unprecedented spatial resolution and spectral sensitivity. In particular, Webb’s MIRI (Mid-InfraRed Instrument) reveals particular details in the concentric features in the outer regions of the nebulae’s ring.</p>\n<p>There are some 20,000 dense globules in the nebula, which are rich in molecular hydrogen. In contrast, the inner region shows very hot gas. The main shell contains a thin ring of enhanced emission from carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly ten concentric arcs located just beyond the outer edge of the main ring. The arcs are thought to originate from the interaction of the central star with a low-mass companion orbiting at a distance comparable to that between the Earth and Pluto. In this way, nebulae like the Ring Nebula reveal a kind of astronomical archaeology, as astronomers study the nebula to learn about the star that created it.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-reveals-intricate-details-in-the-remains-of-a-dying-star\">Read the story.</a></p>",
+    "ra_position": [
+      18,
+      53,
+      35
+    ],
+    "dec_position": [
+      33,
+      1,
+      45
+    ]
+  },
+  {
+    "title": "Rho Ophiuchi (NIRCam Image)",
+    "file": "data/nebulas/cards_html/33.html",
+    "release_date": "July 12, 2023 6:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H4491MFFYDF52V1ZATNMCAAK.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The first anniversary image from NASA’s James Webb Space Telescope displays star birth like it’s never been seen before, full of detailed, impressionistic texture. The subject is the Rho Ophiuchi cloud complex, the closest star-forming region to Earth. It is a relatively small, quiet stellar nursery, but you’d never know it from Webb’s chaotic close-up. Jets bursting from young stars crisscross the image, impacting the surrounding interstellar gas and lighting up molecular hydrogen, shown in red. Some stars display the telltale shadow of a circumstellar disk, the makings of future planetary systems.&nbsp;</p>\n<p>The young stars at the center of many of these disks are similar in mass to the Sun, or smaller. The heftiest in this image is the star S1, which appears amid a glowing cave it is carving out with its stellar winds in the lower half of the image. The lighter-colored gas surrounding S1 consists of <a href=\"https://www.nasa.gov/feature/ames/tiny-dust-could-yield-big-answers-under-webb-telescope-s-gaze\" target=\"_blank\" rel=\"noopener\">polycyclic aromatic hydrocarbons</a>, a family of carbon-based molecules that are among the most common compounds found in space.&nbsp;</p>\n<p>For more detail on what is happening where in Webb’s image of Rho Ophiuchi, watch the <a href=\"https://webbtelescope.org/contents/media/videos/2023/128/01H4YM4EH20F6ZX6M7EWDE9RSN\">video tour</a> and read the <a href=\"https://webbtelescope.org/contents/news-releases/2023/news-2023-128\">press release</a>.</p>",
+    "ra_position": [
+      16,
+      26,
+      30
+    ],
+    "dec_position": [
+      -24,
+      23,
+      4
+    ]
+  },
+  {
+    "title": "Rho Ophiuchi (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/34.html",
+    "release_date": "July 12, 2023 6:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H44B00KFR08M0M7ZETM74WYH.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of star formation in the Rho Ophiuchi cloud complex, with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The color key shows which filters from Webb’s NIRCam (Near-Infrared Camera) instrument were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/128/01H449193V5Q4Q6GFBKXAZ3S03\">Read the full image caption.</a></p>",
+    "ra_position": [
+      16,
+      26,
+      30
+    ],
+    "dec_position": [
+      -24,
+      23,
+      4
+    ]
+  },
+  {
+    "title": "Orion Bar (NIRCam Image)\n ",
+    "file": "data/nebulas/cards_html/36.html",
+    "release_date": "June 26, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H2TX6BJ4XM4XDKF07NYST1PQ.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image taken by Webb’s NIRCam (Near-Infrared Camera) shows a part of the Orion Nebula known as the Orion Bar. It is a region where energetic ultraviolet light from the Trapezium Cluster — located off the upper-left corner — interacts with dense molecular clouds. The energy of the stellar radiation is slowly eroding the Orion Bar, and this has a profound effect on the molecules and chemistry in the <a href=\"https://webbtelescope.org/glossary.html#h3-CK-166f6913-63e7-46af-88c4-cb8ab4a58787\">protoplanetary disks</a> that have formed around newborn stars here.</p>\n<p>Within this image lies a young star system known as d203-506, which has a protoplanetary disk. Astronomers used Webb to detect a carbon molecule known as methyl cation in that disk for the first time. That molecule is important because it aids the formation of more complex carbon-based molecules.</p>",
+    "ra_position": [
+      5,
+      35,
+      22
+    ],
+    "dec_position": [
+      5,
+      24,
+      29
+    ]
+  },
+  {
+    "title": "Orion Bar (MIRI Image)",
+    "file": "data/nebulas/cards_html/37.html",
+    "release_date": "June 26, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H2V05HTQZBKQ855Q2WREMF2M.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from Webb’s MIRI (Mid-Infrared Instrument) shows a small region of the Orion Nebula. At the center of this view is a young star system with a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-166f6913-63e7-46af-88c4-cb8ab4a58787\">protoplanetary disk</a> named d203-506. An international team of astronomers detected a new carbon molecule known as methyl cation for the first time in d203-506.</p>",
+    "ra_position": [
+      5,
+      35,
+      20
+    ],
+    "dec_position": [
+      -5,
+      25,
+      4
+    ]
+  },
+  {
+    "title": "Fomalhaut Dusty Debris Disk (MIRI Image)",
+    "file": "data/nebulas/cards_html/38.html",
+    "release_date": "May 08, 2023 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GWWGQS865ZVQ33Y8WFEEPRZH.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the dusty <a href=\"https://webbtelescope.org/glossary.html#h3-CK-0673d7b5-9911-49a3-b784-07b4480aa26c\" target=\"_self\">debris disk</a> surrounding the young star Fomalhaut is from Webb’s Mid-Infrared Instrument (MIRI). It reveals three nested belts extending out to 14 billion miles (23 billion kilometers) from the star. The inner belts – which had never been seen before – were revealed by Webb for the first time.</p>\n<p>The Hubble Space Telescope and Herschel Space Observatory, as well as the Atacama Large Millimeter/submillimeter Array (ALMA), have previously taken sharp images of the outermost belt. However, none of them found any structure interior to it.</p>\n<p>These belts most likely are carved by the gravitational forces produced by unseen planets.</p>",
+    "ra_position": [
+      22,
+      57,
+      39
+    ],
+    "dec_position": [
+      -29,
+      37,
+      20
+    ]
+  },
+  {
+    "title": "Cassiopeia A (MIRI Image)",
+    "file": "data/nebulas/cards_html/39.html",
+    "release_date": "April 07, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GWQBCEQ7NP3XKS10BA2JYG3F.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Cassiopeia A (Cas A) is a supernova remnant located about 11,000 light-years from Earth in the constellation Cassiopeia. It spans approximately 10 light-years. This new image uses data from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) to reveal Cas A in a new light.</p>\n<p>On the remnant’s exterior, particularly at the top and left, lie curtains of material appearing orange and red due to emission from warm dust. This marks where ejected material from the exploded star is ramming into surrounding circumstellar material.&nbsp;</p>\n<p>Interior to this outer shell lie mottled filaments of bright pink studded with clumps and knots. This represents material from the star itself, and likely shines due to a mix of various heavy elements and dust emission. The stellar material can also be seen as fainter wisps near the cavity’s interior.</p>\n<p>A loop represented in green extends across the right side of the central cavity. Its shape and complexity are unexpected and challenging for scientists to understand.</p>\n<p>This image combines various filters with the color red assigned to 25.5 microns (F2550W), orange-red to 21 microns (F2100W), orange to 18 microns (F1800W), yellow to 12.8 microns (F1280W), green to 11.3 microns (F1130W), cyan to 10 microns (F1000W), light blue to 7.7 microns (F770W), and blue to 5.6 microns (F560W). The data comes from general observer program <a href=\"https://www.stsci.edu/jwst/science-execution/program-information?id=1947\" target=\"_blank\" rel=\"noopener\">1947</a>.&nbsp;&nbsp;</p>\n<p><em>MIRI was contributed by NASA and ESA, with the instrument designed and built by a consortium of nationally funded European Institutes (the MIRI European Consortium) and NASA’s Jet Propulsion Laboratory, in partnership with the University of Arizona.</em></p>",
+    "ra_position": [
+      23,
+      23,
+      24
+    ],
+    "dec_position": [
+      58,
+      48,
+      54
+    ]
+  },
+  {
+    "title": "Serpens (NIRCam Image)",
+    "file": "data/nebulas/cards_html/4.html",
+    "release_date": "June 20, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HYGF81QMHP3SPA0Q7QMRXY3Z.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>In this image of the Serpens Nebula from the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, astronomers found a grouping of aligned protostellar outflows within one small region (the top left corner). In the Webb image, these jets are signified by bright clumpy streaks that appear red, which are shockwaves from the jet hitting surrounding gas and dust.</p>\n<p>The Serpens Nebula, located 1,300 light-years from Earth, is home to a particularly dense cluster of newly forming stars (~100,000 years old), some of which will eventually grow to the mass of our Sun.</p>\n<p>This region has been home to other coincidental discoveries, including the flapping <a href=\"https://hubblesite.org/contents/news-releases/2020/news-2020-22\">“Bat Shadow,”</a> which earned its name when 2020 data from NASA’s Hubble Space Telescope revealed a shadow from a star’s planet-forming disk to flap, or shift. This feature is visible at the center of the Webb image.</p>\n<p>To the right of the “Bat Shadow” lies another intriguing feature—an eye-shaped crevice, which appears as if a star is bursting through. However, astronomers say looks may be deceiving here. This could just be gases of different densities layered on top of one another, similar to what is seen in the famous <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-052\">Pillars of Creation</a>.</p>\n<p>And to the right of that, an extremely dark patch could be a similar occurrence. This gas and dust are so dense in comparison to the rest of the region, no near-infrared light is getting through.</p>",
+    "ra_position": [
+      18,
+      29,
+      56
+    ],
+    "dec_position": [
+      1,
+      14,
+      45
+    ]
+  },
+  {
+    "title": "Cassiopeia A (MIRI Compass Image)",
+    "file": "data/nebulas/cards_html/40.html",
+    "release_date": "April 07, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GWQC9J9F2V4AAC9AJ7E782RS.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Cassiopeia A supernova remnant, captured by Webb’s Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 10 light-years across.</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/121/01GWQBBY77MHGFV3M3N63KDCEJ\">Read the full image caption.</a></p>",
+    "ra_position": [
+      23,
+      23,
+      24
+    ],
+    "dec_position": [
+      58,
+      48,
+      54
+    ]
+  },
+  {
+    "title": "NGC 346 (NIRCam Image)",
+    "file": "data/nebulas/cards_html/41.html",
+    "release_date": "January 11, 2023 1:15PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GNYJM13ZB57AJ51PH33T5S9F.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NGC 346, shown here in this image from NASA’s James Webb Space Telescope Near-Infrared Camera (NIRCam), is a dynamic star cluster that lies within a nebula 200,000 light years away. Webb reveals the presence of many more building blocks than previously expected, not only for stars, but also planets, in the form of clouds packed with dust and hydrogen.&nbsp;</p>\n<p>The plumes and arcs of gas in this image contains two types of hydrogen. The pink gas represents energized hydrogen, which is typically as hot as around 10,000 °C (approximately 18,000 °F) or more, while the more orange gas represents dense, molecular hydrogen, which is much colder at around -200 °C (approximately -300 °F) or less, and associated dust.&nbsp;</p>\n<p>The colder gas provides an excellent environment for stars to form, and, as they do, they change the environment around them. The effect of this is seen in the various ridges throughout, which are created as the light of these young stars breaks down the dense clouds. The many pillars of glowing gas show the effects of this stellar erosion throughout the region.&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      0,
+      59,
+      4
+    ],
+    "dec_position": [
+      -72,
+      10,
+      9
+    ]
+  },
+  {
+    "title": "NGC 346 (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/42.html",
+    "release_date": "January 11, 2023 1:15PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GNYMPB58ECJ8E8HM2DZ1PDYC.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the star cluster NGC 346, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>At the lower right is a scale bar labeled 50 light-years, 15 parsecs. The length of the scale bar is approximately one-fifth the total width of the image. Below the image is a color key showing which NIRCam filters were used to create the image and which visible-light color is assigned to each filter. From left to right, NIRCam filters are: F200W is blue; F277W is green; F335M is orange; and F444W is red.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/101/01GNYHXG26ZPW9DW7KTXQH116G\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      59,
+      4
+    ],
+    "dec_position": [
+      -72,
+      10,
+      9
+    ]
+  },
+  {
+    "title": "Carina Nebula Jets (NIRCam Narrowband Filters)",
+    "file": "data/nebulas/cards_html/43.html",
+    "release_date": "December 15, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GKMJM8P0EJQ69S8DE06DW4H1.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Dozens of previously hidden jets and outflows from young stars are revealed in this new image of the Cosmic Cliffs from NASA’s James Webb Space Telescope’s Near-Infrared Camera (NIRCam). The Cosmic Cliffs, a region at the edge of a gigantic, gaseous cavity within NGC 3324, has long intrigued astronomers as a hotbed for star formation.</p>\n<p>Many details of star formation in NGC 3324 remain hidden at visible-light wavelengths. Webb is perfectly primed to tease out these long-sought-after details since it can detect jets and outflows seen only in the infrared at high resolution.</p>\n<p>This image separates out several wavelengths of light from the iconic <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-031\" target=\"_self\">First Image</a> revealed on July 12, 2022 which highlight molecular hydrogen, a vital ingredient for star formation. Insets on the right-hand side highlight three regions of the Cosmic Cliffs with particularly active molecular hydrogen outflows.</p>\n<p>In this image, red, green, and blue were assigned to Webb’s NIRCam data at 4.7, 4.44, and 1.87 microns (F470N, F444W, and F187N filters, respectively).</p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "Carina Nebula Jets (NIRCam Narrowband Filters Compass Image)",
+    "file": "data/nebulas/cards_html/44.html",
+    "release_date": "December 15, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GKMKC98XDA570H38QN1KB3BZ.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Cosmic Cliffs, a region at the edge of a gigantic, gaseous cavity within NGC 3324, captured by Webb’s Near-Infrared Camera (NIRCam), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. It takes 2 years for light to travel a distance equal to the length of the bar. One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters that were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/057/01GKMHY46FF99Z4QNKQGQ519JN\">Read the full image caption.</a></p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "Two Views of the Gas in the Southern Ring Nebula (NIRCam and MIRI Composite Images)",
+    "file": "data/nebulas/cards_html/45.html",
+    "release_date": "December 08, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJZFHKRPMNR6G23YS35RBV4F.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Webb Space Telescope offers dramatically different views of the same scene! Each image combines near- and mid-infrared light from three filters.</p>\n<p>At left, Webb’s image of the Southern Ring Nebula highlights the very hot gas that surrounds the central stars. This hot gas is banded by a sharp ring of cooler gas, which appears in both images.</p>\n<p>At right, Webb’s image traces the star’s scattered outflows that have reached farther into the cosmos. Most of the molecular gas that lies outside the band of cooler gas is also cold. It is also far clumpier, consisting of dense knots of molecular gas that form a halo around the central stars. “One of the things that drew my attention was the strong difference between the images of the hot ionized gas and the cold molecular gas,” explained Isabel Aleman of Federal University of Itajubá (UNIFEI), Brazil. “The hot gas is very smooth, but the cold gas shows these mini clumps, spikes, and arcs. Webb’s images are very, very rich in detail.”</p>\n<p>By accounting for the temperatures and gas contents in both areas, inside and outside the band, and by combining Webb’s data with precise measurements from other observatories, she and the research team were able to create far more accurate models to demonstrate when gas was ejected by the central star (which appears red in the image at left).</p>\n<p>What about the third star that is visible at the lower-right edge of the band within the nebula? From Webb’s vantage point, it appears within the scene, but isn’t part of the nebula itself. It’s merely “photobombing” this party.</p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula’s Spokes (NIRCam and MIRI Composite Image)",
+    "file": "data/nebulas/cards_html/46.html",
+    "release_date": "December 08, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJZG90PF91MYTHEKT0BNPSB4.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Examine the straight, brightly-lit lines that pierce through the rings of gas and dust around the edges of the Southern Ring Nebula in the Webb Space Telescope’s image. These “spokes” appear to emanate from one or both of the central stars, marking where light streams through holes in the nebula. The holes are evidence of where the dimmer star that created this scene shot out material, creating open pathways for light to flow through.</p>\n<p>Some of the star’s ejections followed thin, straight lines (second box) through the gas and dust. Other ejections (first box) look bent, curvy, and thicker. Why? A team of researchers, led by Orsola De Marco of Macquarie University in Sydney, Australia, modeled how these complex structures might have formed. Studies of planetary nebulae have shown that even when dying stars eject their gas and dust at all angles simultaneously, the outflowing gas may not stay symmetrical for long. In the Southern Ring Nebula, the team projects that the straight lines may have been shot out hundreds of years earlier and at greater speeds than those that appear thicker and curvy. It’s possible the second set is a mix of material that slowed, creating less linear shapes.</p>\n<p>By carefully comparing the appearance and timing of these ejections in the data and simulations, De Marco and her team propose that this is more evidence of the presence of a star with a slightly wider orbit that “stirred the pot” of ejections.</p>\n<p>This image combines near- and mid-infrared light. The dimmer star that created the planetary nebula appears as a faint red star next to the central blue star.</p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Illustration of Star Interactions in the Southern Ring Nebula",
+    "file": "data/nebulas/cards_html/47.html",
+    "release_date": "December 08, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GKHFMNF36921V2H0JME9NT2Q.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>How did all the “partygoers” – up to five stars – create the Southern Ring Nebula? Let’s hit “rewind” and replay the interactions that might have created the scene!</p>\n<p>First, it’s important to know that none of these illustrations are properly scaled, and three or as many as four of the stars would be too small and dim to appear in Webb’s image. Second, star 1 and star 2 are the only stars we see in the sixth and final panel above. The remaining “guests” will be known as stars 3, 4, and 5. They are all much less massive – in other words far smaller and dimmer – than stars 1 and 2.</p>\n<p>The first illustration shows a wider field. Star 1, the most massive of this group of five stars, is the fastest to age and is responsible for creating the planetary nebula. Star 2 very slowly orbits star 1, which is easier to see in the last panel. All is relatively quiet at this stage as they orbit one another, though there is another star on the scene, number 5. It orbits star 1 far more tightly than star 2 does.</p>\n<p>Cue the action! The second panel zooms way in on the scene – and two other companions appear in view. Star 1 has begun to swell as it ages rapidly, swallowing star 3. Through gravity, star 3 starts to draw in material from star 1 and launches jets in both directions. Star 4 is close by, but not yet interacting.</p>\n<p>The third panel shows how much star 1 has expanded as it ages. Two companions also enter the mix. Stars 3 and 4 have sent off a series of bipolar jets. As these two stars interact, the jets they sent out are tumbled, which leads to the irregular, wavy edges of the gas and dust ejected by aging star 1. Both companions 3 and 4 are interacting within the gas and dust star 1 has ejected.</p>\n<p>In panel 4, we zoom out to see more of the scene. Ultraviolet light and a fast, spherical wind from the newly exposed ultra-hot core of star 1 is helping to carve out its previously ejected gas and dust, creating a bubble-like cavity. There is also a leftover disk of material from the previous interactions with star 3. Star 3 is no longer visible, but star 5 is now in view. It has a wider orbit and is drawing “lines” through the ejected gas and dust from star 1 as it orbits, like a knife through a bowl of icing.</p>\n<p>Now, it’s time to zoom out even wider! At this stage, we’re getting closer to a view of the planetary nebula we see today. The fifth panel shows the same trio – stars 1 and 2 with star 5. Now, to mix it up again: As it orbits, star 5 continues to interact with the ejected gas and dust that slowly travels farther and farther from star 1 into the surrounding space, generating the system of large rings seen in the outer nebula.</p>\n<p>The sixth panel portrays the scene as we observe it today – by zooming all the way out, we see only stars 1 and 2 in the Southern Ring Nebula.</p>\n<p>Now that you’re oriented, <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-059\" target=\"_self\">read the full recap of the potential events</a>.</p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula’s Gas (NIRCam and MIRI Composite Compass Image)",
+    "file": "data/nebulas/cards_html/48.html",
+    "release_date": "December 08, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJZJ1V4NRTK6JG1ETAZ3BENW.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Southern Ring Nebula (NGC 3132), captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 0.25 light-years across.</p>\n<p>This image shows invisible near-infrared and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-059\">Read the full image caption.</a>&nbsp;</p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula’s Spokes (NIRCam and MIRI Composite Compass Image)",
+    "file": "data/nebulas/cards_html/49.html",
+    "release_date": "December 08, 2022 11:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GJZJ4AYZZYW901HY69VNZ352.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Southern Ring Nebula (NGC 3132), captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 0.25 light-years across.</p>\n<p>This image shows invisible near-infrared and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-059\">Read the full image caption.</a>&nbsp;</p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Serpens North – Aligned Outflows Crop (NIRCam Image)",
+    "file": "data/nebulas/cards_html/5.html",
+    "release_date": "June 20, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HYGK7PC1NBR9N26JAJ97W1XR.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from NASA’s James Webb Space Telescope shows a portion of the Serpens Nebula, where astronomers discovered a grouping of aligned protostellar outflows. These jets are signified by bright clumpy streaks that appear red, which are shock waves from the jet hitting surrounding gas and dust. Here, the red color represents the presence of molecular hydrogen and carbon monoxide.</p>\n<p>Typically these objects have varied orientations within one region. Here, however, they are slanted in the same direction, to the same degree, like sleet pouring down during a storm. Researchers say the discovery of these aligned objects, made possible due to Webb’s exquisite spatial resolution and sensitivity in near-infrared wavelengths, is providing information into the fundamentals of how stars are born.</p>",
+    "ra_position": [
+      18,
+      29,
+      56
+    ],
+    "dec_position": [
+      1,
+      14,
+      45
+    ]
+  },
+  {
+    "title": "Pillars of Creation (NIRCam and MIRI Composite Image)",
+    "file": "data/nebulas/cards_html/50.html",
+    "release_date": "November 30, 2022 10:58AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GK2KM4N6Q1XGTKDVM4AQ3HQ7.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>By combining images of the iconic Pillars of Creation from two cameras aboard NASA’s James Webb Space Telescope, the universe has been framed in its infrared glory. Webb’s <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-052\" target=\"_self\">near-infrared image</a> was fused with its <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-053\" target=\"_self\">mid-infrared image</a>, setting this star-forming region ablaze with new details.</p>\n<p>Myriad stars are spread throughout the scene. The stars primarily show up in near-infrared light, marking a contribution of Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam). Near-infrared light also reveals thousands of newly formed stars – look for bright orange spheres that lie just outside the dusty pillars.</p>\n<p>In mid-infrared light, the dust is on full display. The contributions from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) are most apparent in the layers of diffuse, orange dust that drape the top of the image, relaxing into a V. The densest regions of dust are cast in deep indigo hues, obscuring our view of the activities inside the dense pillars.</p>\n<p>Dust also makes up the spire-like pillars that extend from the bottom left to the top right. This is one of the reasons why the region is overflowing with stars – dust is a major ingredient of star formation. When knots of gas and dust with sufficient mass form in the pillars, they begin to collapse under their own gravitational attraction, slowly heat up, and eventually form new stars. Newly formed stars are especially apparent at the edges of the top two pillars – they are practically bursting onto the scene.</p>\n<p>At the top edge of the second pillar, undulating detail in red hints at even more embedded stars. These are even younger, and are quite active as they form. The lava-like regions capture their periodic ejections. As stars form, they periodically send out supersonic jets that can interact within clouds of material, like these thick pillars of gas and dust. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years.</p>\n<p>Almost everything you see in this scene is local. The distant universe is largely blocked from our view both by the interstellar medium, which is made up of sparse gas and dust located between the stars, and a thick dust lane in our Milky Way galaxy. As a result, the stars take center stage in Webb’s view of the Pillars of Creation.</p>\n<p>The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away.</p>\n<p>Revisit Webb’s <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-052\" target=\"_self\">near-infrared image</a> and its <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-053\" target=\"_self\">mid-infrared image</a>. The Pillars of Creation was made famous by the <a href=\"https://hubblesite.org/contents/media/images/1995/44/351-Image.html\" target=\"_blank\">Hubble Space Telescope’s 1995 image</a>.</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Pillars of Creation (MIRI Image)",
+    "file": "data/nebulas/cards_html/51.html",
+    "release_date": "October 28, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GFRYX6CJ1ZTKW4PHAE55BY8P.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope’s mid-infrared view of the Pillars of Creation strikes a chilling tone. Thousands of stars that exist in this region disappear – and seemingly endless layers of gas and dust become the centerpiece.</p>\n<p>The detection of dust by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) is extremely important – dust is a major ingredient for star formation. Many stars are actively forming in these dense blue-gray pillars. When knots of gas and dust with sufficient mass form in these regions, they begin to collapse under their own gravitational attraction, slowly heat up – and eventually form new stars.</p>\n<p>Although the stars appear missing, they aren’t. Stars typically do not emit much mid-infrared light. Instead, they are easiest to detect in ultraviolet, visible, and near-infrared light. In this MIRI view, two types of stars can be identified. The stars at the end of the thick, dusty pillars have recently eroded the material surrounding them. They show up in red because their atmospheres are still enshrouded in cloaks of dust. In contrast, blue tones indicate stars that are older and have shed most of their gas and dust.</p>\n<p>Mid-infrared light also details dense regions of gas and dust. The red region toward the top, which forms a delicate V shape, is where the dust is both diffuse and cooler. And although it may seem like the scene clears toward the bottom left of this view, the darkest gray areas are where densest and coolest regions of dust lie. Notice that there are many fewer stars and no background galaxies popping into view.</p>\n<p>Webb’s mid-infrared data will help researchers determine exactly how much dust is in this region – and what it’s made of. These details will make models of the Pillars of Creation far more precise. Over time, we will begin to more clearly understand how stars form and burst out of these dusty clouds over millions of years.</p>\n<p>Contrast this view with <a href=\"https://webbtelescope.org/contents/news-releases/2022/news-2022-052\" target=\"_self\">Webb’s near-infrared light image</a>.</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (the MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Pillars of Creation (MIRI Compass Image)",
+    "file": "data/nebulas/cards_html/52.html",
+    "release_date": "October 28, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GFS0A44X1B05BHV15575858X.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Pillars of Creation, captured by Webb’s Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference. It lies within the Eagle Nebula, which is also known as Messier 16 (M16).</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 7 light-years across.</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/053/01GFRYSFM89AFADVAA0W625BSB\">Read the full image caption.</a></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Pillars of Creation (NIRCam Image)",
+    "file": "data/nebulas/cards_html/53.html",
+    "release_date": "October 19, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GF42D0KV99R21EAD1RAZ3JB7.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Pillars of Creation are set off in a kaleidoscope of color in NASA’s James Webb Space Telescope’s near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust, and ever changing. This is a region where young stars are forming – or have barely burst from their dusty cocoons as they continue to form.</p>\n<p>Newly formed stars are the scene-stealers in this <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly.</p>\n<p>Along the edges of the pillars are wavy lines that look like lava. These are ejections from stars that are still forming. Young stars periodically shoot out supersonic jets that can interact within clouds of material, like these thick pillars of gas and dust. This sometimes also results in bow shocks, which can form wavy patterns like a boat does as it moves through water. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years.</p>\n<p>Although it may appear that near-infrared light has allowed Webb to “pierce through” the background to reveal great cosmic distances beyond the pillars, the <a href=\"https://webbtelescope.org/glossary.html#h3-CK-5e7e2388-0eae-4a31-96f7-ad1f8419c9eb\" target=\"_self\">interstellar medium</a> stands in the way, like a drawn curtain.</p>\n<p>This is also the reason why there are almost no distant galaxies in this view. This translucent layer of gas blocks our view of the deeper universe. Plus, dust is lit up by the collective light from the packed “party” of stars that have burst free from the pillars. It’s like standing in a well-lit room looking out a window – the interior light reflects on the pane, obscuring the scene outside and, in turn, illuminating the activity at the party inside.</p>\n<p>Webb’s new view of the Pillars of Creation will help researchers revamp models of star formation. By identifying far more precise star populations, along with the quantities of gas and dust in the region, they will begin to build a clearer understanding of how stars form and burst out of these clouds over millions of years.</p>\n<p>The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away.</p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Pillars of Creation (Hubble and Webb Images Side by Side)",
+    "file": "data/nebulas/cards_html/54.html",
+    "release_date": "October 19, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GF44F9Y10HZB8SPV2NZ8H6TZ.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA's Hubble Space Telescope made the Pillars of Creation famous with its <a href=\"https://hubblesite.org/contents/media/images/1995/44/351-Image.html\" target=\"_blank\">first image in 1995</a>, but revisited the scene in <a href=\"https://hubblesite.org/contents/news-releases/2015/news-2015-01.html\" target=\"_blank\">2014</a> to reveal a sharper, wider view in visible light, shown above at left.</p>\n<p>A new, near-infrared-light view from NASA’s James Webb Space Telescope, at right, helps us peer through more of the dust in this star-forming region. The thick, dusty brown pillars are no longer as opaque and many more red stars that are still forming come into view.</p>\n<p>While the pillars of gas and dust seem darker and less penetrable in Hubble’s view, they appear more diaphanous in Webb’s.</p>\n<p>The background of this Hubble image is like a sunrise, beginning in yellows at the bottom, before transitioning to light green and deeper blues at the top. These colors highlight the thickness of the dust all around the pillars, which obscures many more stars in the overall region.</p>\n<p>In contrast, the background light in Webb’s image appears in blue hues, which highlights the hydrogen atoms, and reveals an abundance of stars spread across the scene. By penetrating the dusty pillars, Webb also allows us to identify stars that have recently – or are about to – burst free. Near-infrared light can penetrate thick dust clouds, allowing us to learn so much more about this incredible scene.</p>\n<p>Both views show us what is happening locally. Although Hubble highlights many more thick layers of dust and Webb shows more of the stars, neither shows us the deeper universe. Dust blocks the view in Hubble’s image, but the <a href=\"https://webbtelescope.org/glossary.html#h3-CK-5e7e2388-0eae-4a31-96f7-ad1f8419c9eb\" target=\"_blank\">interstellar medium</a> plays a major role in Webb’s. It acts like thick smoke or fog, preventing us from peering into the deeper universe, where countless galaxies exist.</p>\n<p>The pillars are a small region within the Eagle Nebula, a vast star-forming region 6,500 light-years from Earth.</p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Pillars of Creation (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/55.html",
+    "release_date": "October 19, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GFXR6H1WCPFPBB559808W7YX.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Pillars of Creation, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference. It lies within the Eagle Nebula, which is also known as Messier 16 (M16).</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 8 light-years across.</p>\n<p>This image shows near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/052/01GF423GBQSK6ANC89NTFJW8VM\">Read the full image caption.</a></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
+    ]
+  },
+  {
+    "title": "Tarantula Nebula (NIRSpec IFU)",
+    "file": "data/nebulas/cards_html/56.html",
+    "release_date": "September 06, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GB7X6Q9TPKBRDQ2TMPA7G9W2.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Webb’s Near-Infrared Spectrograph (NIRSpec) reveals what is really going on in an intriguing region of the Tarantula Nebula. Astronomers focused the powerful instrument on what looked like a small bubble feature in the image from Webb’s Near-Infrared Camera (NIRCam). However, the spectra reveal a very different picture from a young star blowing a bubble in its surrounding gas.</p>\n<p>The signature of atomic hydrogen, shown in blue, shows up in the star itself but not immediately surrounding it. Instead, it appears outside the “bubble,” which spectra show is actually “filled” with molecular hydrogen (green) and complex hydrocarbons (red). This indicates that the bubble is actually the top of a dense pillar of dust and gas that is being blasted by radiation from the cluster of massive young stars to its lower right (see the full <a href=\"https://webbtelescope.org/contents/media/images/2022/041/01GA76MYFN0FMKNRHGCAGGYCVQ\" target=\"_self\">NIRCam image</a>). It does not appear as pillar-like as some other structures in the nebula because there is not much color contrast with the area surrounding it.&nbsp;</p>\n<p>The harsh stellar wind from the massive young stars in the nebula is breaking apart molecules outside the pillar, but inside they are preserved, forming a cushy cocoon for the star. This star is still too young to be clearing out its surroundings by blowing bubbles – NIRSpec has captured it just beginning to emerge from the protective cloud from which it was formed. Without Webb’s resolution at infrared wavelengths, the discovery of this star birth in action would not have been possible.&nbsp;</p>\n<p><em>NIRSpec was built for the European Space Agency (ESA) by a consortium of European companies led by Airbus Defence and Space (ADS) with NASA’s Goddard Space Flight Center providing its detector and micro-shutter subsystems.</em></p>\n<p></p>",
+    "ra_position": [
+      5,
+      38,
+      42
+    ],
+    "dec_position": [
+      -69,
+      6,
+      3
+    ]
+  },
+  {
+    "title": "“Cosmic Cliffs” in the Carina Nebula (NIRCam Image)",
+    "file": "data/nebulas/cards_html/57.html",
+    "release_date": "July 12, 2022 11:22AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G77PKYA4T05YKJ3EDQ36NZCX.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula. Captured in infrared light by the Near-Infrared Camera (<a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">NIRCam</a>) on NASA’s James Webb Space Telescope, this image reveals previously obscured areas of star birth.</p>\n<p>Called the Cosmic Cliffs, the region is actually the edge of a gigantic, gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.&nbsp;&nbsp;</p>\n<p>NIRCam – with its crisp resolution and unparalleled sensitivity – unveils hundreds of previously hidden stars, and even numerous background galaxies. Several prominent features in this image are described below.</p>\n<ul>\n<li>The “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to intense, ultraviolet radiation.&nbsp;</li>\n<li>Dramatic pillars rise above the glowing wall of gas, resisting the blistering ultraviolet radiation from the young stars.</li>\n<li>Bubbles and cavities are being blown by the intense radiation and stellar winds of newborn stars.</li>\n<li>Protostellar jets and outflows, which appear in gold, shoot from dust-enshrouded, nascent stars.</li>\n<li>A “blow-out” erupts at the top-center of the ridge, spewing gas and dust into the interstellar medium.&nbsp;</li>\n<li>An unusual “arch” appears, looking like a bent-over cylinder.</li>\n</ul>\n<p>This period of very early <a href=\"https://webbtelescope.org/contents/articles/how-are-stars-born\" target=\"_self\">star formation</a> is difficult to capture because, for an individual star, it lasts only about 50,000 to 100,000 years – but Webb’s extreme sensitivity and exquisite spatial resolution have chronicled this rare event.</p>\n<p>Located roughly 7,600 light-years away, NGC 3324 was first catalogued by James Dunlop in 1826. Visible from the Southern Hemisphere, it is located at the northwest corner of the Carina Nebula (NGC 3372), which resides in the constellation Carina. The Carina Nebula is home to the Keyhole Nebula and the active, unstable supergiant star called Eta Carinae.&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "“Cosmic Cliffs” in the Carina Nebula (NIRCam and MIRI Composite Image)",
+    "file": "data/nebulas/cards_html/58.html",
+    "release_date": "July 12, 2022 11:22AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G780XGWBQ25CH43DP4NGBYMD.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Astronomers using NASA’s James Webb Space Telescope combined the capabilities of the telescope’s two cameras to create a never-before-seen view of a star-forming region in the Carina Nebula. Captured in <a href=\"https://webbtelescope.org/webb-science/the-observatory/infrared-astronomy\" target=\"_self\">infrared light</a> by the Near-Infrared Camera (<a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">NIRCam</a>) and Mid-Infrared Instrument (<a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">MIRI</a>), this combined image reveals previously invisible areas of star birth.&nbsp;</p>\n<p>What looks much like craggy mountains on a moonlit evening is actually the edge of a nearby, young, star-forming region known as NGC 3324. Called the Cosmic Cliffs, this rim of a gigantic, gaseous cavity is roughly 7,600 light-years away.&nbsp;&nbsp;</p>\n<p>The cavernous area has been carved from the nebula by the intense ultraviolet radiation and stellar winds from extremely massive, hot, young stars located in the center of the bubble, above the area shown in this image. The high-energy radiation from these stars is sculpting the nebula’s wall by slowly eroding it away.&nbsp;</p>\n<p>NIRCam – with its crisp resolution and unparalleled sensitivity – unveils hundreds of previously hidden stars, and even numerous background galaxies. In MIRI’s view, young stars and their dusty, <a href=\"https://webbtelescope.org/contents/media/videos/01G6X2C9R0TPVCHXSRBCEVNW03\" target=\"_self\">planet-forming disks</a> shine brightly in the mid-infrared, appearing pink and red. MIRI reveals structures that are embedded in the dust and uncovers the stellar sources of massive jets and outflows. With MIRI, the hydrocarbons and other chemical compounds on the surface of the ridges glow, giving the appearance of jagged rocks.</p>\n<p>Several prominent features in this image are described below.</p>\n<ul>\n<li>The faint “steam” that appears to rise from the celestial “mountains” is actually hot, ionized gas and hot dust streaming away from the nebula due to intense, ultraviolet radiation.&nbsp;</li>\n<li>Peaks and pillars rise above the glowing wall of gas, resisting the blistering ultraviolet radiation from the young stars.</li>\n<li>Bubbles and cavities are being blown by the intense radiation and stellar winds of newborn stars.</li>\n<li>Protostellar jets and outflows, which appear in gold, shoot from dust-enshrouded, nascent stars. MIRI uncovers the young, stellar sources producing these features. For example, a feature at left that looks like a comet with NIRCam is revealed with MIRI to be one cone of an outflow from a dust-enshrouded, newborn star.</li>\n<li>A “blow-out” erupts at the top-center of the ridge, spewing material into the interstellar medium. MIRI sees through the dust to unveil the star responsible for this phenomenon.&nbsp;</li>\n<li>An unusual “arch,” looking like a bent-over cylinder, appears in all wavelengths shown here.</li>\n</ul>\n<p>This period of very early star formation is difficult to capture because, for an individual star, it lasts only about 50,000 to 100,000 years – but Webb’s extreme sensitivity and exquisite spatial resolution have chronicled this rare event.&nbsp;</p>\n<p>NGC 3324 was first catalogued by James Dunlop in 1826. Visible from the Southern Hemisphere, it is located at the northwest corner of the Carina Nebula (NGC 3372), which resides in the constellation Carina. The Carina Nebula is home to the Keyhole Nebula and the active, unstable supergiant star called Eta Carinae.&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "\"Cosmic Cliffs\" in the Carina Nebula (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/59.html",
+    "release_date": "July 12, 2022 11:22AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7N8JC89NAPPAJCQRVT801HG.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Carina Nebula (NGC 3324) captured by Webb’s Near-Infrared Camera (NIRCam), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 16 light-years across.&nbsp;</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/031/01G77PKB8NKR7S8Z6HBXMYATGJ\">Read the full image caption.</a></p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "Serpens Center Crop (NIRCam Image)",
+    "file": "data/nebulas/cards_html/6.html",
+    "release_date": "June 20, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HYGKYYKJ9QP1B9TYBMS2CSCK.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image shows the center of the Serpens Nebula as seen by NASA’s James Webb Space Telescope’s Near-Infrared Camera (NIRCam).</p>\n<p>The Serpens Nebula, located 1,300 light-years from Earth, is home to a particularly dense cluster of newly forming stars (~100,000 years old), some of which will eventually grow to the mass of our Sun. Webb’s image of this nebula revealed a grouping of aligned protostellar outflows (seen in the top left). These jets are signified by bright clumpy streaks that appear red, which are shock waves from the jet hitting surrounding gas and dust.</p>\n<p>In this image, throughout the region, filaments and wisps of different hues represent reflected starlight from still-forming protostars within the cloud. In some areas, there is dust in front of that reflection, which appears here with an orange, diffuse shade.</p>",
+    "ra_position": [
+      18,
+      29,
+      56
+    ],
+    "dec_position": [
+      1,
+      14,
+      45
+    ]
+  },
+  {
+    "title": "\"Cosmic Cliffs\" in the Carina Nebula (NIRCam and MIRI Composite Compass Image)",
+    "file": "data/nebulas/cards_html/60.html",
+    "release_date": "July 12, 2022 11:22AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7N9F1GXJR1S8CYP3B037S0W.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Composite image of the Carina Nebula (NGC 3324) captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 12 light-years across.&nbsp;</p>\n<p>This image shows invisible near-infrared and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/031/01G780WF1VRADDSD5MDNDRKAGY\">Read the full image caption.</a></p>\n<p>&nbsp;</p>",
+    "ra_position": [
+      10,
+      36,
+      59
+    ],
+    "dec_position": [
+      -58,
+      37,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula (NIRCam and MIRI Images Side by Side)",
+    "file": "data/nebulas/cards_html/61.html",
+    "release_date": "July 12, 2022 11:01AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G709RFDHBXFGJ68SZXHNBAVM.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This side-by-side comparison shows observations of the Southern Ring Nebula in <a href=\"https://webbtelescope.org/glossary.html#h3-CK-dd5000d6-0567-4fab-8eca-6da6b8413ef5\" target=\"_self\">near-infrared light</a>, at left, and <a href=\"https://webbtelescope.org/glossary#h3-CK-3266ad1a-659b-40e7-830f-0c790f4cfea6\" target=\"_self\">mid-infrared light</a>, at right, from NASA’s Webb Telescope.</p>\n<p>This scene was created by a white dwarf star – the remains of a star like our Sun after it shed its outer layers and stopped burning fuel through nuclear fusion. Those outer layers now form the ejected shells all along this view.</p>\n<p>In the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) image, the white dwarf appears to the lower left of the bright, central star, partially hidden by a diffraction spike. The same star appears – but brighter, larger, and redder – in the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) image. This white dwarf star is cloaked in thick layers of dust, which make it appear larger.</p>\n<p>The brighter star in both images hasn’t yet shed its layers. It closely orbits the dimmer white dwarf, helping to distribute what it’s ejected.</p>\n<p>Over thousands of years and before it became a white dwarf, the star periodically ejected mass – the visible shells of material. As if on repeat, it contracted, heated up – and then, unable to push out more material, pulsated. Stellar material was sent in all directions – like a rotating sprinkler – and provided the ingredients for this asymmetrical landscape.</p>\n<p>Today, the white dwarf is heating up the gas in the inner regions – which appear blue at left and red at right. Both stars are lighting up the outer regions, shown in orange and blue, respectively.</p>\n<p>The images look very different because NIRCam and MIRI collect different wavelengths of light. NIRCam observes near-infrared light, which is closer to the visible wavelengths our eyes detect. MIRI goes farther into the infrared, picking up mid-infrared wavelengths. The second star appears more clearly in the MIRI image, because this instrument can see the gleaming dust around it.</p>\n<p>The stars – and their layers of light – steal more attention in the NIRCam image, while dust plays the lead in the MIRI image, specifically dust that is illuminated.</p>\n<p>Peer at the circular region at the center of both images. Each contains a wobbly, asymmetrical belt of material. This is where two “bowls” that make up the nebula meet. (In this view, the nebula is at a 40-degree angle.) This belt is easier to spot in the MIRI image – look for the yellowish circle – but is also visible in the NIRCam image.</p>\n<p>The light that travels through the orange dust in the NIRCam image – which looks like spotlights – disappears at longer infrared wavelengths in the MIRI image.</p>\n<p>In near-infrared light, stars have more prominent <a href=\"https://webbtelescope.org/contents/media/images/01G529MX46J7AFK61GAMSHKSSN\" target=\"_self\">diffraction spikes</a> because they are so bright at these wavelengths. In mid-infrared light, diffraction spikes also appear around stars, but they are fainter and smaller (zoom in to spot them).</p>\n<p>Physics is the reason for the difference in the resolution of these images. NIRCam delivers high-resolution imaging because these wavelengths of light are shorter. MIRI supplies medium-resolution imagery because its wavelengths are longer – the longer the wavelength, the coarser the images are. But both deliver an incredible amount of detail about every object they observe – providing never-before-seen vistas of the universe.</p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula (NIRCam Image)",
+    "file": "data/nebulas/cards_html/62.html",
+    "release_date": "July 12, 2022 11:01AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G70BN48JR6M4ZTW3642X2D2H.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The bright star at the center of NGC 3132, while prominent when viewed by NASA’s Webb Telescope in near-infrared light, plays a supporting role in sculpting the surrounding nebula. A second star, barely visible at lower left along one of the bright star’s diffraction spikes, is the nebula’s source. It has ejected at least eight layers of gas and dust over thousands of years.</p>\n<p>But the bright central star visible here has helped “stir” the pot, changing the shape of this planetary nebula’s highly intricate rings by creating turbulence. The pair of stars are locked in a tight orbit, which leads the dimmer star to spray ejected material in a range of directions as they orbit one another, resulting in these jagged rings.</p>\n<p>Hundreds of straight, brightly-lit lines pierce through the rings of gas and dust. These “spotlights” emanate from the bright star and stream through holes in the nebula like sunlight through gaps in a cloud.</p>\n<p>But not all of the starlight can escape. The density of the central region, set off in teal, is reflected by how transparent or opaque it is. Areas that are a deeper teal indicate that the gas and dust are denser – and light is unable to break free.</p>\n<p>Data from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) were used to make this extremely detailed image. It is teeming with scientific information – and research will begin following its release.</p>\n<p>This is not only a crisp image of a planetary nebula – it also shows us objects in the vast distances of space behind it. The transparent red sections of the planetary nebula – and all the areas outside it – are filled with distant galaxies.</p>\n<p>Look for the bright angled line at the upper left. It is not starlight – it is a faraway galaxy seen edge-on. Distant spirals, of many shapes and colors, also dot the scene. Those that are farthest away – or very dusty – are small and red.</p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula (MIRI Image)",
+    "file": "data/nebulas/cards_html/63.html",
+    "release_date": "July 12, 2022 11:01AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G70C5W053HDANT4825MK67XW.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s Webb Telescope has revealed the cloak of dust around the second star, shown at left in red, at the center of the Southern Ring Nebula for the first time. It is a hot, dense <a href=\"https://webbtelescope.org/glossary.html#h3-CK-af018baf-1434-4fac-83cd-166b33535761\" target=\"_self\">white dwarf star</a>.</p>\n<p>As it transformed into a white dwarf, the star periodically ejected mass – the shells of material you see here. As if on repeat, it contracted, heated up – and then, unable to push out more material, pulsated.</p>\n<p>At this stage, it should have shed its last layers. So why is the red star still cloaked in dust? Was material transferred from its companion? Researchers will begin to pursue answers soon.</p>\n<p>The bluer star at right in this image has also shaped the scene. It helps stir up the ejected material. The disk around the stars is also wobbling, shooting out spirals of gas and dust over long periods of time. This scene is like witnessing a rotating sprinkler that’s finished shooting out material in all directions over thousands of years.</p>\n<p>Webb captured this scene in mid-infrared light – most of which can only be observed from space. Mid-infrared light helps researchers detect objects enshrouded in dust, like the red star.</p>\n<p>This <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) image also offers an incredible amount of detail, including a cache of distant galaxies in the background. Most of the multi-colored points of light are galaxies, not stars. Tiny triangles mark the circular edges of stars, including a blue one within the nebula’s red bottom-most edges, while galaxies look like misshapen circles, straight lines, and spirals.</p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p></p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/64.html",
+    "release_date": "July 12, 2022 11:01AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NAVA1DV0R8KR92XV4E4CCV.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Southern Ring Nebula (NGC 3132), captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 1.4 light-years across.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/033/01G70BGTSYBHS69T7K3N3ASSEB\">Read the full image caption.</a></p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Southern Ring Nebula (MIRI Compass Image)",
+    "file": "data/nebulas/cards_html/65.html",
+    "release_date": "July 12, 2022 11:01AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NB4DAJH4RFZTT368SW6R0C.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Southern Ring Nebula (NGC 3132), captured by Webb’s Mid-Infrared Instrument (MIRI), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 0.25 years for light to travel a distance equal to the length of the scale bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 1.4 light-years across.</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/033/01G70C5F6Z698YC9E1DEBA3WET\">Read the full image caption.</a></p>",
+    "ra_position": [
+      10,
+      6,
+      58
+    ],
+    "dec_position": [
+      -40,
+      26,
+      0
+    ]
+  },
+  {
+    "title": "Orion Bar (Hubble)",
+    "file": "data/nebulas/cards_html/67.html",
+    "release_date": "May 19, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01F67S5AWT3QBJB8H32ZNZ7DWN.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Orion Bar is a diagonal, ridge-like feature of gas and dust in the lower left quadrant of this HUBBLE image of the Orion Nebula. Sculpted by the intense radiation from nearby hot, young stars, the Orion Bar at first glance appears to be shaped like a bar. It is probably prototypical of a photodissociation region, or PDR.</p>",
+    "ra_position": [
+      5,
+      35,
+      17
+    ],
+    "dec_position": [
+      -5,
+      23,
+      27
+    ]
+  },
+  {
+    "title": "Central Region of Orion Nebula (VLT)",
+    "file": "data/nebulas/cards_html/69.html",
+    "release_date": "April 30, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSTH3VAYEJ9WN8BVT9ZA821.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This color-composite mosaic of the central part of the Orion Nebula is based on 81 images from the European Southern Observatory (ESO) Very Large Telescope at the Paranal Observatory in Chile. The famous Trapezium stars appear near the center, amid the Trapezium Cluster, the very crowded home of more than a thousand young stars. Researchers will train Webb on this region to study phenomena associated with the birth of stars and planets.</p>",
+    "ra_position": [
+      5,
+      35,
+      17
+    ],
+    "dec_position": [
+      -5,
+      23,
+      27
+    ]
+  },
+  {
+    "title": "Serpens (NIRCam Compass Image)",
+    "file": "data/nebulas/cards_html/7.html",
+    "release_date": "June 20, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HYGME191C4YTWZCAR71K51QF.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Serpens Nebula, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/115/01HYGF7W80S91STZNBG7HDKT1Q\">Read the full image caption.</a></p>",
+    "ra_position": [
+      18,
+      29,
+      56
+    ],
+    "dec_position": [
+      1,
+      14,
+      45
+    ]
+  },
+  {
+    "title": "Snake in Galactic Plane (Spitzer)",
+    "file": "data/nebulas/cards_html/70.html",
+    "release_date": "April 10, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSTRND27EFF0E3VEE27HY36.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Snake is a serpentine-shaped, extremely filamentary cloud. In this infrared image from the Spitzer Space Telescope, the blue dots are stars relatively undimmed by dust, while the red dots are embedded, forming stars.</p>",
+    "ra_position": [
+      5,
+      31,
+      22
+    ],
+    "dec_position": [
+      12,
+      15,
+      30
+    ]
+  },
+  {
+    "title": "Brick in Galactic Center (Spitzer)",
+    "file": "data/nebulas/cards_html/71.html",
+    "release_date": "April 10, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSTRJ7G3E367P0TKY456ANC.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>An image from the Spitzer Space Telescope shows an area of the center of the Milky Way known as the Brick. More than 100,000 times the mass of the Sun, the Brick doesn’t seem to be forming any massive stars — yet. But based on its immense mass in such a small area, if it does form stars — as scientists think it should — it would be one of the most massive star clusters in the Milky Way galaxy.</p>",
+    "ra_position": [
+      17,
+      45,
+      37
+    ],
+    "dec_position": [
+      -28,
+      56,
+      10
+    ]
+  },
+  {
+    "title": "NGC 1333 (Spitzer)",
+    "file": "data/nebulas/cards_html/72.html",
+    "release_date": "December 18, 2019 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSV3H6JHFYMHDRK0M1SBHV2.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Scientists will use Webb to search the nearby stellar nursery NGC 1333 for its smallest, faintest residents. It is an ideal place to look for very faint, free-floating objects, including those with planetary masses. This image was captured by the Spitzer Space Telescope.</p>",
+    "ra_position": [
+      3,
+      29,
+      2
+    ],
+    "dec_position": [
+      31,
+      22,
+      12
+    ]
+  },
+  {
+    "title": "SDSS J1226+2152 (Hubble)",
+    "file": "data/nebulas/cards_html/73.html",
+    "release_date": "August 21, 2019 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSV8P4Y9XMDEQQM3YZDFB8E.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is a Hubble Space Telescope image of galaxy SDSS J1226+2152, which is being magnified and distorted by the immense gravity of a galaxy cluster in front of it. It is one of four distant, star-forming galaxies the TEMPLATES team will study with Webb. The team chose it as an example of a galaxy that is not very dusty.</p>",
+    "ra_position": [
+      12,
+      26,
+      51
+    ],
+    "dec_position": [
+      21,
+      52,
+      19
+    ]
+  },
+  {
+    "title": "Multiwavelength View of Supernova 1987A (Hubble, Chandra, ALMA)",
+    "file": "data/nebulas/cards_html/74.html",
+    "release_date": "February 28, 2019 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSWR9Y6F8V8NR8XBBFE6VJ8.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Astronomers combined observations from three different observatories (Atacama Large Millimeter/submillimeter Array, red; Hubble, green; Chandra X-ray Observatory, blue) to produce this colorful, multiwavelength image of the intricate remains of Supernova 1987A.</p>\n<p><strong><em>Hubble image:</em></strong><em> NASA, ESA, and R. Kirshner (Harvard-Smithsonian Center for Astrophysics and Gordon and Betty Moore Foundation) <br></em><strong><em>Chandra image:</em></strong><em> NASA/CXC/Penn State/K. Frank et al. <br></em><strong><em>ALMA image:</em></strong><em> ALMA (ESO/NAOJ/NRAO) and R. Indebetouw (NRAO/AUI/NSF)</em></p>",
+    "ra_position": [
+      5,
+      35,
+      28
+    ],
+    "dec_position": [
+      -69,
+      16,
+      11
+    ]
+  },
+  {
+    "title": "Multiwavelength View of NGC 346 (Spitzer, NTT, XMM-Newton)",
+    "file": "data/nebulas/cards_html/75.html",
+    "release_date": "December 12, 2018 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSYW9ZSD3TCQYNWJV56K52E.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the star-forming cloud NGC 346 is a combination of multiwavelength light from NASA's Spitzer Space Telescope (infrared), the European Southern Observatory's New Technology Telescope (visible), and the European Space Agency's XMM-Newton space telescope (X-ray). Webb’s sharper infrared vision will allow astronomers to survey in greater detail developing stars still encased in their natal cocoons of gas and dust.</p>",
+    "ra_position": [
+      0,
+      59,
+      18
+    ],
+    "dec_position": [
+      -72,
+      10,
+      48
+    ]
+  },
+  {
+    "title": "Infrared View of NGC 346 (Hubble)",
+    "file": "data/nebulas/cards_html/76.html",
+    "release_date": "December 12, 2018 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSYW3SGEZ7ZXRQPFCS3YY5R.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Infant stars still embedded in gas and dust in the NGC 346 nebula shine brightly in this Hubble Space Telescope image. Webb’s infrared vision will uncover thousands more developing stars in this star-forming region.</p>",
+    "ra_position": [
+      0,
+      59,
+      18
+    ],
+    "dec_position": [
+      -72,
+      10,
+      48
+    ]
+  },
+  {
+    "title": "Herbig-Haro 212 (VLT)",
+    "file": "data/nebulas/cards_html/77.html",
+    "release_date": "November 14, 2018 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSZGSJ5PB7Y4FJAPT8H6GTT.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A pair of jets protrude outwards in this infrared image of Herbig-Haro 212 (HH 212), taken by the European Southern Observatory’s Very Large Telescope. Webb’s high resolution and sensitivity will allow astronomers to examine objects like this in greater detail than ever before.</p>",
+    "ra_position": [
+      5,
+      43,
+      50
+    ],
+    "dec_position": [
+      -1,
+      3,
+      11
+    ]
+  },
+  {
+    "title": "Massive Star-Forming Region in 30 Doradus (Hubble)",
+    "file": "data/nebulas/cards_html/78.html",
+    "release_date": "May 25, 2018 1:00PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FN9CQM93S12ZNFSXGFZEYWG8.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Hubble Space Telescope captured this image of the massive young stellar grouping R136. The cluster of stars resides in the 30 Doradus nebula, a turbulent star birth region in the Large Magellanic Cloud (LMC), a satellite galaxy of our Milky Way. The blue color is light from the hottest, most massive stars; the green from the glow of oxygen; and the red from fluorescing hydrogen.</p>\n<p>This nearby stellar nursery provides insights into the star lifecycle and how star clusters may have formed in the early universe.</p>",
+    "ra_position": [
+      5,
+      38,
+      42
+    ],
+    "dec_position": [
+      -69,
+      6,
+      3
+    ]
+  },
+  {
+    "title": "Reflection Nebula IC 2631 (ESO)",
+    "file": "data/nebulas/cards_html/79.html",
+    "release_date": "March 09, 2018 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVT0Y111TWTRZ1MF817NR6WW.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>An image from the European Southern Observatory shows blue light from a newborn star lights up the reflection nebula IC 2631. This nebula is part of the Chamaeleon star-forming region, which Webb will study to learn more about the formation of water and other cosmic ices.</p>",
+    "ra_position": [
+      11,
+      9,
+      52
+    ],
+    "dec_position": [
+      -76,
+      35,
+      38
+    ]
+  },
+  {
+    "title": "Crab Nebula ",
+    "file": "data/nebulas/cards_html/8.html",
+    "release_date": "June 17, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J04A57VT54A4PKF2J4R1ZC7G.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope dissected the Crab Nebula’s structure, aiding astronomers as they continue to evaluate leading theories about the supernova remnant’s origins. With the data collected by Webb’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), a team of scientists were able to closely inspect some of the Crab Nebula’s major components.</p>\n<p>For the first time ever, astronomers mapped the warm dust emission throughout this supernova remnant. Represented as fluffy magenta material, the dust grains form a cage-like structure that is most apparent toward the lower left and upper right portions of the remnant. Filaments of dust are also threaded throughout the Crab’s interior and sometimes coincide with regions of doubly ionized sulfur (sulfur III) colored in green. Yellow-white mottled filaments, which form large loop-like structures around the supernova remnant’s center, represent areas where dust and doubly ionized sulfur overlap.</p>\n<p>The dust’s cage-like structure helps constrain some, but not all of the ghostly synchrotron emission represented in blue. The emission resembles wisps of smoke, most notable toward the Crab’s center. The thin blue ribbons follow the magnetic field lines created by the Crab’s pulsar heart — a rapidly rotating neutron star.</p>",
+    "ra_position": [
+      5,
+      34,
+      32
+    ],
+    "dec_position": [
+      22,
+      0,
+      52
+    ]
+  },
+  {
+    "title": "Crab Nebula (Compass Image)",
+    "file": "data/nebulas/cards_html/9.html",
+    "release_date": "June 17, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J04B60APYC0G26HJYAV9XXYR.jpg",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Crab Nebula captured by Webb’s NIRCam and MIRI, with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 2 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 10 light-years across.&nbsp;</p>\n<p>This image shows invisible near-infrared and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which components were observed by NIRCam and MIRI, and which visible-light color is assigned to each feature.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/120/01J049D616EKYXVMNFKZZBWPCQ\">Read the full image caption.</a></p>",
+    "ra_position": [
+      5,
+      34,
+      32
+    ],
+    "dec_position": [
+      22,
+      0,
+      52
+    ]
+  }
+]

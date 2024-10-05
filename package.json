@@ -4,13 +4,15 @@
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "nodemon ."
+		"start": "nodemon .",
+		"scraper": "cd scraper && node scraper.js"
 	},
 	"type": "module",
 	"author": "",
 	"license": "ISC",
 	"description": "",
 	"dependencies": {
+		"cheerio": "^1.0.0",
 		"express": "^4.21.0",
 		"three": "^0.169.0"
 	}

@@ -1,0 +1,884 @@
+[
+  {
+    "title": "Question Mark Galaxy (NIRCam Image)",
+    "file": "data/cosmology/cards_html/0.html",
+    "release_date": "September 04, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J6CWQ1T2BPBR55478Y4X0NQQ.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The galaxy cluster MACS-J0417.5-1154 is so massive it is warping the fabric of space-time and distorting the appearance of galaxies behind it, an effect known as gravitational lensing. This natural phenomenon magnifies distant galaxies and can also make them appear in an image <a href=\"https://webbtelescope.org/contents/media/images/2024/128/%2001J6CYG0E1SDEP1GCFA0VZPYZG\">multiple times</a>, as NASA’s James Webb Space Telescope saw here. Two distant, interacting galaxies — a face-on spiral and a dusty red galaxy seen from the side — appear multiple times, tracing a familiar shape across the sky. Active star formation, and the face-on galaxy’s remarkably intact spiral shape, indicate that these galaxies’ interaction is just beginning.&nbsp;</p>\n<p>See a side-by-side comparison of how the Hubble Space Telescope and Webb each viewed this same region of space: <a href=\"https://webbtelescope.org/contents/media/images/2024/128/01J6CXQZWPPN3NHPJQYY4WZG1R\">https://webbtelescope.org/contents/media/images/2024/128/01J6CXQZWPPN3NHPJQYY4WZG1R&nbsp;</a></p>",
+    "ra_position": [
+      4,
+      17,
+      34
+    ],
+    "dec_position": [
+      -11,
+      54,
+      32
+    ]
+  },
+  {
+    "title": "MACS J0417.5-1154 Wide Field (NIRCam Image)",
+    "file": "data/cosmology/cards_html/1.html",
+    "release_date": "September 04, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J6D97YGSQACWK990TH56K6AF.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A cosmic question mark appears amid a powerful <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\">gravitational lens</a> in the James Webb Space Telescope’s wide-field view of the galaxy cluster MACS-J0417.5-1154. <a href=\"https://webbtelescope.org/contents/media/videos/2019/41/1229-Video\">Gravitational lensing</a> occurs when something is so massive, like this galaxy cluster, that it warps the fabric of space-time itself, creating a natural funhouse-mirror effect that also magnifies galaxies behind it.&nbsp;</p>\n<p>The rarely seen type of lensing captured here, which astronomers term hyperbolic umbilic, created five repeated images of one galaxy pair. The red, elongated member of this pair traces the familiar shape of a question mark across the sky due to the distortion, with another unrelated galaxy happening to be in just the right space-time to appear like the question mark’s dot – especially for humans who love to recognize familiar shapes and patterns.&nbsp;</p>\n<p>See more detail in the question mark galaxy <a href=\"https://webbtelescope.org/contents/media/images/2024/128/01J6CWPX42N79DRCVX0P7WZYWA\">here</a> and see the repeated images of the galaxies labeled <a href=\"https://webbtelescope.org/contents/media/images/2024/128/01J6CYG0E1SDEP1GCFA0VZPYZG\">here</a>.</p>",
+    "ra_position": [
+      4,
+      17,
+      34
+    ],
+    "dec_position": [
+      -11,
+      54,
+      32
+    ]
+  },
+  {
+    "title": "GOODS-North Field (NIRCam Image)",
+    "file": "data/cosmology/cards_html/10.html",
+    "release_date": "March 04, 2024 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDHJMGXSCX9XCF811GS6TVC7.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from Webb’s NIRCam (Near-Infrared Camera) instrument shows a portion of the GOODS-North field of galaxies. At lower right, a pullout highlights the galaxy GN-z11, which is seen at a time just 430 million years after the big bang. The image reveals an extended component, tracing the GN-z11 host galaxy, and a central source whose colors are consistent with those of an accretion disk surrounding a black hole.</p>",
+    "ra_position": [
+      12,
+      36,
+      32
+    ],
+    "dec_position": [
+      62,
+      15,
+      59
+    ]
+  },
+  {
+    "title": "GOODS-North Field (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/12.html",
+    "release_date": "March 04, 2024 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDHKV0J1Y9CTAS06EKWJQ4Y9.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the GOODS-North field, captured by Webb’s Near-Infrared Camera (NIRCam), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in angular distance on the sky, where one arcsecond is one-3,600th of a degree. The scale bar is 60 arcseconds long.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/106/01HDHJM9FYCCYX0KHNEG1TSEZ4\">Read the full image caption.</a></p>",
+    "ra_position": [
+      12,
+      36,
+      32
+    ],
+    "dec_position": [
+      62,
+      15,
+      59
+    ]
+  },
+  {
+    "title": "Supernova Encore in MACS J0138 (NIRCam Image)",
+    "file": "data/cosmology/cards_html/13.html",
+    "release_date": "December 21, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HJ43RCDDSKPA2NFZ17GCGP01.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has spotted a multiply imaged supernova in a distant galaxy designated MRG-M0138. Two images of the supernova (circled) are seen in the Webb NIRCam (Near-Infrared Camera) image above, but an additional supernova image is expected to become visible around 2035. In this image blue represents light at 1.15 and 1.5 microns (F115W+F150), green is 2.0 and 2.77 microns (F200W+277W), and red is 3.56 and 4.44 microns (F356W + F444W).</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/nasas-webb-spots-a-second-lensed-supernova-in-a-distant-galaxy\">Read the story.</a></p>",
+    "ra_position": [
+      1,
+      38,
+      2
+    ],
+    "dec_position": [
+      -21,
+      55,
+      22
+    ]
+  },
+  {
+    "title": "MACS J0138 Hubble and Webb Side-by-Side",
+    "file": "data/cosmology/cards_html/14.html",
+    "release_date": "December 21, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HHFSW3M51HSYM4X2XJMA7336.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Left: In 2016 NASA’s Hubble Space Telescope spotted a multiply imaged supernova, nicknamed Supernova Requiem, in a distant galaxy lensed by the intervening galaxy cluster MACS J0138. Three images of the supernova are visible, and a fourth image is expected to arrive in 2035. In this near-infrared image, light at 1.05 microns is represented in blue and 1.60 microns is orange. Right: In November 2023 NASA’s James Webb Space Telescope identified a second multiply imaged supernova in the same galaxy using its NIRCam (Near-Infrared Camera) instrument. This is the first known system to produce more than one multiply-imaged supernova.</p>\n<h3>Credit Details</h3>\n<p>Hubble image: NASA, ESA, STScI, Steve A. Rodney (University of South Carolina) and Gabriel Brammer (Cosmic Dawn Center/Niels Bohr Institute/University of Copenhagen).</p>\n<p>JWST image: NASA, ESA, CSA, STScI, Justin Pierel (STScI) and Andrew Newman (Carnegie Institution for Science).&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/nasas-webb-spots-a-second-lensed-supernova-in-a-distant-galaxy\">Read the story.</a></p>",
+    "ra_position": [
+      1,
+      38,
+      2
+    ],
+    "dec_position": [
+      -21,
+      55,
+      22
+    ]
+  },
+  {
+    "title": "MACS 0416 (Hubble ACS and WFC3 + Webb NIRCam Image)",
+    "file": "data/cosmology/cards_html/15.html",
+    "release_date": "November 09, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDHATHMQ6H9MD7A4D9MBPPEG.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This panchromatic view of galaxy cluster MACS0416 was created by combining infrared observations from NASA’s James Webb Space Telescope with visible-light data from NASA’s Hubble Space Telescope. To make the image, in general the shortest wavelengths of light were color-coded blue, the longest wavelengths red, and intermediate wavelengths green. The resulting wavelength coverage, from 0.4 to 5 microns, reveals a vivid landscape of galaxies that could be described as one of the most colorful views of the universe ever created.</p>\n<p>MACS0416 is a galaxy cluster located about 4.3 billion light-years from Earth, meaning that light we see now left the cluster shortly after the formation of our solar system. This cluster magnifies the light from more distant background galaxies through <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\">gravitational lensing</a>. As a result, the research team has been able to identify magnified supernovae and even very highly magnified individual stars.</p>\n<p>Those colors give clues to galaxy distances: The bluest galaxies are relatively nearby and often show intense star formation, as best detected by Hubble, while the redder galaxies tend to be more distant, or else contain copious amount of dust, as detected by Webb. The image reveals a wealth of details that are only possible to capture by combining the power of both space telescopes.</p>\n<p>In this image, blue represents data at wavelengths of 0.435 and 0.606 microns (Hubble filters F435W and F606W); cyan is 0.814, 0.9, and 1.05 microns (Hubble filters F814W, and F105W and Webb filter F090W); green is 1.15, 1.25, 1.4, 1.5, and 1.6 microns (Hubble filters F125W, F140W, and F160W, and Webb filters F115W and F150W); yellow is 2.00 and 2.77 microns (Webb filters F200W, and F277W); orange is 3.56 microns (Webb filter F356W); and red represents data at 4.1 and 4.44 microns (Webb filters F410M and F444W).</p>",
+    "ra_position": [
+      4,
+      16,
+      9
+    ],
+    "dec_position": [
+      -24,
+      3,
+      58
+    ]
+  },
+  {
+    "title": "MACS 0416 Mothra Pullout (Hubble ACS and WFC3 + Webb NIRCam Image)",
+    "file": "data/cosmology/cards_html/16.html",
+    "release_date": "November 09, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDHHK4VETN6KYVPG8GRWHDCM.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of galaxy cluster MACS0416 highlights one particular gravitationally lensed background galaxy, which existed about 3 billion years after the big bang. That galaxy contains a transient, or object that varies in observed brightness over time, that the science team nicknamed “Mothra.” Mothra is a star that is magnified by a factor of at least 4,000 times. The team believes that Mothra is magnified not only by the gravity of galaxy cluster MACS0416, but also by an object known as a “milli-lens” that likely weighs about as much as a globular star cluster.</p>",
+    "ra_position": [
+      4,
+      16,
+      9
+    ],
+    "dec_position": [
+      -24,
+      3,
+      58
+    ]
+  },
+  {
+    "title": "MACS 0416 (Hubble and Webb Compared)",
+    "file": "data/cosmology/cards_html/17.html",
+    "release_date": "November 09, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDHHS841WF7NB7NS7DFNGTR1.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This side-by-side comparison of galaxy cluster MACS0416 as seen by the Hubble Space Telescope in optical light (left) and the James Webb Space Telescope in infrared light (right) reveals different details. Both images feature hundreds of galaxies, however the Webb image shows galaxies that are invisible or only barely visible in the Hubble image. This is because Webb’s infrared vision can detect galaxies too distant or dusty for Hubble to see. (Light from distant galaxies is <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a138baf3-5963-4640-a405-aa3552a5152e\" target=\"_blank\" rel=\"noopener\">redshifted</a> due to the expansion of the universe.) The total exposure time for Webb was about 22 hours, compared to 122 hours of exposure time for the Hubble image.</p>",
+    "ra_position": [
+      4,
+      16,
+      9
+    ],
+    "dec_position": [
+      -24,
+      3,
+      58
+    ]
+  },
+  {
+    "title": "MACS 0416 (Hubble + Webb Compass Image)",
+    "file": "data/cosmology/cards_html/18.html",
+    "release_date": "November 09, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HDPWFT4F8D0APBZEYRK8CXKF.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of galaxy cluster MACS0416 captured in visible light by Hubble’s ACS and WFC3 and in infrared light by Webb’s NIRCam, with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in arcminutes, which is an angle on the sky equivalent to one-60th of a degree. (The scale bar is half an arcminute long.) The full image is approximately 2.2 acrminutes across.&nbsp;</p>\n<p>This image shows visible and near-infrared wavelengths of light that have been translated into colors. The color key shows which Hubble ACS and WFC3 and Webb NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/146/01HDHATAQXM532HCNQN6BQ79BC\">Read the full image caption.</a></p>",
+    "ra_position": [
+      4,
+      16,
+      9
+    ],
+    "dec_position": [
+      -24,
+      3,
+      58
+    ]
+  },
+  {
+    "title": "NGC 5584 (Webb NIRCam + Hubble WFC3)",
+    "file": "data/cosmology/cards_html/19.html",
+    "release_date": "September 12, 2023 9:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H9NTVTH43187J55MB3QGBNMY.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Combined observations from NASA’s NIRCam (Near-Infrared Camera) and Hubble’s WFC3 (Wide Field Camera 3) show spiral galaxy NGC 5584, which resides 72 million light-years away from Earth. Among NGC 5584’s glowing stars are pulsating stars called Cepheid variables and Type Ia supernova, a special class of exploding stars. Astronomers use Cepheid variables and Type Ia supernovae as reliable distance markers to measure the universe’s expansion rate.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble\">Read the story.</a></p>",
+    "ra_position": [
+      14,
+      22,
+      23
+    ],
+    "dec_position": [
+      0,
+      23,
+      15
+    ]
+  },
+  {
+    "title": "Question Mark Galaxy (Hubble and Webb Image)",
+    "file": "data/cosmology/cards_html/2.html",
+    "release_date": "September 04, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J6CXR99B0ZJBYTH1HYRWGZDE.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s Hubble Space Telescope has also observed the galaxy cluster MACS-J0417.5-1154, but the dusty red galaxy that appears <a href=\"https://webbtelescope.org/contents/media/images/2024/128/01J6CYG0E1SDEP1GCFA0VZPYZG\">multiple times</a> to form a question mark shape is much more prominent in the Webb image. The infrared light that Webb detects is better able to pass through the cosmic dust of its home galaxy to reach the telescope. Astronomers used Hubble’s ultraviolet observations to help determine where star formation is happening in both the red galaxy and its close companion, a face-on spiral galaxy.</p>",
+    "ra_position": [
+      4,
+      17,
+      34
+    ],
+    "dec_position": [
+      -11,
+      54,
+      32
+    ]
+  },
+  {
+    "title": "Uncrowding Cepheids in the Near Infrared",
+    "file": "data/cosmology/cards_html/20.html",
+    "release_date": "September 12, 2023 9:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H9QRN6T0PD852260Z20B4SEH.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This diagram illustrates the combined power of the Hubble and Webb space telescopes in nailing down precise distances to a special class of variable star that is used in calibrating the expansion rate of the universe. These Cepheid variable stars are seen in crowded star fields. Light contamination from surrounding stars may make the measurement of the brightness of a Cepheid less precise. Webb’s sharper infrared vision allows for a Cepheid target to be more clearly isolated from surrounding stars, as seen in the right side of the diagram. The Webb data confirms the accuracy of 30 years of Hubble observations of Cepheids that were critical in establishing the bottom rung of the cosmic distance ladder for measuring the universe’s expansion rate. At the left, <a href=\"https://webbtelescope.org/contents/media/images/01H9NTTMJBGTV6GVSGQ723MRQW\">NGC 5584</a> is seen in a composite image from Webb’s NIRCam (Near-Infrared Camera) and Hubble’s Wide Field Camera 3.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-confirms-accuracy-of-universes-expansion-rate-measured-by-hubble\">Read the story.</a></p>",
+    "ra_position": [
+      14,
+      22,
+      23
+    ],
+    "dec_position": [
+      0,
+      23,
+      15
+    ]
+  },
+  {
+    "title": "Sunrise Arc (NIRCam Image)",
+    "file": "data/cosmology/cards_html/21.html",
+    "release_date": "August 09, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H6BZB3K3WNZ50KYNA39XPWRG.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from NASA’s James Webb Space Telescope of a massive galaxy cluster called WHL0137-08 contains the most strongly magnified galaxy known in the universe’s first billion years: the Sunrise Arc, and within that galaxy, the most distant star ever detected.</p>\n<p>The star, nicknamed Earendel, was first discovered by the <a href=\"https://hubblesite.org/contents/news-releases/2022/news-2022-003\">Hubble Space Telescope</a>. Follow-up observations using Webb’s NIRCam (Near-Infrared Camera) reveals the star to be a massive B-type star more than twice as hot as our Sun, and about a million times more luminous.</p>\n<p>Earendel is positioned along a wrinkle in spacetime that gives it extreme magnification, allowing it to emerge into view from its host galaxy, which appears as a red smear across the sky. The star is detectable only due to the combined power of human technology and nature via an effect called <a href=\"https://webbtelescope.org/contents/media/videos/2019/41/1229-Video\">gravitational lensing</a>.</p>\n<p>In this image, <a href=\"https://webbtelescope.org/contents/media/images/2023/132/01H6C1CE9K8REGN2EW5ACV9THX\">the Sunrise Arc appears</a> just below the diffraction spike at the 5 o’clock position. The fuzzier, white galaxies at the center of the image are part of the galaxy cluster bound together by gravity. The various redder, curved galaxies are background galaxies picked up by Webb’s sensitive mirror.</p>",
+    "ra_position": [
+      1,
+      37,
+      23
+    ],
+    "dec_position": [
+      -8,
+      27,
+      52
+    ]
+  },
+  {
+    "title": "Sunrise Arc Zoom-In (NIRCam Image)",
+    "file": "data/cosmology/cards_html/22.html",
+    "release_date": "August 09, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H6CAF4EVYGJJS9FRCAH3R7ER.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from NASA’s James Webb Space Telescope shows a massive galaxy cluster called WHL0137-08, and at the right, an inset of the most strongly magnified galaxy known in the universe’s first billion years: the Sunrise Arc. Within that galaxy is the most distant star ever detected, first discovered by the <a href=\"https://hubblesite.org/contents/news-releases/2022/news-2022-003\">Hubble Space Telescope</a>.</p>\n<p>Webb’s NIRCam (Near-Infrared Camera) instrument reveals the star, nicknamed Earendel, to be a massive B-type star more than twice as hot as our Sun, and about a million times more luminous. Stars of this mass often have <a href=\"https://universe.nasa.gov/stars/multiple-star-systems/\">companions</a>. Astronomers did not expect Webb to reveal any companions of Earendel since they would be so close together and indistinguishable on the sky. However, based solely on the colors of Earendel detected by Webb, astronomers think they see hints of a cooler companion star.</p>",
+    "ra_position": [
+      1,
+      37,
+      23
+    ],
+    "dec_position": [
+      -8,
+      27,
+      52
+    ]
+  },
+  {
+    "title": "Sunrise Arc (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/23.html",
+    "release_date": "August 09, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H6EGT30XE1WEAYMDNJK8HRDJ.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is an image of the WHL0137-08 galaxy cluster, which includes the Sunrise Arc galaxy, with compass arrows, scale bar and color key. The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam (Near-Infrared Camera) filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter. Below the image is a color key showing which NIRCam filters were used to create the image and which visible-light color is assigned to each filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/132/01H6BZATACCHGMV59CCH4Y8JC6\">Read the full image caption.</a></p>",
+    "ra_position": [
+      1,
+      37,
+      23
+    ],
+    "dec_position": [
+      -8,
+      27,
+      52
+    ]
+  },
+  {
+    "title": "El Gordo (NIRCam Image)",
+    "file": "data/cosmology/cards_html/24.html",
+    "release_date": "August 02, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GZY227TJADC5CHE24EZ5M2DS.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Webb’s infrared image of the galaxy cluster El Gordo (“the Fat One”) reveals hundreds of galaxies, some never before seen at this level of detail. El Gordo acts as a gravitational lens, distorting and magnifying the light from distant background galaxies. Two of the most prominent features in the image include the Thin One, located just below and left of the image center, and the Fishhook, a red swoosh at upper right. Both are lensed background galaxies.</p>",
+    "ra_position": [
+      1,
+      2,
+      55
+    ],
+    "dec_position": [
+      -49,
+      15,
+      38
+    ]
+  },
+  {
+    "title": "La Flaca and El Anzuelo (NIRCam Image)",
+    "file": "data/cosmology/cards_html/25.html",
+    "release_date": "August 02, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GZY3XTEY87GD42DYKK1P8PAA.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Webb’s infrared image of the galaxy cluster El Gordo (“the Fat One”) reveals hundreds of galaxies, some never before seen at this level of detail. El Gordo acts as a gravitational lens, distorting and magnifying the light from distant background galaxies. Two of the most prominent features in the image include the Thin One, highlighted in box A, and the Fishhook, a red swoosh highlighted in box B. Both are lensed background galaxies. The insets at right show zoomed-in views of both objects.</p>",
+    "ra_position": [
+      1,
+      2,
+      55
+    ],
+    "dec_position": [
+      -49,
+      15,
+      38
+    ]
+  },
+  {
+    "title": "El Gordo (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/26.html",
+    "release_date": "August 02, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GZY2ZT8RX9YBZS0NQTZJPG5J.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is an image of the El Gordo galaxy cluster with compass arrows, scale bar and color key. The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/119/01GZY21YPY2WNDTAKQHQ80F78H\">Read the full image caption.</a></p>",
+    "ra_position": [
+      1,
+      2,
+      55
+    ],
+    "dec_position": [
+      -49,
+      15,
+      38
+    ]
+  },
+  {
+    "title": "Quasar J0100+2802 (NIRCam Image)",
+    "file": "data/cosmology/cards_html/27.html",
+    "release_date": "June 12, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H1CHFAMCWD257Z6C34B6QRAS.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>There are more than 20,000 galaxies in this field. This James Webb Space Telescope view is found between the Pisces and Andromeda constellations.</p>\n<p>Researchers using Webb anchored their observations on <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a6436c3c-637b-4cbf-99df-007f951b586d\">quasar</a> J0100+2802, an active supermassive black hole that acts like a beacon. It is at the center of the image above, and appears tiny and pink with six prominent diffraction spikes.</p>\n<p>The quasar is so luminous that it acts like a flashlight, illuminating the gas between it and the telescope. The team analyzed 117 galaxies that all existed approximately 900 million years after the big bang – focusing on 59 that lie in front of the quasar. The researchers could study not only the galaxies themselves, but also the illuminated gas surrounding them. &nbsp;&nbsp;</p>\n<p>These galaxies existed just before the end of the <a href=\"https://webbtelescope.org/contents/media/images/2023/122/01H26EMQ8Z672PQR4435V59Y2V?news=true\">Era of Reionization</a>, when the universe contained a patchwork of gas – some opaque and some transparent (or ionized). “As we look back into the teeth of reionization, we see a very distinct change,” explained Simon Lilly of ETH Zürich in Switzerland, who leads this team of researchers. “Galaxies, which are made up of billions of stars, are ionizing the gas around them, effectively transforming it into transparent gas.”</p>\n<p>Researchers have long sought evidence to explain what happened during this period, when the universe experienced dramatic changes. After the big bang, gas in the universe was incredibly hot and dense. Over hundreds of millions of years, the gas cooled. Then, the universe hit “repeat.” The gas again became hot and ionized – and transparent.</p>\n<p>The team’s results more concretely define the conditions at this specific “stop” in the universe’s history. “Not only does Webb clearly show that these transparent regions exist around galaxies, we’ve also measured how large they are,” explained Daichi Kashino of Nagoya University in Japan and the lead author of the team’s first paper. Think of the transparent regions of gas like hot air balloons, with galaxies the size of peas clearing that space.</p>\n<p>Webb showed that galaxies have fully ionized the gas within a 2 million light-year radius. That’s approximately the same distance as the space between our Milky Way galaxy and our nearest neighbor, Andromeda. Over the next hundred million years, the bubbles went on to grow larger and larger, eventually merging and causing the entire universe to become transparent.</p>\n<p>These results were announced by members of the <a href=\"https://eiger-jwst.github.io/index.html\" target=\"_blank\" rel=\"noopener\">Emission-line galaxies and Intergalactic Gas in the Epoch of Reionization (EIGER)</a> team. The team will eventually have images and data from six fields, each centered on a quasar, but Webb’s first image from <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\">NIRCam</a> (Near-Infrared Camera) and data known as <a href=\"https://webbtelescope.org/glossary.html#h3-CK-b6199c5e-9065-4803-891c-6f17deada9a6\">spectra</a> are so detailed that they could easily make definitive conclusions without waiting for additional observations.</p>",
+    "ra_position": [
+      1,
+      0,
+      13
+    ],
+    "dec_position": [
+      28,
+      2,
+      25
+    ]
+  },
+  {
+    "title": "Distant Galaxy Samples Near Quasar J0100+2802 (NIRCam Image)",
+    "file": "data/cosmology/cards_html/28.html",
+    "release_date": "June 12, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H1CTQT25FVF7KDKMDN3A7Z87.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The James Webb Space Telescope has returned extraordinarily detailed images and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-b6199c5e-9065-4803-891c-6f17deada9a6\">spectra</a> of galaxies that existed when the universe was only 900 million years old. “In Webb’s near-infrared image, we can see structures in every individual galaxy that the telescope detected,” shared Jorryt Matthee of ETH Zürich. “Webb is showing us the adventurous youth of these early galaxies.”</p>\n<p>These galaxies look more chaotic than those in the nearby universe – they are clumpy and often elongated. These galaxies are also younger and are actively forming stars. The stars Webb detected are all more massive, which may lead to an abundance of colorful <a href=\"https://webbtelescope.org/glossary.html#h3-CK-9aebc019-bab1-4f81-a85d-9656033065ae\">supernovae</a> shooting off in these galaxies.</p>\n<p>These results were announced by members of the <a href=\"https://eiger-jwst.github.io/index.html\">Emission-line galaxies and Intergalactic Gas in the Epoch of Reionization (EIGER)</a> team. Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\">NIRCam</a> (Near-Infrared Camera) image and data known as spectra helped the team fully define 117 galaxies in this field.</p>",
+    "ra_position": [
+      1,
+      0,
+      13
+    ],
+    "dec_position": [
+      28,
+      2,
+      25
+    ]
+  },
+  {
+    "title": "Question Mark Galaxy, Annotated (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/3.html",
+    "release_date": "September 04, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J7BVFNH9E3JPEXGN3NXR503R.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A specific type of <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\">gravitational lensing</a> known to astronomers as hyperbolic umbilic, captured in the James Webb Space Telescope’s image of galaxy cluster MACS-J0417.5, results in the optical illusion of five multiples of one distant galaxy pair, labeled here as A, B, C, D, and E. While the pair exists once in reality, it appears five times when viewed through the funhouse mirror of warped space created by the mass of the cluster. Image D is largely obscured behind the bright white glare of one of the cluster galaxies.</p>\n<p>This image also includes compass arrows, scale bar, and color key for reference. The scale bar is labeled in arcseconds, which is a measure of angular distance on the sky. There are 60 arcminutes in a degree and 60 arcseconds in an arcminute. (The full Moon has an angular diameter of about 30 arcminutes.) The actual size of an object that covers one arcsecond on the sky depends on its distance from the telescope.</p>\n<p>This image shows infrared wavelengths of light that have been translated into visible-light colors. The color key at the bottom of the image shows which filters from Webb’s NIRCam (Near-Infrared Camera) instrument were used. The color of each filter name is the visible light color assigned to represent the infrared light detected by that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2024/128/01J6CWPX42N79DRCVX0P7WZYWA\">Read the full image caption.</a></p>",
+    "ra_position": [
+      4,
+      17,
+      34
+    ],
+    "dec_position": [
+      -11,
+      54,
+      32
+    ]
+  },
+  {
+    "title": "Quasar J0100+2802 (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/30.html",
+    "release_date": "June 12, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H1Q3VSQZTWHYP2AGWSM7P9GH.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image centered on quasar J0100+2802, captured by Webb’s NIRCam (Near-Infrared Camera), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above). The scale bar is labeled 1 arcminute.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter. In this image, blue, green, and red were assigned to NIRCam data at 1.15, 2, and 3.65 microns (F115W, F200W, and F365W), respectively.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/122/01H1CHF0BEH5131213AEG2JKZ8\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a></p>",
+    "ra_position": [
+      1,
+      0,
+      13
+    ],
+    "dec_position": [
+      28,
+      2,
+      25
+    ]
+  },
+  {
+    "title": "JWST Advanced Deep Extragalactic Survey (NIRCam Image)",
+    "file": "data/cosmology/cards_html/31.html",
+    "release_date": "June 05, 2023 12:15PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H1Q1D0J4DSCEXAZBD8M7JVNA.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This infrared image from NASA’s James Webb Space Telescope (JWST) was taken for the JWST Advanced Deep Extragalactic Survey, or JADES, program. It shows a portion of an area of the sky known as GOODS-South, which has been well studied by the Hubble Space Telescope and other observatories. More than 45,000 galaxies are visible here.</p>\n<p>Using these and other data, the JADES team has discovered hundreds of galaxies that existed when the universe was less than 600 million years old. The sheer number of these galaxies was far beyond predictions from observations made before Webb’s launch.</p>\n<p>The team also has identified galaxies that existed during a time known as the <a href=\"https://webbtelescope.org/contents/media/images/2020/37/4697-Image\">Epoch of Reionization</a>, when the universe underwent a transformation from opaque to transparent. Many of these galaxies shown unusually strong <a href=\"https://webbtelescope.org/glossary.html#h3-CK-3247f39b-978f-4e47-a536-14fbd3d857b1\">emission line</a> signatures due to the creation of multitudes of hot, massive stars.</p>\n<p>In this image, blue, green, and red were assigned to Webb’s NIRCam (Near-Infrared Camera) data at 0.9, 1.15, and 1.5 microns; 2.0, 2.77, and 3.35 microns; and 3.56, 4.1, and 4.44 microns (F090W, F115W, and F150W; F200W, F277W, and F335M; and F356W, F410M, and F444W), respectively.</p>",
+    "ra_position": [
+      3,
+      32,
+      36
+    ],
+    "dec_position": [
+      -27,
+      46,
+      49
+    ]
+  },
+  {
+    "title": "JWST Advanced Deep Extragalactic Survey (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/32.html",
+    "release_date": "June 05, 2023 12:15PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01H1Q55KD4AACR17N4938PDNEZ.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the GOODS-South field, captured by Webb’s NIRCam (Near-Infrared Camera), shows compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above). The scale bar is labeled 50 arcseconds.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter. In this image, blue, green, and red were assigned to NIRCam data at 0.9, 1.15, and 1.5 microns; 2.0, 2.77, and 3.35 microns; and 3.56, 4.1, and 4.44 microns (F090W, F115W, and F150W; F200W, F277W, and F335M; and F356W, F410M, and F444W), respectively.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/127/01H1Q1CGJD51CDJTK2NHJWD06M\">Read the full image caption.</a></p>",
+    "ra_position": [
+      3,
+      32,
+      36
+    ],
+    "dec_position": [
+      -27,
+      46,
+      49
+    ]
+  },
+  {
+    "title": "Galaxy Protocluster (NIRCam Image)",
+    "file": "data/cosmology/cards_html/33.html",
+    "release_date": "April 24, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GYAMEFPKGFZ0HKGY3SQZ2VVQ.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The seven galaxies highlighted in this James Webb Space Telescope image have been confirmed to be at a distance that astronomers refer to as <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a138baf3-5963-4640-a405-aa3552a5152e\" target=\"_self\">redshift</a> 7.9, which correlates to 650 million years after the big bang. This makes them the earliest galaxies yet to be spectroscopically confirmed as part of a developing cluster.&nbsp;</p>\n<p>Astronomers used the telescope’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0T08S2V810Y7ENZMGWTVDA\">Near-Infrared Spectrograph</a> (NIRSpec) instrument to precisely measure the distances and determine that the galaxies are part of a developing cluster. Galaxy YD4, previously estimated to be at a further distance based on imaging data alone, was able to be more accurately placed at the same redshift as the other galaxies. Before Webb, astronomers did not have high resolution imaging or spectral infrared data available to do this type of science.&nbsp;</p>\n<p>At extreme distances, astronomers use the redshift reference to account for the fact that, as the universe expands, wavelengths of light are stretched and “shifted” to redder wavelengths, which are longer. Shorter wavelengths, for example ultraviolet and X-ray, are toward the bluer end of the <a href=\"https://webbtelescope.org/contents/media/images/4188-Image\" target=\"_self\">electromagnetic spectrum</a>. So extreme distances in the early universe are referenced by how much the light emitted there has been shifted as it traveled through space to be detected by a telescope.&nbsp;</p>\n<p>&nbsp;</p>",
+    "ra_position": [
+      0,
+      14,
+      18
+    ],
+    "dec_position": [
+      -30,
+      22,
+      46
+    ]
+  },
+  {
+    "title": "Galaxy Protocluster (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/34.html",
+    "release_date": "April 24, 2023 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GYD5JAY5HMVGXPXGP0MZVWXK.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of a distant galaxy protocluster in the early universe, captured by the Near-Infrared Camera (NIRCam) on NASA’s James Webb Space Telescope, with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in arc seconds, which is a measure of angular distance on the sky. One arc second is equal to 1/3600 of one degree of arc. (The full Moon has an angular diameter of about 0.5 degrees.) The actual size of an object that covers one arc second on the sky depends on its distance from the telescope.</p>\n<p>The color key shows the NIRCam filters used. The color of each filter name is the visible light color used to represent the infrared light that passed through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2023/118/01GYAME6CMAYQ2B2KPG791RP7M\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      14,
+      18
+    ],
+    "dec_position": [
+      -30,
+      22,
+      46
+    ]
+  },
+  {
+    "title": "Pandora's Cluster (NIRCam Image)",
+    "file": "data/cosmology/cards_html/35.html",
+    "release_date": "February 15, 2023 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GQQF50BGK43DS55KHHVVCVG1.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Astronomers estimate 50,000 sources of near-infrared light are represented in this image from NASA’s James Webb Space Telescope. Their light has travelled through varying distances to reach the telescope’s detectors, representing the vastness of space in a single image. A foreground star in our own galaxy, to the right of the image center, displays Webb’s distinctive diffraction spikes. Bright white sources surrounded by a hazy glow are the galaxies of Pandora’s Cluster, a conglomeration of already-massive clusters of galaxies coming together to form a megacluster. The concentration of mass is so great that the fabric of spacetime is warped by gravity, creating an effect that makes the region of special interest to astronomers: a natural, super-magnifying glass called a “gravitational lens” that they can use to see very distant sources of light beyond the cluster that would otherwise be undetectable, even to Webb.&nbsp;</p>\n<p>These lensed sources appear red in the image, and often as elongated arcs distorted by the gravitational lens. Many of these are galaxies from the early universe, with their contents magnified and stretched out for astronomers to study. Other red sources in the image have yet to be confirmed by follow-up observations with Webb’s Near-Infrared Spectrograph (NIRSpec) instrument to determine their true nature. One intriguing example is an extremely compact source that appears as a tiny red dot, despite the magnifying effect of the gravitational lens. One possibility is that the dot is a supermassive black hole in the early universe. NIRSpec data will provide both distance measurements and compositional details of selected sources, providing a wealth of previously-inaccessible information about the universe and how it has evolved over time.&nbsp;</p>\n<h3>Video tour</h3>\n<p><a href=\"https://webbtelescope.org/contents/media/videos/2023/107/01GS5SCDZKWA0Q1MYJ3PHVY3TQ?news=true\" target=\"_self\">Take a guided video tour</a> highlighting key features of Pandora’s Cluster.</p>",
+    "ra_position": [
+      0,
+      14,
+      18
+    ],
+    "dec_position": [
+      -30,
+      22,
+      46
+    ]
+  },
+  {
+    "title": "Abell 2744 GLASS (NIRCam Image)",
+    "file": "data/cosmology/cards_html/38.html",
+    "release_date": "November 17, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GG7S6RANFE43ABCW247D55HZ.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Two of the farthest galaxies seen to date are captured in these Webb Space Telescope pictures of the outer regions of the giant galaxy cluster Abell 2744. The galaxies are not inside the cluster, but many billions of light-years farther behind it. The galaxy labeled (1) existed only 450 million years after the big bang. The galaxy labeled (2) existed 350 million years after the big bang. Both are seen really close in time to the big bang which occurred 13.8 billion years ago. These galaxies are tiny compared to our Milky Way, being just a few percent of its size, even the unexpectedly elongated galaxy labeled (1).</p>",
+    "ra_position": [
+      0,
+      14,
+      22
+    ],
+    "dec_position": [
+      -30,
+      23,
+      44
+    ]
+  },
+  {
+    "title": "Abell 2744 GLASS (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/39.html",
+    "release_date": "November 17, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01GG7TPG6DGZ4KA37SES9AS46D.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Images of Pandora’s Cluster, Abell 2744, captured by Webb’s Near-Infrared Camera (NIRCam), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in arc seconds, which is a measure of angular distance on the sky. One arc second is equal to 1/3600 of one degree of arc. (The full Moon has an angular diameter of about 0.5 degrees.) The actual size of an object that covers one arc second on the sky depends on its distance from the telescope.</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters that were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/044/01GG7S6F5V52E5F489R72X7ZNE\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      14,
+      22
+    ],
+    "dec_position": [
+      -30,
+      23,
+      44
+    ]
+  },
+  {
+    "title": "CEERS Crop (NIRCam Image)",
+    "file": "data/cosmology/cards_html/4.html",
+    "release_date": "August 26, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01J5E849R5W27ZZ2C3QAE9ET75.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image shows a small portion of the field observed by NASA’s James Webb Space Telescope’s NIRCam (Near-Infrared Camera) for the Cosmic Evolution Early Release Science (CEERS) survey. It is filled with galaxies. The light from some of them has traveled for over 13 billion years to reach the telescope.</p>\n<p>Some galaxies appear to have grown so massive, so quickly, that simulations couldn’t account for them. However, a new study finds that some of those early galaxies are in fact much less massive than they first appeared. Black holes in some of those galaxies make them appear much brighter and bigger than they really are.</p>\n<p>Read more about the <a href=\"https://webbtelescope.org/contents/media/images/2023/114/01GYZ71RJZ8YDS71CKF6G2F18R\">full CEERS image here</a>.</p>",
+    "ra_position": [
+      14,
+      19,
+      46
+    ],
+    "dec_position": [
+      52,
+      53,
+      37
+    ]
+  },
+  {
+    "title": "MACS0647 (NIRCam Image)",
+    "file": "data/cosmology/cards_html/40.html",
+    "release_date": "October 26, 2022 11:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GG827CJ7RY1VHWXG7AMRQBWK.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The massive gravity of galaxy cluster MACS0647 acts as a cosmic lens to bend and magnify light from the more distant MACS0647-JD system. It also triply lensed the JD system, causing its image to appear in three separate locations. These images, which are highlighted with white boxes, are marked JD1, JD2, and JD3; zoomed-in views are shown in the panels at right. In this image from Webb’s Near Infrared Camera (NIRCam) instrument, blue was assigned to wavelengths of 1.15 and 1.5 microns (F115W, F150W), green to wavelengths of 2.0 and 2.77 microns (F200W, F277W) and red to wavelengths of 3.65 and 4.44 microns (F365W, F444W).&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-offers-never-before-seen-details-of-early-universe.html\" target=\"_self\">Read the story.</a>&nbsp;</p>",
+    "ra_position": [
+      6,
+      47,
+      50
+    ],
+    "dec_position": [
+      70,
+      14,
+      55
+    ]
+  },
+  {
+    "title": "Interacting Galaxies VV 191 (Webb and Hubble Composite Image)",
+    "file": "data/cosmology/cards_html/41.html",
+    "release_date": "October 05, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GE0993DBCZXEBR2ZH5JAHTT6.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p><strong><em>Editor’s Note</em></strong><em>: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.</em></p>\n<p>By combining data from NASA’s James Webb Space Telescope and NASA’s Hubble Space Telescope, researchers were able to trace light that was emitted by the large white elliptical galaxy at left through the spiral galaxy at right and identify the effects of interstellar dust in the spiral galaxy. This image of galaxy pair VV 191 includes near-infrared light from Webb, and ultraviolet and visible light from Hubble.&nbsp;</p>\n<p>Webb’s near-infrared data also show us the galaxy’s longer, extremely dusty spiral arms in far more detail, giving them an appearance of overlapping with the central bulge of the bright white elliptical galaxy on the left. Although the two foreground galaxies are relatively close astronomically speaking, they are not actively interacting.</p>\n<p>Don’t overlook the background scenery! Like many Webb images, this image of VV 191 shows many galaxies that lie great distances away. For example, two patchy spirals to the upper left of the elliptical galaxy have similar apparent sizes, but show up in very different colors. One is likely very dusty and the other very far away, but researchers need to obtain data known as <a href=\"https://webbtelescope.org/glossary.html#h3-CK-b6199c5e-9065-4803-891c-6f17deada9a6\" target=\"_self\">spectra</a> to determine which is which.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-hubble-team-up-to-trace-interstellar-dust-within-a-galactic-pair.html\" target=\"_self\">Read the full story.</a></p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>",
+    "ra_position": [
+      13,
+      48,
+      22
+    ],
+    "dec_position": [
+      25,
+      40,
+      49
+    ]
+  },
+  {
+    "title": "Lensed Galaxies in VV 191 (Webb and Hubble Composite Image)",
+    "file": "data/cosmology/cards_html/42.html",
+    "release_date": "October 05, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GE098MJC0G4MMFA81FZG31RX.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p><strong><em>Editor’s Note</em></strong><em>: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.</em></p>\n<p>Researchers identified a previously unknown lensed galaxy for the first time in new near-infrared data from NASA’s James Webb Space Telescope.</p>\n<p>Examine the white elliptical galaxy at left. A faint red arc appears in the inset at 10 o’clock. This is a very distant galaxy whose appearance is warped in Webb’s image. Its light is bent by the gravity of the elliptical foreground galaxy. Plus, its appearance is duplicated. The stretched red arc reappears – as a dot – at 4 o’clock.</p>\n<p>These images of the lensed galaxy are so faint and so red that they went unrecognized in Hubble data, but are unmistakable in Webb’s near-infrared image. Simulations of gravitationally lensed galaxies like this help researchers reconstruct how much mass is in individual stars, along with how much dark matter is in the core of this galaxy.</p>\n<p>This image includes ultraviolet and visible data from NASA’s Hubble Space Telescope.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-hubble-team-up-to-trace-interstellar-dust-within-a-galactic-pair.html\" target=\"_self\">Read the full story.</a></p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p></p>",
+    "ra_position": [
+      13,
+      48,
+      22
+    ],
+    "dec_position": [
+      25,
+      40,
+      49
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (NIRCam Image)",
+    "file": "data/cosmology/cards_html/43.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DCYVZ899DGSY684E801B2Y.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Thousands of galaxies flood this near-infrared image of galaxy cluster SMACS 0723. High-resolution imaging from NASA’s James Webb Space Telescope combined with a natural effect known as <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lensing</a> made this finely detailed image possible.</p>\n<p>First, focus on the galaxies responsible for the lensing: the bright white elliptical galaxy at the center of the image and smaller white galaxies throughout the image. Bound together by gravity in a galaxy cluster, they are bending the light from galaxies that appear in the vast distances behind them. The combined mass of the galaxies and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a22a0ad6-591a-4ed5-a769-73fbbb6b295e\" target=\"_self\">dark matter</a> act as a cosmic telescope, creating magnified, contorted, and sometimes mirrored images of individual galaxies.</p>\n<p>Clear examples of mirroring are found in the prominent orange arcs to the left and right of the brightest cluster galaxy. These are lensed galaxies – each individual galaxy is shown twice in one arc. Webb’s image has fully revealed their bright cores, which are filled with stars, along with orange star clusters along their edges.</p>\n<p>Not all galaxies in this field are mirrored – some are stretched. Others appear scattered by interactions with other galaxies, leaving trails of stars behind them.</p>\n<p>Webb has refined the level of detail we can observe throughout this field. Very diffuse galaxies appear like collections of loosely bound dandelion seeds aloft in a breeze. Individual “pods” of star formation practically bloom within some of the most distant galaxies – the clearest, most detailed views of star clusters in the early universe so far.</p>\n<p>One galaxy speckled with star clusters appears near the bottom end of the bright central star’s vertical diffraction spike – just to the right of a long orange arc. The long, thin ladybug-like galaxy is flecked with pockets of star formation. Draw a line between its “wings” to roughly match up its star clusters, mirrored top to bottom. Because this galaxy is so magnified and its individual star clusters are so crisp, researchers will be able to study it in exquisite detail, which wasn’t previously possible for galaxies this distant.</p>\n<p>The galaxies in this scene that are farthest away – the tiniest galaxies that are located well behind the cluster – look nothing like the spiral and elliptical galaxies observed in the local universe. They are much clumpier and more irregular. Webb’s highly detailed image may help researchers measure the ages and masses of star clusters within these distant galaxies. This might lead to more accurate models of galaxies that existed at cosmic “spring,” when galaxies were sprouting tiny “buds” of new growth, actively interacting and merging, and had yet to develop into larger spirals. Ultimately, Webb’s upcoming observations will help astronomers better understand how galaxies form and grow in the early universe.</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (MIRI and NIRCam Side-by-Side Compass Image)",
+    "file": "data/cosmology/cards_html/44.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NBY1YR025JBP17VM99CEXN.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of galaxy cluster SMACS 0723, affectionately known as Webb’s First Deep Field, captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), with compass arrows and color key for reference.&nbsp;</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near- and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p>Because this is a deep field that shows objects at various distances and magnifications, there is no scale bar.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/035/01G7DDDR3P8ZW10HD8MKXGV8MJ\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a> </p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)",
+    "file": "data/cosmology/cards_html/45.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DDFWDZG05PEZV7FBBHMH0J.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Galaxy cluster SMACS 0723 is a technicolor landscape when viewed in mid-infrared light by NASA’s James Webb Space Telescope. Compared to Webb’s near-infrared image at right, the galaxies and stars are awash in new colors.</p>\n<p>Start by comparing the largest bright blue star. At right, it has very long diffraction spikes, but in mid-infrared at left, its smaller points appear more like a snowflake’s. Find more stars by looking for these telltale – if tiny – spikes. Stars also appear yellow, sometimes with green diffraction spikes.</p>\n<p>If an object is blue and lacks spikes, it’s a galaxy. These galaxies contain stars, but very little dust. This means that their stars are older – there is less gas and dust available to condense to form new stars. It also means their stars are aging.</p>\n<p>The red objects in this field are enshrouded in thick layers of dust, and may very well be distant galaxies. Some may be stars, but research is needed to fully identify each object in the mid-infrared image.</p>\n<p>The prominent arcs at the center of the galaxy cluster, which are galaxies that are stretched and magnified by <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lensing</a>, appear blue in the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) image at left and orange in the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) image at right. These galaxies are older and have much less dust.</p>\n<p>Galaxies’ sizes in both images offer clues as to how distant they may be – the smaller the object, the more distant it is. In mid-infrared light, galaxies that are closer appear whiter.</p>\n<p>Among this kaleidoscope of colors in the MIRI image, green is the most tantalizing. Green indicates a galaxy’s dust includes a mix of hydrocarbons and other chemical compounds.</p>\n<p>The differences in Webb’s images are owed to the technical capabilities of the MIRI and NIRCam instruments. MIRI captures mid-infrared light, which highlights where the dust is. Dust is a major ingredient for star formation. Stars are brighter at shorter wavelengths, which is why they appear with prominent diffraction spikes in the NIRCam image.</p>\n<p>With Webb’s mid-infrared data, researchers will soon be able to add much more precise calculations of dust quantities in stars and galaxies to their models, and begin to more clearly understand how galaxies at any distance form and change over time.</p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field Unveiled (NIRCam Image)",
+    "file": "data/cosmology/cards_html/48.html",
+    "release_date": "July 11, 2022 6:21PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7JHZCV9737KVQ1ZWB717GFN.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail.</p>\n<p>Thousands of galaxies – including the faintest objects ever observed in the infrared – have appeared in Webb’s view for the first time. This slice of the vast universe is approximately the size of a grain of sand held at arm’s length by someone on the ground.</p>\n<p>This deep field, taken by Webb’s Near-Infrared Camera (NIRCam), is a composite made from images at different wavelengths, totaling 12.5 hours – achieving depths at infrared wavelengths beyond the Hubble Space Telescope’s deepest fields, which took weeks.&nbsp;</p>\n<p>The image shows the galaxy cluster SMACS 0723 as it appeared 4.6 billion years ago. The combined mass of this galaxy cluster acts as a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lens</a>, magnifying much more distant galaxies behind it. Webb’s NIRCam has brought those distant galaxies into sharp focus – they have tiny, faint structures that have never been seen before, including star clusters and diffuse features. Researchers will soon begin to learn more about the galaxies’ masses, ages, histories, and compositions, as Webb seeks the earliest galaxies in the universe.</p>\n<p>This image is among the telescope’s first-full color images. The full suite will be released Tuesday, July 12, beginning at 10:30 a.m. EDT, during a live <a href=\"https://www.nasa.gov/multimedia/nasatv/#public\" target=\"_self\">NASA TV</a> broadcast. Learn more about <a href=\"https://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal\" target=\"_self\">how to watch</a>.</p>\n<p><em>The James Webb Space Telescope is the world's premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).</em></p>\n<p><em>NASA Headquarters oversees the mission for the agency’s Science Mission Directorate. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages Webb for the agency and oversees work on the mission performed by the Space Telescope Science Institute, Northrop Grumman, and other mission partners. In addition to Goddard, several NASA centers contributed to the project, including the agency’s Johnson Space Center in Houston, Jet Propulsion Laboratory (JPL) in Southern California, Marshall Space Flight Center in Huntsville, Alabama, Ames Research Center in California’s Silicon Valley, and others.</em></p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p>For a full array of Webb���s first images and spectra, including downloadable files, please visit:<a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\"> https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (NIRCam Compass Image)",
+    "file": "data/cosmology/cards_html/49.html",
+    "release_date": "July 11, 2022 6:21PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NF71FSXSAH09NJRXXWT7KX.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of galaxy cluster SMACS 0723, affectionately known as Webb’s First Deep Field, captured by Webb’s Near-Infrared Camera (NIRCam), with compass arrows and color key for reference.&nbsp;</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p>Because this is a deep field that shows objects at various distances and magnifications, there is no scale bar.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1\">Read the full image caption.</a></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "JADES Transient Survey (NIRCam Image)",
+    "file": "data/cosmology/cards_html/5.html",
+    "release_date": "June 10, 2024 3:15PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HZME8DGH0V7TATHCAXHN72E0.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The JADES Deep Field uses observations taken by NASA’s James Webb Space Telescope (JWST) as part of the JADES (JWST Advanced Deep Extragalactic Survey) program. A team of astronomers studying JADES data identified about 80 objects (circled in green) that changed in brightness over time. Most of these objects, known as transients, are the result of exploding stars or supernovae.</p>\n<p>Prior to this survey, only a handful of supernovae had been found above a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a138baf3-5963-4640-a405-aa3552a5152e\">redshift</a> of 2, which corresponds to when the universe was only 3.3 billion years old — just 25% of its current age. The JADES sample contains many supernovae that exploded even further in the past, when the universe was less than 2 billion years old. It includes the farthest one ever <a href=\"https://webbtelescope.org/glossary.html#h3-CK-4cfac646-5c48-45b7-956a-70caac1af29c\">spectroscopically</a> confirmed, at a redshift of 3.6. Its progenitor star exploded when the universe was only 1.8 billion years old.</p>",
+    "ra_position": [
+      3,
+      32,
+      36
+    ],
+    "dec_position": [
+      -27,
+      46,
+      49
+    ]
+  },
+  {
+    "title": "The COSMOS Hubble ACS Field",
+    "file": "data/cosmology/cards_html/50.html",
+    "release_date": "August 18, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FD7GZNSGY4B8VA8KGBX7GNKB.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This sea of galaxies is the complete, original COSMOS field from the Hubble Space Telescope’s Advanced Camera for Surveys (ACS). The full mosaic is a composite of 575 separate ACS images, where each ACS image is about one-tenth the diameter of the full Moon. The jagged edges of the outline are due to the separate images that make up the survey field.</p>",
+    "ra_position": [
+      10,
+      0,
+      28
+    ],
+    "dec_position": [
+      2,
+      12,
+      21
+    ]
+  },
+  {
+    "title": "GOODS-S/ERS2 Field (Hubble)",
+    "file": "data/cosmology/cards_html/54.html",
+    "release_date": "January 15, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EX2BBQ7QECY35M3GAHHAKE3D.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is a Hubble Space Telescope view of a portion of GOODS-South, the southern field of a large deep-sky study by several observatories to trace the formation and evolution of galaxies. The image shows a rich tapestry of 7,500 galaxies stretching back through most of the universe's history. The farthest galaxies, a few of the very faint red specks, are seen as they appeared more than 13 billion years ago, or roughly 650 million years after the Big Bang. Soon, the James Webb Space Telescope will peer back even farther into this field to trace the formation and evolution of the very first galaxies.</p>",
+    "ra_position": [
+      3,
+      32,
+      40
+    ],
+    "dec_position": [
+      -27,
+      43,
+      9
+    ]
+  },
+  {
+    "title": "Extended Groth Strip (Hubble)",
+    "file": "data/cosmology/cards_html/57.html",
+    "release_date": "June 24, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVST7PYE2HGJ068FBPQ0MFZD.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the Hubble Space Telescope shows a part of the sky known as the Extended Groth Strip (EGS). The CEERS Survey researchers will use the James Webb Space Telescope to observe the Extended Groth Strip in infrared light. Their observations employ three of the telescope’s instruments and will provide both images and spectra of the objects in the field — which includes at least 50,000 galaxies — helping to expand what we know about galaxies in the very early universe.</p>",
+    "ra_position": [
+      14,
+      16,
+      59
+    ],
+    "dec_position": [
+      52,
+      30,
+      0
+    ]
+  },
+  {
+    "title": "SDSS J1226+2152 (Hubble)",
+    "file": "data/cosmology/cards_html/59.html",
+    "release_date": "August 21, 2019 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSV8P4Y9XMDEQQM3YZDFB8E.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is a Hubble Space Telescope image of galaxy SDSS J1226+2152, which is being magnified and distorted by the immense gravity of a galaxy cluster in front of it. It is one of four distant, star-forming galaxies the TEMPLATES team will study with Webb. The team chose it as an example of a galaxy that is not very dusty.</p>",
+    "ra_position": [
+      12,
+      26,
+      51
+    ],
+    "dec_position": [
+      21,
+      52,
+      19
+    ]
+  },
+  {
+    "title": "JADES Transients (NIRCam Image)",
+    "file": "data/cosmology/cards_html/6.html",
+    "release_date": "June 10, 2024 3:15PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HZMHJRHK1XMD45WP00XZ42R2.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This mosaic displays three of about 80 transients, or objects of changing brightness, identified in data from the JADES (JWST Advanced Deep Extragalactic Survey) program. Most of the transients are the result of exploding stars or supernovae. By comparing images taken in 2022 and 2023, astronomers could locate supernovae that, from our perspective, recently exploded (like the examples shown in the first two columns), or supernovae that had already exploded and whose light was fading away (third column).</p>\n<p>The age of each supernova can be determined from its <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a138baf3-5963-4640-a405-aa3552a5152e\">redshift</a> (designated by ‘z’). The light of the most distant supernova, at a redshift of 3.8, originated when the universe was only 1.7 billion years old. A redshift of 2.845 corresponds to a time 2.3 billion years after the big bang. The closest example, at a redshift of 0.655, shows light that left its galaxy about 6 billion years ago, when the universe was just over half its current age.</p>",
+    "ra_position": [
+      3,
+      32,
+      36
+    ],
+    "dec_position": [
+      -27,
+      46,
+      49
+    ]
+  },
+  {
+    "title": "Lynx Arc Star-Formation Region (Illustration)",
+    "file": "data/cosmology/cards_html/73.html",
+    "release_date": "May 14, 2018 8:10AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FN998H1XGTS0YWWXA8K7A4GD.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Lynx arc is a vast star birth region 12 billion light-years from Earth that contains 1 million ultra-hot stars. This artist's impression depicts torrent of ultraviolet radiation illuminating cold hydrogen gas. Astronomers regard this super star-birth region as an  example of the early days of the universe where furious firestorms of star birth blazed across the skies.</p>",
+    "ra_position": [
+      8,
+      48,
+      48
+    ],
+    "dec_position": [
+      44,
+      55,
+      49
+    ]
+  },
+  {
+    "title": "Hubble Frontier Field Abell 2744",
+    "file": "data/cosmology/cards_html/74.html",
+    "release_date": "April 25, 2018 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVT0R1MTA1D9TNY9FB37KR4J.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This long-exposure Hubble Space Telescope image of massive galaxy cluster Abell 2744 shows some of the faintest and youngest galaxies ever detected in space. Abell 2744, located in the constellation Sculptor, appears in the foreground of this image. It contains several hundred galaxies as they looked 3.5 billion years ago. The immense gravity in Abell 2744 acts as a gravitational lens to warp space and brighten and magnify images of nearly 3,000 distant background galaxies. The more distant galaxies appear as they did longer than 12 billion years ago, not long after the big bang.&nbsp;</p>\n<p>New research shows that the James Webb Space Telescope could potentially detect the first stars and black holes in the universe, if they are gravitationally lensed by a cluster like Abell 2744. A very precise alignment of the cluster and background star would be needed, so Webb would need to observe a number of clusters repeatedly for the best chance of success.</p>",
+    "ra_position": [
+      0,
+      14,
+      19
+    ],
+    "dec_position": [
+      -30,
+      23,
+      19
+    ]
+  },
+  {
+    "title": "NGC 5468 (Webb NIRCam + Hubble WFC3)",
+    "file": "data/cosmology/cards_html/8.html",
+    "release_date": "March 11, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HQ6CGRCCC30RA3GJ74H05231.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of NGC 5468, a galaxy located about 130 million light-years from Earth, combines data from the Hubble and James Webb space telescopes. This is the farthest galaxy in which Hubble has identified Cepheid variable stars. These are important milepost markers for measuring the expansion rate of the universe. The distance calculated from Cepheids has been cross-correlated with a type Ia supernova in the galaxy. Type Ia supernovae are so bright they are used to measure cosmic distances far beyond the range of the Cepheids, extending measurements of the universe's expansion rate deeper into space.</p>",
+    "ra_position": [
+      14,
+      6,
+      35
+    ],
+    "dec_position": [
+      -5,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Cepheid Variable Star P42 in NGC 5468",
+    "file": "data/cosmology/cards_html/9.html",
+    "release_date": "March 11, 2024 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01HR59QCWVZ3Z2PN1M58NFXQ3K.png",
+    "category": "cosmology",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>At the center of these side-by-side images is a special class of star used as a milepost marker for measuring the universe’s rate of expansion – a Cepheid variable star. The two images are very pixelated because they are a very zoomed-in view of a distant galaxy. Each of the pixels represents one or more stars. The image from the James Webb Space Telescope is significantly sharper at near-infrared wavelengths than Hubble (which is primarily a visible-ultraviolet light telescope). By reducing the clutter with Webb’s crisper vision, the Cepheid stands out more clearly, eliminating any potential confusion. Webb was used to look at a sample of Cepheids and confirmed the accuracy of the previous Hubble observations that are fundamental to precisely measuring the universe’s expansion rate and age.</p>",
+    "ra_position": [
+      14,
+      6,
+      35
+    ],
+    "dec_position": [
+      -5,
+      27,
+      15
+    ]
+  }
+]

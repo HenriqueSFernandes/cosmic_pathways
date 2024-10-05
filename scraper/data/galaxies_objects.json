@@ -1,0 +1,686 @@
+[
+  {
+    "title": "Lensed Galaxies in VV 191 (Webb and Hubble Composite Image)",
+    "file": "data/galaxies/cards_html/0.html",
+    "release_date": "October 05, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GE098MJC0G4MMFA81FZG31RX.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p><strong><em>Editor’s Note</em></strong><em>: This post highlights data from Webb science in progress, which has not yet been through the peer-review process.</em></p>\n<p>Researchers identified a previously unknown lensed galaxy for the first time in new near-infrared data from NASA’s James Webb Space Telescope.</p>\n<p>Examine the white elliptical galaxy at left. A faint red arc appears in the inset at 10 o’clock. This is a very distant galaxy whose appearance is warped in Webb’s image. Its light is bent by the gravity of the elliptical foreground galaxy. Plus, its appearance is duplicated. The stretched red arc reappears – as a dot – at 4 o’clock.</p>\n<p>These images of the lensed galaxy are so faint and so red that they went unrecognized in Hubble data, but are unmistakable in Webb’s near-infrared image. Simulations of gravitationally lensed galaxies like this help researchers reconstruct how much mass is in individual stars, along with how much dark matter is in the core of this galaxy.</p>\n<p>This image includes ultraviolet and visible data from NASA’s Hubble Space Telescope.</p>\n<p><a href=\"https://webbtelescope.org/contents/early-highlights/webb-hubble-team-up-to-trace-interstellar-dust-within-a-galactic-pair.html\" target=\"_self\">Read the full story.</a></p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p></p>",
+    "ra_position": [
+      13,
+      48,
+      22
+    ],
+    "dec_position": [
+      25,
+      40,
+      49
+    ]
+  },
+  {
+    "title": "Cartwheel Galaxy (NIRCam and MIRI Composite Image)",
+    "file": "data/galaxies/cards_html/1.html",
+    "release_date": "August 02, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G8JXRG3DGMM2R8HS37YRG531.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of the Cartwheel and its companion galaxies is a composite from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\">Near-Infrared Camera</a> (NIRCam) and <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\">Mid-Infrared Instrument</a> (MIRI), which reveals details that are difficult to see in the individual images alone.</p>\n<p>This galaxy formed as the result of a high-speed collision that occurred about 400 million years ago. The Cartwheel is composed of two rings, a bright inner ring and a colorful outer ring. Both rings expand outward from the center of the collision like shockwaves.</p>\n<p>However, despite the impact, much of the character of the large, spiral galaxy that existed before the collision remains, including its rotating arms. This leads to the “spokes” that inspired the name of the Cartwheel Galaxy, which are the bright red streaks seen between the inner and outer rings. These brilliant red hues, located not only throughout the Cartwheel, but also the companion spiral galaxy at the top left, are caused by glowing, hydrocarbon-rich dust.</p>\n<p>In this near- and mid-infrared composite image, MIRI data are colored red while NIRCam data are colored blue, orange, and yellow. Amidst the red swirls of dust, there are many individual blue dots, which represent individual stars or pockets of star formation. NIRCam also defines the difference between the older star populations and dense dust in the core and the younger star populations outside of it.</p>\n<p>Webb’s observations capture the Cartwheel in a very transitory stage. The form that the Cartwheel Galaxy will eventually take, given these two competing forces, is still a mystery. However, this snapshot provides perspective on what happened to the galaxy in the past and what it will do in the future.</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      0,
+      37,
+      41
+    ],
+    "dec_position": [
+      -33,
+      42,
+      59
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (NIRCam and MIRI Composite Compass Image)",
+    "file": "data/galaxies/cards_html/10.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NJ5XTR3GPCY9DB5HQW3MYJ.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of Stephan's Quintet, HCG 92, captured by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) and <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 100,000 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 620,000 light-years across.&nbsp;</p>\n<p>This image shows invisible near- and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/034/01G7DA5ADA2WDSK1JJPQ0PTG4A\">Read the full image caption.</a></p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (MIRI Compass Image)",
+    "file": "data/galaxies/cards_html/11.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NGKD3FCY7STNMEXAJG5521.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of Stephan's Quintet, HCG 92, captured by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 100,000 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 370,000 light-years across.&nbsp;</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/034/01G7DBCJA1M1SSGKDMH7F5XMBE\">Read the full image caption.</a></p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (NIRCam Image)",
+    "file": "data/galaxies/cards_html/12.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DCYVZ899DGSY684E801B2Y.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Thousands of galaxies flood this near-infrared image of galaxy cluster SMACS 0723. High-resolution imaging from NASA’s James Webb Space Telescope combined with a natural effect known as <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lensing</a> made this finely detailed image possible.</p>\n<p>First, focus on the galaxies responsible for the lensing: the bright white elliptical galaxy at the center of the image and smaller white galaxies throughout the image. Bound together by gravity in a galaxy cluster, they are bending the light from galaxies that appear in the vast distances behind them. The combined mass of the galaxies and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-a22a0ad6-591a-4ed5-a769-73fbbb6b295e\" target=\"_self\">dark matter</a> act as a cosmic telescope, creating magnified, contorted, and sometimes mirrored images of individual galaxies.</p>\n<p>Clear examples of mirroring are found in the prominent orange arcs to the left and right of the brightest cluster galaxy. These are lensed galaxies – each individual galaxy is shown twice in one arc. Webb’s image has fully revealed their bright cores, which are filled with stars, along with orange star clusters along their edges.</p>\n<p>Not all galaxies in this field are mirrored – some are stretched. Others appear scattered by interactions with other galaxies, leaving trails of stars behind them.</p>\n<p>Webb has refined the level of detail we can observe throughout this field. Very diffuse galaxies appear like collections of loosely bound dandelion seeds aloft in a breeze. Individual “pods” of star formation practically bloom within some of the most distant galaxies – the clearest, most detailed views of star clusters in the early universe so far.</p>\n<p>One galaxy speckled with star clusters appears near the bottom end of the bright central star’s vertical diffraction spike – just to the right of a long orange arc. The long, thin ladybug-like galaxy is flecked with pockets of star formation. Draw a line between its “wings” to roughly match up its star clusters, mirrored top to bottom. Because this galaxy is so magnified and its individual star clusters are so crisp, researchers will be able to study it in exquisite detail, which wasn’t previously possible for galaxies this distant.</p>\n<p>The galaxies in this scene that are farthest away – the tiniest galaxies that are located well behind the cluster – look nothing like the spiral and elliptical galaxies observed in the local universe. They are much clumpier and more irregular. Webb’s highly detailed image may help researchers measure the ages and masses of star clusters within these distant galaxies. This might lead to more accurate models of galaxies that existed at cosmic “spring,” when galaxies were sprouting tiny “buds” of new growth, actively interacting and merging, and had yet to develop into larger spirals. Ultimately, Webb’s upcoming observations will help astronomers better understand how galaxies form and grow in the early universe.</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (MIRI and NIRCam Side-by-Side Compass Image)",
+    "file": "data/galaxies/cards_html/13.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NBY1YR025JBP17VM99CEXN.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of galaxy cluster SMACS 0723, affectionately known as Webb’s First Deep Field, captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), with compass arrows and color key for reference.&nbsp;</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near- and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p>Because this is a deep field that shows objects at various distances and magnifications, there is no scale bar.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/035/01G7DDDR3P8ZW10HD8MKXGV8MJ\" target=\"_blank\" rel=\"noopener\">Read the full image caption.</a> </p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb’s First Deep Field (MIRI and NIRCam Images Side by Side)",
+    "file": "data/galaxies/cards_html/14.html",
+    "release_date": "July 12, 2022 10:39AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DDFWDZG05PEZV7FBBHMH0J.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Galaxy cluster SMACS 0723 is a technicolor landscape when viewed in mid-infrared light by NASA’s James Webb Space Telescope. Compared to Webb’s near-infrared image at right, the galaxies and stars are awash in new colors.</p>\n<p>Start by comparing the largest bright blue star. At right, it has very long diffraction spikes, but in mid-infrared at left, its smaller points appear more like a snowflake’s. Find more stars by looking for these telltale – if tiny – spikes. Stars also appear yellow, sometimes with green diffraction spikes.</p>\n<p>If an object is blue and lacks spikes, it’s a galaxy. These galaxies contain stars, but very little dust. This means that their stars are older – there is less gas and dust available to condense to form new stars. It also means their stars are aging.</p>\n<p>The red objects in this field are enshrouded in thick layers of dust, and may very well be distant galaxies. Some may be stars, but research is needed to fully identify each object in the mid-infrared image.</p>\n<p>The prominent arcs at the center of the galaxy cluster, which are galaxies that are stretched and magnified by <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lensing</a>, appear blue in the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI) image at left and orange in the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) image at right. These galaxies are older and have much less dust.</p>\n<p>Galaxies’ sizes in both images offer clues as to how distant they may be – the smaller the object, the more distant it is. In mid-infrared light, galaxies that are closer appear whiter.</p>\n<p>Among this kaleidoscope of colors in the MIRI image, green is the most tantalizing. Green indicates a galaxy’s dust includes a mix of hydrocarbons and other chemical compounds.</p>\n<p>The differences in Webb’s images are owed to the technical capabilities of the MIRI and NIRCam instruments. MIRI captures mid-infrared light, which highlights where the dust is. Dust is a major ingredient for star formation. Stars are brighter at shorter wavelengths, which is why they appear with prominent diffraction spikes in the NIRCam image.</p>\n<p>With Webb’s mid-infrared data, researchers will soon be able to add much more precise calculations of dust quantities in stars and galaxies to their models, and begin to more clearly understand how galaxies at any distance form and change over time.</p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field Unveiled (NIRCam Image)",
+    "file": "data/galaxies/cards_html/18.html",
+    "release_date": "July 11, 2022 6:21PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7JHZCV9737KVQ1ZWB717GFN.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>NASA’s James Webb Space Telescope has produced the deepest and sharpest infrared image of the distant universe to date. Known as Webb’s First Deep Field, this image of galaxy cluster SMACS 0723 is overflowing with detail.</p>\n<p>Thousands of galaxies – including the faintest objects ever observed in the infrared – have appeared in Webb’s view for the first time. This slice of the vast universe is approximately the size of a grain of sand held at arm’s length by someone on the ground.</p>\n<p>This deep field, taken by Webb’s Near-Infrared Camera (NIRCam), is a composite made from images at different wavelengths, totaling 12.5 hours – achieving depths at infrared wavelengths beyond the Hubble Space Telescope’s deepest fields, which took weeks.&nbsp;</p>\n<p>The image shows the galaxy cluster SMACS 0723 as it appeared 4.6 billion years ago. The combined mass of this galaxy cluster acts as a <a href=\"https://webbtelescope.org/glossary.html#h3-CK-2572b869-1584-45c0-a18b-0c5ffcf32e57\" target=\"_self\">gravitational lens</a>, magnifying much more distant galaxies behind it. Webb’s NIRCam has brought those distant galaxies into sharp focus – they have tiny, faint structures that have never been seen before, including star clusters and diffuse features. Researchers will soon begin to learn more about the galaxies’ masses, ages, histories, and compositions, as Webb seeks the earliest galaxies in the universe.</p>\n<p>This image is among the telescope’s first-full color images. The full suite will be released Tuesday, July 12, beginning at 10:30 a.m. EDT, during a live <a href=\"https://www.nasa.gov/multimedia/nasatv/#public\" target=\"_self\">NASA TV</a> broadcast. Learn more about <a href=\"https://www.nasa.gov/press-release/nasa-updates-coverage-for-webb-telescope-s-first-images-reveal\" target=\"_self\">how to watch</a>.</p>\n<p><em>The James Webb Space Telescope is the world's premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).</em></p>\n<p><em>NASA Headquarters oversees the mission for the agency’s Science Mission Directorate. NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages Webb for the agency and oversees work on the mission performed by the Space Telescope Science Institute, Northrop Grumman, and other mission partners. In addition to Goddard, several NASA centers contributed to the project, including the agency’s Johnson Space Center in Houston, Jet Propulsion Laboratory (JPL) in Southern California, Marshall Space Flight Center in Huntsville, Alabama, Ames Research Center in California’s Silicon Valley, and others.</em></p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit:<a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\"> https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Webb's First Deep Field (NIRCam Compass Image)",
+    "file": "data/galaxies/cards_html/19.html",
+    "release_date": "July 11, 2022 6:21PM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NF71FSXSAH09NJRXXWT7KX.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of galaxy cluster SMACS 0723, affectionately known as Webb’s First Deep Field, captured by Webb’s Near-Infrared Camera (NIRCam), with compass arrows and color key for reference.&nbsp;</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>This image shows invisible near-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p>Because this is a deep field that shows objects at various distances and magnifications, there is no scale bar.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/038/01G7JGTH21B5GN9VCYAHBXKSD1\">Read the full image caption.</a></p>",
+    "ra_position": [
+      7,
+      23,
+      19
+    ],
+    "dec_position": [
+      -73,
+      27,
+      15
+    ]
+  },
+  {
+    "title": "Cartwheel Galaxy (MIRI Image)",
+    "file": "data/galaxies/cards_html/2.html",
+    "release_date": "August 02, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G8KCAK75G2JPGHNC40PVTA1R.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\">Mid-Infrared Instrument</a> (MIRI) shows a group of galaxies, including a large distorted ring-shaped galaxy known as the Cartwheel. The Cartwheel Galaxy, located 500 million light-years away in the Sculptor constellation, is composed of a bright inner ring and an active outer ring. While this outer ring has a lot of star formation, the dusty area in between reveals many stars and star clusters.</p>\n<p>The mid-infrared light captured by MIRI reveals fine details about these dusty regions and young stars within the Cartwheel Galaxy, which are rich in hydrocarbons and other chemical compounds, as well as silicate dust, like much of the dust on Earth.</p>\n<p>Young stars, many of which are present in the bottom right of the outer ring, energize surrounding hydrocarbon dust, causing it to glow orange. On the other hand, the clearly defined dust between the core and the outer ring, which forms the “spokes” that inspire the galaxy’s name, is mostly silicate dust.</p>\n<p>The smaller spiral galaxy to the upper left of Cartwheel displays much of the same behavior, showing a large amount of star formation.&nbsp;</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>",
+    "ra_position": [
+      0,
+      37,
+      41
+    ],
+    "dec_position": [
+      -33,
+      42,
+      59
+    ]
+  },
+  {
+    "title": "Hubble Ultra Deep Field ",
+    "file": "data/galaxies/cards_html/21.html",
+    "release_date": "June 22, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FY712AC9V49V2SS034E9QBC3.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This Hubble Space Telescope image, known as the Hubble Ultra Deep Field, reveals about 10,000 galaxies and combines ultraviolet, visible, and near-infrared light. Two programs that will use the James Webb Space Telescope will add more detail to this image, capturing thousands of additional galaxies in a fuller range of infrared light. Webb will return both imagery and data known as spectra, providing more details about some of the earliest galaxies to exist in the universe for the first time.</p>\n<p>This image was captured before the launch of the James Webb Space Telescope. No Webb data are shown in this image.</p>",
+    "ra_position": [
+      3,
+      32,
+      39
+    ],
+    "dec_position": [
+      -27,
+      48,
+      0
+    ]
+  },
+  {
+    "title": "Outlines of Webb’s Ultra Deep Field Observations",
+    "file": "data/galaxies/cards_html/22.html",
+    "release_date": "June 22, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FY71XJ3ZH1NZ5EPD1A9KQER9.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image shows where the James Webb Space Telescope will observe the sky within the Hubble Ultra Deep Field, which consists of two fields. The Next Generation Deep Extragalactic Exploratory Public (NGDEEP) Survey, led by Steven L. Finkelstein, will point Webb’s Near-Infrared Imager and Slitless Spectrograph (NIRISS) on the primary Hubble Ultra Deep Field (shown in orange), and Webb’s Near-Infrared Camera (NIRCam) on the parallel field (shown in red). The program led by Michael Maseda will observe the primary field (shown in blue) using Webb’s Near-Infrared Spectrograph (NIRSpec).</p>",
+    "ra_position": [
+      3,
+      32,
+      39
+    ],
+    "dec_position": [
+      -27,
+      48,
+      0
+    ]
+  },
+  {
+    "title": "Multiwavelength View of NGC 3351 (Hubble, VLT, ALMA)",
+    "file": "data/galaxies/cards_html/23.html",
+    "release_date": "January 19, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FRNFJGRM1C2R69W7K2327959.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of spiral galaxy NGC 3351 combines observations from several observatories to reveal details about its stars and gas. Radio observations from the Atacama Large Millimeter/submillimeter Array (ALMA) show dense molecular gas in magenta. The Very Large Telescope’s Multi Unit Spectroscopic Explorer (MUSE) instrument highlights where young massive stars illuminate their surroundings, set off in red. The Hubble Space Telescope’s images highlight dust lanes in white and newly formed stars in blue. High-resolution infrared images from the Webb Space Telescope will help researchers identify where stars are forming behind dust and study the earliest stages of star formation in this galaxy.</p>",
+    "ra_position": [
+      10,
+      43,
+      55
+    ],
+    "dec_position": [
+      11,
+      41,
+      24
+    ]
+  },
+  {
+    "title": "Multiwavelength View of NGC 1300 (ALMA, VLT)",
+    "file": "data/galaxies/cards_html/25.html",
+    "release_date": "January 19, 2022 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01FRNP4TNW7VRF9K6MEZFNVNW1.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of spiral galaxy NGC 1300 combines multiple observations to map stellar populations and gas. Radio light observed by the Atacama Large Millimeter/submillimeter Array (ALMA), represented in yellow, highlights the clouds of cold molecular gas that provide the raw material from which stars form. Data from the Very Large Telescope’s Multi Unit Spectroscopic Explorer (MUSE) instrument is represented in red and magenta, capturing the impact of young, massive stars on their surrounding gas. Visible light captured by the Hubble Space Telescope highlights dust lanes in gold and very young, hot stars in blue. High-resolution infrared images from the Webb Space Telescope will help researchers identify where stars are forming behind dust and study the earliest stages of star formation in this galaxy.</p>",
+    "ra_position": [
+      3,
+      19,
+      40
+    ],
+    "dec_position": [
+      -19,
+      24,
+      39
+    ]
+  },
+  {
+    "title": "Galactic Center (Chandra, Hubble, Spitzer)",
+    "file": "data/galaxies/cards_html/29.html",
+    "release_date": "October 27, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FJHQFKZXM0ANBAGZSTAP9XEK.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>An enormous swirling vortex of hot gas glows with infrared light, marking the approximate location of the supermassive black hole at the heart of our Milky Way galaxy. This multiwavelength composite image includes near-infrared light captured by NASA’s Hubble Space Telescope, and was the sharpest infrared image ever made of the galactic center region when it was <a href=\"https://hubblesite.org/contents/news-releases/2009/news-2009-28.html?news=true\" target=\"_blank\">released in 2009</a>. Dynamic flickering flares in the region immediately surrounding the black hole, named Sagittarius A*, have complicated the efforts of the Event Horizon Telescope (EHT) collaboration to create a closer, more detailed image. While the black hole itself does not emit light and so cannot be detected by a telescope, the EHT team is working to capture it by getting a clear image of the hot glowing gas and dust directly surrounding it.</p>\n<p>NASA’s upcoming James Webb Space Telescope, scheduled to launch in December 2021, will combine Hubble’s resolution with even more infrared light detection. In its first year of science operations, Webb will join with EHT in observing Sagittarius A*, lending its infrared data for comparison to EHT’s radio data, making it easier to determine when bright flares are present, producing a sharper overall image of the region.&nbsp;</p>\n<p>In the composite image shown here, colors represent different wavelengths of light. Hubble’s near-infrared observations are shown in yellow, revealing hundreds of thousands of stars, stellar nurseries, and heated gas. The deeper infrared observations of NASA’s Spitzer Space Telescope are shown in red, revealing even more stars and gas clouds. Light detected by NASA’s Chandra X-ray Observatory is shown in blue and violet, indicating where gas is heated to millions of degrees by stellar explosions and by outflows from the supermassive black hole.</p>",
+    "ra_position": [
+      17,
+      45,
+      36
+    ],
+    "dec_position": [
+      -28,
+      55,
+      58
+    ]
+  },
+  {
+    "title": "Cartwheel Galaxy (NIRCam and MIRI Composite Compass Image)",
+    "file": "data/galaxies/cards_html/3.html",
+    "release_date": "August 02, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G8KBCM5NYRFV8HASC7A7TWDM.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Cartwheel Galaxy, along with two smaller companion galaxies, captured by Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 100,000 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 340,000 light-years across.&nbsp;</p>\n<p>This image shows invisible near- and mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which NIRCam and MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/039/01G8JXN0K2VBQP112RNSQWTCTH\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      37,
+      41
+    ],
+    "dec_position": [
+      -33,
+      42,
+      59
+    ]
+  },
+  {
+    "title": "Galactic Center in Near-infrared (Hubble)",
+    "file": "data/galaxies/cards_html/30.html",
+    "release_date": "October 27, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FJHRDGBN9KP7BTD0Q03487ER.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Heated gas swirls around the region of the Milky Way galaxy’s supermassive black hole, illuminated in near-infrared light captured by NASA’s Hubble Space Telescope. <a href=\"https://hubblesite.org/contents/news-releases/2009/news-2009-28.html\" target=\"_blank\">Released in 2009</a> to celebrate the International Year of Astronomy, this was the sharpest infrared image ever made of the galactic center region. NASA’s upcoming James Webb Space Telescope, scheduled to launch in December 2021, will continue this research, pairing Hubble-strength resolution with even more infrared-detecting capability. Of particular interest for astronomers will be Webb’s observations of flares in the area, which have not   been observed around any other supermassive black hole and the cause of which is unknown. The flares have complicated the Event Horizon Telescope (EHT) collaboration’s quest to capture an image of the area immediately surrounding the black hole, and Webb’s infrared data is expected to help greatly in producing a clean image.</p>",
+    "ra_position": [
+      17,
+      45,
+      36
+    ],
+    "dec_position": [
+      -28,
+      55,
+      58
+    ]
+  },
+  {
+    "title": "The COSMOS Hubble ACS Field",
+    "file": "data/galaxies/cards_html/32.html",
+    "release_date": "August 18, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FD7GZNSGY4B8VA8KGBX7GNKB.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This sea of galaxies is the complete, original COSMOS field from the Hubble Space Telescope’s Advanced Camera for Surveys (ACS). The full mosaic is a composite of 575 separate ACS images, where each ACS image is about one-tenth the diameter of the full Moon. The jagged edges of the outline are due to the separate images that make up the survey field.</p>",
+    "ra_position": [
+      10,
+      0,
+      28
+    ],
+    "dec_position": [
+      2,
+      12,
+      21
+    ]
+  },
+  {
+    "title": "Multiwavelength View of Centaurus A (Hubble, Spitzer, Chandra, VLA)",
+    "file": "data/galaxies/cards_html/37.html",
+    "release_date": "March 17, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01F0SV55ZF29KH11ZWNRD89FNA.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Centaurus A sports a warped central disk of gas and dust, which is evidence of a past collision and merger with another galaxy. It also has an active galactic nucleus that periodically emits jets. It is the fifth brightest galaxy in the sky and only about 13 million light-years away from Earth, making it an ideal target to study an active galactic nucleus – a supermassive black hole emitting jets and winds – with NASA's upcoming James Webb Space Telescope. This image was made using data from the Hubble, Spitzer, and Chandra space telescopes and the Very Large Array.</p>",
+    "ra_position": [
+      13,
+      25,
+      28
+    ],
+    "dec_position": [
+      -43,
+      1,
+      9
+    ]
+  },
+  {
+    "title": "Centaurus A in Different Wavelengths (Hubble, Spitzer, Chandra, VLA)",
+    "file": "data/galaxies/cards_html/38.html",
+    "release_date": "March 17, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01F0SYH3M0SVCZQ51WEGPXCWG4.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>A breakdown of a multi-wavelength image of galaxy Centaurus A shows light collected by Hubble (visible), Chandra (X-ray), Spitzer (infrared), and the Very Large Array (radio). Centaurus A's dusty core is apparent in visible light, but its jets are best viewed in X-ray and radio light. With upcoming observations from NASA's James Webb Space Telescope in infrared light, researchers hope to better pinpoint the mass of the galaxy's central supermassive black hole as well as evidence that shows where the jets were ejected.</p>",
+    "ra_position": [
+      13,
+      25,
+      28
+    ],
+    "dec_position": [
+      -43,
+      1,
+      9
+    ]
+  },
+  {
+    "title": "GOODS-S/ERS2 Field (Hubble)",
+    "file": "data/galaxies/cards_html/39.html",
+    "release_date": "January 15, 2021 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EX2BBQ7QECY35M3GAHHAKE3D.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is a Hubble Space Telescope view of a portion of GOODS-South, the southern field of a large deep-sky study by several observatories to trace the formation and evolution of galaxies. The image shows a rich tapestry of 7,500 galaxies stretching back through most of the universe's history. The farthest galaxies, a few of the very faint red specks, are seen as they appeared more than 13 billion years ago, or roughly 650 million years after the Big Bang. Soon, the James Webb Space Telescope will peer back even farther into this field to trace the formation and evolution of the very first galaxies.</p>",
+    "ra_position": [
+      3,
+      32,
+      40
+    ],
+    "dec_position": [
+      -27,
+      43,
+      9
+    ]
+  },
+  {
+    "title": "Cartwheel Galaxy (MIRI Compass Image)",
+    "file": "data/galaxies/cards_html/4.html",
+    "release_date": "August 02, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G8KCSJ4G83C5K8X9WB0XRDSH.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Image of the Cartwheel Galaxy, along with two smaller companion galaxies, captured by Webb’s Mid-Infrared Instrument (MIRI), with compass arrows, scale bar, and color key for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 100,000 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 305,000 light-years across.&nbsp;</p>\n<p>This image shows invisible mid-infrared wavelengths of light that have been translated into visible-light colors. The color key shows which MIRI filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.&nbsp;</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2022/039/01G8KC9T6W06S1KXHA5KV00HM3\">Read the full image caption.</a></p>",
+    "ra_position": [
+      0,
+      37,
+      41
+    ],
+    "dec_position": [
+      -33,
+      42,
+      59
+    ]
+  },
+  {
+    "title": "NGC 3256 (Hubble)",
+    "file": "data/galaxies/cards_html/42.html",
+    "release_date": "September 23, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVST26Q83QJYJM2R1V5Z3ZAN.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Although the two galaxies in NGC 3256 appear merged when viewed in visible light, a second, bright nucleus is found hiding among the tangle of dust lanes in the central region. By using a range of telescopes on the ground and in space, the <a href=\"https://www.ipac.caltech.edu/project/goals\" target=\"_blank\" rel=\"noopener\">Great Observatories All-sky LIRG Survey</a> (GOALS) research team has been analyzing galaxies like NGC 3256 from X-ray through radio wavelengths. NGC 3256 has a buried active nucleus, large-scale shocks from two powerful outflows, and a huge number of compact, bright star clusters.</p>\n<p>Upcoming research with the James Webb Space Telescope will help researchers learn more about the outflows, which will allow them to better model the hot and cold gas, and determine what implications that has for how and where stars form in rapidly evolving galaxies.</p>",
+    "ra_position": [
+      10,
+      27,
+      51
+    ],
+    "dec_position": [
+      -43,
+      54,
+      13
+    ]
+  },
+  {
+    "title": "NGC 7469 (Hubble)",
+    "file": "data/galaxies/cards_html/43.html",
+    "release_date": "September 23, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVST1T4PGPYSCD8K02RD4JBH.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Since the galaxies that make up NGC 7469 are both almost face-on when viewed from Earth, it's easier to identify the areas where a black hole may exist. A powerful accreting supermassive black hole, surrounded by a ring of young stars, lives at the heart of the galaxy in the upper right. High-resolution infrared imagery from the James Webb Space Telescope is required to determine if the stars form differently around a central supermassive black hole compared to star formation farther out in the galaxy's arms. Webb will also help researchers trace the gas outflows, which will help pinpoint where and how the interstellar medium is affected, which subsequently drives or quenches star formation.</p>",
+    "ra_position": [
+      23,
+      3,
+      16
+    ],
+    "dec_position": [
+      8,
+      53,
+      6
+    ]
+  },
+  {
+    "title": "II Zw 096 (Hubble)",
+    "file": "data/galaxies/cards_html/44.html",
+    "release_date": "September 23, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVST1PK2K0MYFWV8XBVEF7PH.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>These merging galaxies, known as II Zw 096, are the site of a spectacular burst of star formation that is hinted at in the red speckles near the middle of the image. This dust-shrouded area conceals a brilliant burst of star formation that becomes more apparent at longer wavelengths of infrared light.</p>\n<p>The image above combines near-infrared, visible, and far-ultraviolet observations from the Hubble Space Telescope. Researchers using infrared data from NASA's Spitzer Space Telescope estimated the starburst, which lives in a small red region at the center of this image, is cranking out stars at the breakneck pace of around 100 solar masses per year. The upcoming James Webb Space Telescope will allow researchers to penetrate the dust and search for a buried, rapidly growing supermassive black hole.</p>",
+    "ra_position": [
+      20,
+      57,
+      24
+    ],
+    "dec_position": [
+      17,
+      7,
+      40
+    ]
+  },
+  {
+    "title": "Extended Groth Strip (Hubble)",
+    "file": "data/galaxies/cards_html/46.html",
+    "release_date": "June 24, 2020 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVST7PYE2HGJ068FBPQ0MFZD.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image from the Hubble Space Telescope shows a part of the sky known as the Extended Groth Strip (EGS). The CEERS Survey researchers will use the James Webb Space Telescope to observe the Extended Groth Strip in infrared light. Their observations employ three of the telescope’s instruments and will provide both images and spectra of the objects in the field — which includes at least 50,000 galaxies — helping to expand what we know about galaxies in the very early universe.</p>",
+    "ra_position": [
+      14,
+      16,
+      59
+    ],
+    "dec_position": [
+      52,
+      30,
+      0
+    ]
+  },
+  {
+    "title": "Sculptor Dwarf Galaxy (Hubble, DSS2)",
+    "file": "data/galaxies/cards_html/49.html",
+    "release_date": "November 25, 2019 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01EVSV46AZPH6M58XVX1YNRX0F.jpg",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Sculptor dwarf galaxy is a companion to the Milky Way galaxy. Astronomers will use Webb to study the motions of stars in Sculptor and Draco, another dwarf companion to the Milky Way. By studying how the stars move, the researchers will be able to determine how the dark matter is distributed in these galaxies.</p>",
+    "ra_position": [
+      1,
+      0,
+      9
+    ],
+    "dec_position": [
+      33,
+      42,
+      33
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (NIRCam and MIRI Composite Image)",
+    "file": "data/galaxies/cards_html/5.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DA7WM13DBQNKV4EHRFCCJ7.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>An enormous mosaic of Stephan’s Quintet is the largest image to date from NASA’s James Webb Space Telescope, covering about one-fifth of the Moon’s diameter. It contains over 150 million pixels and is constructed from almost 1,000 separate image files. The visual grouping of five galaxies was captured by Webb’s <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera (NIRCam)</a> and <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument (MIRI)</a>.</p>\n<p>With its powerful, infrared vision and extremely high spatial resolution, Webb shows never-before-seen details in this galaxy group. Sparkling clusters of millions of young stars and starburst regions of fresh star birth grace the image. Sweeping tails of gas, dust and stars are being pulled from several of the galaxies due to gravitational interactions. Most dramatically, Webb’s MIRI instrument captures huge shock waves as one of the galaxies, NGC 7318B, smashes through the cluster. These regions surrounding the central pair of galaxies are shown in the colors red and gold.</p>\n<p>This composite NIRCam-MIRI image uses two of the three MIRI filters to best show and differentiate the hot dust and structure within the galaxy. MIRI sees a distinct difference in color between the dust in the galaxies versus the shock waves between the interacting galaxies. The image processing specialists at the Space Telescope Science Institute in Baltimore opted to highlight that difference by giving MIRI data the distinct yellow and orange colors, in contrast to the blue and white colors assigned to stars at NIRCam’s wavelengths.&nbsp;</p>\n<p>Together, the five galaxies of Stephan’s Quintet are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,” only four of the galaxies are truly close together and caught up in a cosmic dance. The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared with the other four. NGC 7320 resides 40 million light-years from Earth, while the other four galaxies (NGC 7317, NGC 7318A, NGC 7318B, and NGC 7319) are about 290 million light-years away. This is still fairly close in cosmic terms, compared with more distant galaxies billions of light-years away. Studying these relatively nearby galaxies helps scientists better understand structures seen in a much more distant universe.</p>\n<p>This proximity provides astronomers a ringside seat for witnessing the merging of and interactions between galaxies that are so crucial to all of galaxy evolution. Rarely do scientists see in so much exquisite detail how interacting galaxies trigger star formation in each other, and how the gas in these galaxies is being disturbed. Stephan’s Quintet is a fantastic “laboratory” for studying these processes fundamental to all galaxies.</p>\n<p>Tight groups like this may have been more common in the early universe when their superheated, infalling material may have fueled very energetic black holes called quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbors an <a href=\"https://webbtelescope.org/contents/articles/what-are-active-galactic-nuclei\" target=\"_self\">active galactic nucleus</a>, a supermassive black hole that is actively accreting material.</p>\n<p>In NGC 7320, the leftmost and closest galaxy in the visual grouping, NIRCam was remarkably able to resolve individual stars and even the galaxy’s bright core. Old, dying stars that are producing dust clearly stand out as red points with NIRCam.</p>\n<p>The new information from Webb provides invaluable insights into how galactic interactions may have driven galaxy evolution in the early universe.</p>\n<p>As a bonus, NIRCam and MIRI revealed a vast sea of many thousands of distant background galaxies reminiscent of Hubble’s Deep Fields.</p>\n<p><em>NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "SDSS J1226+2152 (Hubble)",
+    "file": "data/galaxies/cards_html/50.html",
+    "release_date": "August 21, 2019 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSV8P4Y9XMDEQQM3YZDFB8E.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This is a Hubble Space Telescope image of galaxy SDSS J1226+2152, which is being magnified and distorted by the immense gravity of a galaxy cluster in front of it. It is one of four distant, star-forming galaxies the TEMPLATES team will study with Webb. The team chose it as an example of a galaxy that is not very dusty.</p>",
+    "ra_position": [
+      12,
+      26,
+      51
+    ],
+    "dec_position": [
+      21,
+      52,
+      19
+    ]
+  },
+  {
+    "title": "Galaxy ESO 137-001: Visible (Hubble)",
+    "file": "data/galaxies/cards_html/52.html",
+    "release_date": "April 17, 2019 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSWN16DT10GWBKNZ9BZE8MA.jpg",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The spiral galaxy ESO 137-001, seen here in an image from Hubble, is an example of a “jellyfish” galaxy, because blue tendrils of star formation stream away from it like jellyfish tentacles.</p>",
+    "ra_position": [
+      16,
+      13,
+      24
+    ],
+    "dec_position": [
+      -60,
+      45,
+      29
+    ]
+  },
+  {
+    "title": "Galaxy ESO 137-001: Visible and X-ray (Hubble, Chandra)",
+    "file": "data/galaxies/cards_html/53.html",
+    "release_date": "April 17, 2019 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSWMX846GG3EPT7M4PZR5C5.jpg",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This composite view of ESO 137-001 includes visible light from Hubble and X-ray light from the Chandra X-ray Observatory (in blue). It reveals a tail of hot gas that has been stripped from the galaxy.</p>",
+    "ra_position": [
+      16,
+      13,
+      24
+    ],
+    "dec_position": [
+      -60,
+      45,
+      29
+    ]
+  },
+  {
+    "title": "NGC 4151 (Hubble Image)",
+    "file": "data/galaxies/cards_html/56.html",
+    "release_date": "October 17, 2018 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSZRRM9YG0HBQ21WEJGG9J5.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of galaxy NGC 4151, captured by the Hubble Space Telescope’s Wide Field Camera 3, shows compass arrows and labels for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 6,100 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 440,000 light-years across.</p>\n<p>This image shows visible and ultraviolet wavelengths of light that have been translated into visible-light colors. The color key shows which filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>",
+    "ra_position": [
+      12,
+      10,
+      32
+    ],
+    "dec_position": [
+      39,
+      24,
+      21
+    ]
+  },
+  {
+    "title": "NGC 4151 (Hubble Compass Image)",
+    "file": "data/galaxies/cards_html/57.html",
+    "release_date": "October 17, 2018 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVSZR2PXSS3AE9PXVSPYTSCG.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This image of galaxy NGC 4151, captured by the Hubble Space Telescope’s Wide Field Camera 3, shows compass arrows and labels for reference.</p>\n<p>The north and east compass arrows show the orientation of the image on the sky. Note that the relationship between north and east on the sky (as seen from below) is flipped relative to direction arrows on a map of the ground (as seen from above).</p>\n<p>The scale bar is labeled in light-years, which is the distance that light travels in one Earth-year. (It takes 6,100 years for light to travel a distance equal to the length of the bar.) One light-year is equal to about 5.88 trillion miles or 9.46 trillion kilometers. The field of view shown in this image is approximately 440,000 light-years across.</p>\n<p>This image shows visible and ultraviolet wavelengths of light that have been translated into visible-light colors. The color key shows which filters were used when collecting the light. The color of each filter name is the visible light color used to represent the infrared light that passes through that filter.</p>\n<p><a href=\"https://webbtelescope.org/contents/media/images/2018/37/4227-Image\">Read the full image caption.</a></p>",
+    "ra_position": [
+      12,
+      10,
+      32
+    ],
+    "dec_position": [
+      39,
+      24,
+      21
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (MIRI Image)",
+    "file": "data/galaxies/cards_html/6.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7DBCTRCGSFP6NWA1S9C6KBP.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>With its powerful, mid-infrared vision, the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument (MIRI)</a> shows never-before-seen details of Stephan’s Quintet, a visual grouping of five galaxies. MIRI pierced through dust-enshrouded regions to reveal huge shock waves and tidal tails, gas and stars stripped from the outer regions of the galaxies by interactions. It also unveiled hidden areas of star formation. The new information from MIRI provides invaluable insights into how galactic interactions may have driven galaxy evolution in the early universe.</p>\n<p>This image contains one more MIRI filter than was used in the NIRCam-MIRI composite picture. The image processing specialists at the Space Telescope Science Institute in Baltimore opted to use all three MIRI filters and the colors red, green and blue to most clearly differentiate the galaxy features from each other and the shock waves between the galaxies.</p>\n<p>In this image, red denotes dusty, star-forming regions, as well as extremely distant, early galaxies and galaxies enshrouded in thick dust. Blue point sources show stars or star clusters without dust. Diffuse areas of blue indicate dust that has a significant amount of large hydrocarbon molecules. For small background galaxies scattered throughout the image, the green and yellow colors represent more distant, earlier galaxies that are rich in these hydrocarbons as well.</p>\n<p>Stephan’s Quintet’s topmost galaxy – NGC 7319 – harbors a supermassive black hole 24 million times the mass of the Sun. It is actively accreting material and puts out light energy equivalent to 40 billion Suns. MIRI sees through the dust surrounding this black hole to unveil the strikingly bright active galactic nucleus.&nbsp;</p>\n<p>As a bonus, the deep mid-infrared sensitivity of MIRI revealed a sea of previously unresolved background galaxies reminiscent of Hubble’s Deep Fields.</p>\n<p>Together, the five galaxies of Stephan’s Quintet are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,” only four of the galaxies are truly close together and caught up in a cosmic dance. The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared with the other four. NGC 7320 resides 40 million light-years from Earth, while the other four galaxies (NGC 7317, NGC 7318A, NGC 7318B, and NGC 7319) are about 290 million light-years away. This is still fairly close in cosmic terms, compared with more distant galaxies billions of light-years away. Studying these relatively nearby galaxies helps scientists better understand structures seen in a much more distant universe.</p>\n<p>This proximity provides astronomers a ringside seat for witnessing the merging of and interactions between galaxies that are so crucial to all of galaxy evolution. Rarely do scientists see in so much exquisite detail how interacting galaxies trigger star formation in each other, and how the gas in these galaxies is being disturbed. Stephan’s Quintet is a fantastic “laboratory” for studying these processes fundamental to all galaxies.</p>\n<p>Tight groups like this may have been more common in the early universe when their superheated, infalling material may have fueled very energetic black holes called quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbors an active galactic nucleus, a supermassive black hole that is actively pulling in material.</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "Hubble Frontier Field Abell 2744",
+    "file": "data/galaxies/cards_html/60.html",
+    "release_date": "April 25, 2018 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01EVT0R1MTA1D9TNY9FB37KR4J.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>This long-exposure Hubble Space Telescope image of massive galaxy cluster Abell 2744 shows some of the faintest and youngest galaxies ever detected in space. Abell 2744, located in the constellation Sculptor, appears in the foreground of this image. It contains several hundred galaxies as they looked 3.5 billion years ago. The immense gravity in Abell 2744 acts as a gravitational lens to warp space and brighten and magnify images of nearly 3,000 distant background galaxies. The more distant galaxies appear as they did longer than 12 billion years ago, not long after the big bang.&nbsp;</p>\n<p>New research shows that the James Webb Space Telescope could potentially detect the first stars and black holes in the universe, if they are gravitationally lensed by a cluster like Abell 2744. A very precise alignment of the cluster and background star would be needed, so Webb would need to observe a number of clusters repeatedly for the best chance of success.</p>",
+    "ra_position": [
+      0,
+      14,
+      19
+    ],
+    "dec_position": [
+      -30,
+      23,
+      19
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (MIRI Spectra)",
+    "file": "data/galaxies/cards_html/7.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NABPJPGTS7PV1HHX9CDWNM.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Stephan’s Quintet is a visual grouping of five galaxies located in the constellation Pegasus. Together, they are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,” only four of the galaxies are truly close together and caught up in a cosmic dance. The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared with the other four.&nbsp;</p>\n<p>Tight groups like this may have been more common in the early universe when their superheated, infalling material may have fueled very energetic black holes called quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbors an <a href=\"https://webbtelescope.org/contents/articles/what-are-active-galactic-nuclei\" target=\"_self\">active galactic nucleus</a>, a supermassive black hole 24 million times the mass of the Sun. It is actively pulling in material and puts out light energy equivalent to 40 billion Suns.&nbsp;</p>\n<p>Scientists using NASA’s James Webb Space Telescope studied the active galactic nucleus in great detail with the Medium-Resolution Spectrometer (MRS) that is part of the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument (MIRI)</a>. The spectrometer features <a href=\"https://webbtelescope.org/contents/media/videos/2018/37/1181-Video\" target=\"_self\">integral field units</a> (IFUs) – a combination of a camera and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8bdf5fe3-c6b6-4182-961d-21fc595c84c0\" target=\"_self\">spectrograph</a>. These IFUs provided the Webb team with a “data cube,” or collection of images of the galactic core’s spectral features.&nbsp;</p>\n<p>Using IFUs, scientists can measure spatial structures, determine the velocity of those structures, and get a full range of spectral data. Much like medical magnetic resonance imaging (MRI), the IFUs allow scientists to “slice and dice” the information into many images for detailed study.&nbsp;</p>\n<p>MIRI’s MRS pierced through the shroud of dust near the active galactic nucleus to measure the bright emission from nearby hot gas that is being ionized by powerful winds and radiation from the black hole. The instrument saw the gas near the supermassive black hole at a level of detail never seen before, and it was able to determine its composition.&nbsp;</p>\n<p>When a supermassive black hole feeds, some of the infalling material becomes very hot and is pushed away from the black hole in the form of winds and jets. MIRI probed many different regions, including the black hole’s outflowing wind – indicated by the smaller circle – and the area immediately around the black hole itself – indicated by the larger circle. It showed that the black hole is enshrouded in silicate dust similar to beach sand, but with much smaller grains.&nbsp;&nbsp;</p>\n<p>The top spectrum, from the black hole’s outflow, shows a region filled with hot, ionized gases, including iron, argon, neon, sulfur and oxygen as denoted by the peaks at given wavelengths. The presence of multiple emission lines from the same element with different degrees of ionization is valuable for understanding the properties and origins of the outflow.&nbsp;</p>\n<p>The bottom spectrum reveals that the supermassive black hole has a reservoir of colder, denser gas with large quantities of molecular hydrogen and silicate dust that absorb the light from the central regions of the galaxy.&nbsp;</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (NIRSpec IFU)",
+    "file": "data/galaxies/cards_html/8.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NF9TBMKF1HMRHK0C3V8BMM.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Stephan’s Quintet is a visual grouping of five galaxies located in the constellation Pegasus. Together, they are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,” only four of the galaxies are truly close together and caught up in a cosmic dance. The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared with the other four.&nbsp;</p>\n<p>Tight groups like this may have been more common in the early universe when their superheated, infalling material may have fueled very energetic black holes called quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbors an <a href=\"https://webbtelescope.org/contents/articles/what-are-active-galactic-nuclei\" target=\"_self\">active galactic nucleus</a>, a supermassive black hole 24 million times the mass of the Sun. It is actively pulling in material and puts out light energy equivalent to 40 billion Suns.&nbsp;</p>\n<p>NASA’s James Webb Space Telescope studied the active galactic nucleus in great detail with the <a href=\"https://webbtelescope.org/contents/media/images/01FA0T08S2V810Y7ENZMGWTVDA\" target=\"_self\">Near-Infrared Spectrograph (NIRSpec)</a>. The instrument’s <a href=\"https://webbtelescope.org/contents/media/videos/2018/37/1181-Video\" target=\"_self\">integral field units (IFUs)</a> – a combination of a camera and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8bdf5fe3-c6b6-4182-961d-21fc595c84c0\" target=\"_self\">spectrograph</a> – provided the Webb team with a “data cube,” or collection of images of the galactic core’s spectral features. Using IFUs, scientists can measure spatial structures, determine the velocity of those structures, and get a full range of spectral data. Much like medical magnetic resonance imaging (MRI), the IFUs allow scientists to “slice and dice” the information into many images for detailed study.&nbsp;</p>\n<p>NIRSpec’s IFUs pierced through the shroud of dust to measure the bright emission from outflows of hot gas near the active black hole. The instrument saw the gas near the supermassive black hole in wavelengths never detected before, and it was able to determine its composition.</p>\n<p>Some of the key emission lines seen by NIRSpec are shown in this image and represent different phases of gas. Atomic hydrogen, in blue and yellow, allows scientists to discover the structure of the outflow. Iron ions, in teal, trace the places where the hot gas is located. Molecular hydrogen, in red, is very cold and dense, and traces both outflowing gas and the reservoir of fuel for the black hole. The bright, active nucleus itself has been removed from these images to better show the structure of the surrounding gas.&nbsp;</p>\n<p>By using NIRSpec, scientists have gained unprecedented information about the black hole and its outflow. Studying these relatively nearby galaxies helps scientists better understand galaxy evolution in the much more distant universe.</p>\n<p><em>NIRSpec was built for the European Space Agency (ESA) by a consortium of European companies led by Airbus Defence and Space (ADS) with NASA’s Goddard Space Flight Center providing its detector and micro-shutter subsystems.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p></p>\n<p></p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  },
+  {
+    "title": "Stephan's Quintet (MIRI IFU)",
+    "file": "data/galaxies/cards_html/9.html",
+    "release_date": "July 12, 2022 11:13AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01G7NDCNVD67PYJCDWHN3VTEEW.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Stephan’s Quintet is a visual grouping of five galaxies located in the constellation Pegasus. Together, they are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,” only four of the galaxies are truly close together and caught up in a cosmic dance. The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared with the other four.&nbsp;</p>\n<p>Tight groups like this may have been more common in the early universe when their superheated, infalling material may have fueled very energetic black holes called quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbors an <a href=\"https://webbtelescope.org/contents/articles/what-are-active-galactic-nuclei\" target=\"_self\">active galactic nucleus</a>, a supermassive black hole 24 million times the mass of the Sun. It is actively accreting material and puts out light energy equivalent to 40 billion Suns.&nbsp;</p>\n<p>Scientists using NASA’s James Webb Space Telescope studied the active galactic nucleus in great detail with the Medium-Resolution Spectrometer (MRS), which is part of the <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZA5HPXKRKH8Y6PKB10V1\" target=\"_self\">Mid-Infrared Instrument</a> (MIRI). The spectrometer features <a href=\"https://webbtelescope.org/contents/media/videos/2018/37/1181-Video\" target=\"_self\">integral field units</a> (IFUs) – a combination of a camera and <a href=\"https://webbtelescope.org/glossary.html#h3-CK-8bdf5fe3-c6b6-4182-961d-21fc595c84c0\" target=\"_self\">spectrograph</a>. These IFUs provided the Webb team with a “data cube,” or collection of images of the galactic core’s spectral features.&nbsp;</p>\n<p>Using IFUs, scientists can measure spatial structures, determine the velocity of those structures, and get a full range of spectral data. Much like medical magnetic resonance imaging (MRI), the IFUs allow scientists to “slice and dice” the information into many images for detailed study.&nbsp;</p>\n<p>MIRI’s MRS pierced through the shroud of dust near the active galactic nucleus to measure the bright emission from hot gas being ionized by powerful winds and radiation from the black hole. The instrument saw the gas near the supermassive black hole in wavelengths never studied before in so much detail, and it was able to determine its velocity.&nbsp;</p>\n<p>Some of these key emission features are shown in this image. In each case, the blue-colored regions indicate movement toward the viewer and orange-colored regions represent movement away from the viewer. The argon and neon lines are from hot spots of super-heated gas that is highly ionized by the powerful radiation and winds from the supermassive black hole. The molecular hydrogen line is from colder dense gas in the central regions of the galaxy and entrained in the outflowing wind. The velocities are measured by shifts in the wavelengths of a given emission line feature.</p>\n<p><em>MIRI was contributed by ESA and NASA, with the instrument designed and built by a consortium of nationally funded European Institutes (The MIRI European Consortium) in partnership with JPL and the University of Arizona.</em></p>\n<p>For a full array of Webb’s first images and spectra, including downloadable files, please visit: <a href=\"https://webbtelescope.org/news/first-images\" target=\"_self\">https://webbtelescope.org/news/first-images</a>&nbsp;</p>\n<p></p>",
+    "ra_position": [
+      22,
+      35,
+      57
+    ],
+    "dec_position": [
+      33,
+      57,
+      36
+    ]
+  }
+]
