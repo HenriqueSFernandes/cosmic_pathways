@@ -630,6 +630,42 @@
     ]
   },
   {
+    "title": "Webb and Hubble's Views of Spiral Galaxy NGC 4535",
+    "file": "data/galaxies/cards_html/62.html",
+    "release_date": "January 29, 2024 10:00AM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HMC1WYP25W7WS86CD1ZTMED5.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>Face-on spiral galaxy, NGC 4535, is split diagonally in this image: The James Webb Space Telescope’s observations appear at bottom left, and the Hubble Space Telescope’s on top right. Webb and Hubble’s images show a striking contrast, an inverse of darkness and light. Why? Webb’s observations combine <a href=\"https://webbtelescope.org/webb-science/the-observatory/infrared-astronomy\">near- and mid-infrared light</a> and Hubble’s showcase visible and ultraviolet light. Dust absorbs ultraviolet and visible light, and then re-emits it in the infrared. In Webb's images, we see dust glowing in infrared light. In Hubble’s images, dark regions are where starlight is absorbed by dust.</p>\n<p>The individual Webb and Hubble images are available for download using the links on the left side of this page.</p>\n<h3>Color Decoder</h3>\n<h4>Gas and Dust</h4>\n<p>In Webb’s high-resolution infrared images, the gas and dust stand out in stark shades of orange and red, and show finer spiral shapes with the appearance of jagged edges, though these areas are still diffuse.</p>\n<p>In Hubble’s images, the gas and dust show up as hazy dark brown lanes, following the same spiral shapes. Its images are about the same resolution as Webb’s, but the gas and dust obscure a lot of the smaller-scale star formation.</p>\n<h4>Bright Central Spikes</h4>\n<p>Bright red <a href=\"https://webbtelescope.org/contents/media/images/01G529MX46J7AFK61GAMSHKSSN\">diffraction spikes</a> at a galaxy’s core in a Webb image can be a “calling card” of an active supermassive black hole, as seen in galaxy <a href=\"https://webbtelescope.org/contents/media/images/2024/105/01HMC2V0K4TCGD0B8B6BWTSRH8\">NGC 7496</a>. Not all oversized diffraction spikes at galaxies’ cores are caused by black holes, though. Sometimes, they appear when a slew of very bright, centrally located star clusters are in the central region of Webb’s image.</p>\n<p>In Hubble’s images, the galaxies’ cores are not as bright so these spikes are absent. Diffraction spikes only appear when the source is extremely bright and compact.</p>\n<h4>Older Stars</h4>\n<p>Sometimes, the central region in Webb’s image has a blue glow. This is a marker of high concentrations of older stars. Webb’s infrared observations allow us to see through the gas and dust to identify these older stars. The light these old stars emit are some of the shortest infrared wavelengths in Webb’s images, which is why they are assigned blue. (Read more about how <a href=\"https://webbtelescope.org/contents/articles/how-are-webbs-full-color-images-made.html#h2-CK-34acc459-f492-4281-bcbc-7a9ca66227ec\">color is precisely applied to Webb’s images</a>.)</p>\n<p>In comparison, the cores of Hubble’s image may appear yellower, washing the central region in a soft glow and fully obscuring individual points of light. Hazy brown dust lanes may also cover part of this area. In Hubble’s images, older stars are emitting some of the longest wavelengths of visible light Hubble captures, which is why the color assignments are different. (Compare the <a href=\"https://webbtelescope.org/contents/media/images/4188-Image\">wavelengths of light Hubble and Webb observe</a>.)</p>\n<h4>Younger Stars</h4>\n<p>In Webb’s image, the newly fully formed stars also appear blue along the galaxies’ spiral arms. Those blue stars have blown away the gas and dust that immediately surrounded them. The farther away they are from the core, the more likely stars are to be younger. Orange stars, likely seen in groups in these images, are even younger: They are still encased in their cocoons of gas and dust, allowing them to continue forming.</p>\n<p>In Hubble’s images, younger stars pop out in blue and purple – and appear almost everywhere. In contrast, the older stars near the center of the galaxy appear yellowish.</p>\n<h4>Star-Forming Regions</h4>\n<p>Look for knots of bright red and orange in Webb’s image. These are especially easy to identify toward the outer edges of the galaxy’s spiral arms. These are regions of star formation, and mid-infrared light highlights the gas and dust that are a huge part of the mix, since they are primary ingredients for stars that are actively forming.</p>\n<p>In Hubble’s images, star-forming regions are clusters of bright blue and purple, or sometimes red and pink as hot stars energize nearby hydrogen gas.</p>\n<h4>Background Galaxies</h4>\n<p>Webb’s image includes distant galaxies that are located well behind the tightly cropped foreground galaxy. Look for bright blue and pink disks, some seen edge-on, like a plate with a central sphere. Redder galaxies are more distant.</p>\n<p>In Hubble’s view, distant galaxies are often light orange if they are slightly closer. Like in Webb's image, those that are deeper red are also more distant.</p>\n<p>Galaxy NGC 4535 was observed as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) program, a large project that includes observations from several space- and ground-based telescopes of many galaxies to help researchers study all phases of the star formation cycle, from the formation of stars within dusty gas clouds to the energy released in the process that creates the intricate structures revealed by Webb’s new images.</p>\n<p>NGC 4535 is 50 million light-years away in the constellation Virgo.</p>",
+    "ra_position": [
+      12,
+      34,
+      20
+    ],
+    "dec_position": [
+      8,
+      12,
+      4
+    ]
+  },
+  {
+    "title": "Galactic Center (Chandra, Hubble, Spitzer)",
+    "file": "data/galaxies/cards_html/63.html",
+    "release_date": "October 27, 2021 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01FJHQFKZXM0ANBAGZSTAP9XEK.png",
+    "category": "galaxies",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>An enormous swirling vortex of hot gas glows with infrared light, marking the approximate location of the supermassive black hole at the heart of our Milky Way galaxy. This multiwavelength composite image includes near-infrared light captured by NASA’s Hubble Space Telescope, and was the sharpest infrared image ever made of the galactic center region when it was <a href=\"https://hubblesite.org/contents/news-releases/2009/news-2009-28.html?news=true\" target=\"_blank\">released in 2009</a>. Dynamic flickering flares in the region immediately surrounding the black hole, named Sagittarius A*, have complicated the efforts of the Event Horizon Telescope (EHT) collaboration to create a closer, more detailed image. While the black hole itself does not emit light and so cannot be detected by a telescope, the EHT team is working to capture it by getting a clear image of the hot glowing gas and dust directly surrounding it.</p>\n<p>NASA’s upcoming James Webb Space Telescope, scheduled to launch in December 2021, will combine Hubble’s resolution with even more infrared light detection. In its first year of science operations, Webb will join with EHT in observing Sagittarius A*, lending its infrared data for comparison to EHT’s radio data, making it easier to determine when bright flares are present, producing a sharper overall image of the region.&nbsp;</p>\n<p>In the composite image shown here, colors represent different wavelengths of light. Hubble’s near-infrared observations are shown in yellow, revealing hundreds of thousands of stars, stellar nurseries, and heated gas. The deeper infrared observations of NASA’s Spitzer Space Telescope are shown in red, revealing even more stars and gas clouds. Light detected by NASA’s Chandra X-ray Observatory is shown in blue and violet, indicating where gas is heated to millions of degrees by stellar explosions and by outflows from the supermassive black hole.</p>",
+    "ra_position": [
+      17,
+      45,
+      36
+    ],
+    "dec_position": [
+      -28,
+      55,
+      58
+    ]
+  },
+  {
     "title": "Stephan's Quintet (MIRI Spectra)",
     "file": "data/galaxies/cards_html/7.html",
     "release_date": "July 12, 2022 11:13AM (EDT)",

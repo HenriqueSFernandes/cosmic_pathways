@@ -144,6 +144,24 @@
     ]
   },
   {
+    "title": "SN 1987A (NIRCam, MIRI and NIRSpec Images)",
+    "file": "data/nebulas/cards_html/17.html",
+    "release_date": "February 22, 2024 2:00PM (EST)",
+    "img": "https://stsci-opo.org/STScI-01HPHQGF2MQ29TG3JS5S7CVBNK.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The James Webb Space Telescope has observed the best evidence yet for emission from a neutron star at the site of a well-known and recently-observed supernova known as SN 1987A. At left is a NIRCam (Near-Infrared Camera) image <a href=\"https://webbtelescope.org/contents/news-releases/2023/news-2023-136\">released in 2023</a>. The image at top right shows light from singly ionized argon (Argon II) captured by the Medium Resolution Spectrograph (MRS) mode of MIRI (Mid-Infrared Instrument). The image at bottom right shows light from multiply ionized argon captured by the NIRSpec (Near-Infrared Spectrograph). Both instruments show a strong signal from the center of the supernova remnant. This indicated to the science team that there is a source of high-energy radiation there, most likely a neutron star.</p>",
+    "ra_position": [
+      5,
+      35,
+      28
+    ],
+    "dec_position": [
+      -69,
+      16,
+      11
+    ]
+  },
+  {
     "title": "IC 348 (NIRCam Image)",
     "file": "data/nebulas/cards_html/18.html",
     "release_date": "December 13, 2023 10:00AM (EST)",
@@ -1293,6 +1311,24 @@
       22,
       0,
       52
+    ]
+  },
+  {
+    "title": "Pillars of Creation (NIRCam Image)",
+    "file": "data/nebulas/cards_html/82.html",
+    "release_date": "October 19, 2022 10:00AM (EDT)",
+    "img": "https://stsci-opo.org/STScI-01GF42D0KV99R21EAD1RAZ3JB7.png",
+    "category": "nebulas",
+    "description": "\n                                <h3 id=\"h3-caption\">Caption</h3>\n                                <p>The Pillars of Creation are set off in a kaleidoscope of color in NASA’s James Webb Space Telescope’s near-infrared-light view. The pillars look like arches and spires rising out of a desert landscape, but are filled with semi-transparent gas and dust, and ever changing. This is a region where young stars are forming – or have barely burst from their dusty cocoons as they continue to form.</p>\n<p>Newly formed stars are the scene-stealers in this <a href=\"https://webbtelescope.org/contents/media/images/01FA0SZSEW1TZ51BHG0EGW2EZP\" target=\"_self\">Near-Infrared Camera</a> (NIRCam) image. These are the bright red orbs that sometimes appear with eight diffraction spikes. When knots with sufficient mass form within the pillars, they begin to collapse under their own gravity, slowly heat up, and eventually begin shining brightly.</p>\n<p>Along the edges of the pillars are wavy lines that look like lava. These are ejections from stars that are still forming. Young stars periodically shoot out supersonic jets that can interact within clouds of material, like these thick pillars of gas and dust. This sometimes also results in bow shocks, which can form wavy patterns like a boat does as it moves through water. These young stars are estimated to be only a few hundred thousand years old, and will continue to form for millions of years.</p>\n<p>Although it may appear that near-infrared light has allowed Webb to “pierce through” the background to reveal great cosmic distances beyond the pillars, the <a href=\"https://webbtelescope.org/glossary.html#h3-CK-5e7e2388-0eae-4a31-96f7-ad1f8419c9eb\" target=\"_self\">interstellar medium</a> stands in the way, like a drawn curtain.</p>\n<p>This is also the reason why there are almost no distant galaxies in this view. This translucent layer of gas blocks our view of the deeper universe. Plus, dust is lit up by the collective light from the packed “party” of stars that have burst free from the pillars. It’s like standing in a well-lit room looking out a window – the interior light reflects on the pane, obscuring the scene outside and, in turn, illuminating the activity at the party inside.</p>\n<p>Webb’s new view of the Pillars of Creation will help researchers revamp models of star formation. By identifying far more precise star populations, along with the quantities of gas and dust in the region, they will begin to build a clearer understanding of how stars form and burst out of these clouds over millions of years.</p>\n<p>The Pillars of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years away.</p>\n<p><em>Webb’s NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced Technology Center.</em></p>",
+    "ra_position": [
+      18,
+      18,
+      48
+    ],
+    "dec_position": [
+      -13,
+      48,
+      26
     ]
   },
   {
