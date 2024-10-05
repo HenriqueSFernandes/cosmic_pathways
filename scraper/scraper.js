@@ -155,8 +155,14 @@ function getCardData(urls) {
 			try {
 				object["title"] = $("#page-title").text();
 				object["file"] = dir + file;
-				object["release_date"] =
-					$("#h3-release-date")[0].nextSibling.nodeValue.trim();
+				try {
+					object["release_date"] =
+						$("#h3-release-date")[0].nextSibling.nodeValue.trim();
+				} catch (err) {
+					console.error("Error: " + err);
+					console.error("File: " + dir + file);
+					return;
+				}
 				object["img"] =
 					"https://" +
 					$("img.embedded-img.embedded-img__component.lazyloaded")
