@@ -6,6 +6,7 @@ import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
 import { UnrealBloomPass } from "three/addons/postprocessing/UnrealBloomPass.js";
 import { RGBELoader } from "three/addons/loaders/RGBELoader.js";
 
+// Scene, camera, renderer setup
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
 	75,
@@ -14,9 +15,6 @@ const camera = new THREE.PerspectiveCamera(
 	100000000000,
 );
 camera.position.set(0, 15000000, 150000000);
-for (let i = 1; i <= 11; i++) {
-	camera.layers.enable(i);
-}
 
 const renderer = new THREE.WebGLRenderer();
 renderer.sortObjects = false;
@@ -43,13 +41,13 @@ const bloomPass = new UnrealBloomPass(
 );
 composer.addPass(bloomPass);
 
-const rgbeLoader = new RGBELoader();
-rgbeLoader.load("./assets/hdr/sky.hdr", function(texture) {
-	texture.mapping = THREE.EquirectangularReflectionMapping; // Set the mapping type for the environment
-
-	scene.background = texture; // Set the HDR as background
-	scene.environment = texture; // Set the HDR for reflections/environment lighting
-});
+// const rgbeLoader = new RGBELoader();
+// rgbeLoader.load("./assets/hdr/sky.hdr", function(texture) {
+// 	texture.mapping = THREE.EquirectangularReflectionMapping; // Set the mapping type for the environment
+//
+// 	scene.background = texture; // Set the HDR as background
+// 	scene.environment = texture; // Set the HDR for reflections/environment lighting
+// });
 
 const AU = 15000000;
 const sun = planetController.createPlanet(
@@ -169,14 +167,10 @@ const angles = {
 };
 
 orbits.forEach((orbit) => {
-	orbit.layers.set(1);
 	return scene.add(orbit);
 });
 
-let order = 2;
 planets.forEach((planet) => {
-	planet.layers.set(order);
-	order++;
 	return scene.add(planet);
 });
 
@@ -193,6 +187,100 @@ sunLight.position.set(0, 0, 0); // Place the light at the sun's position
 scene.add(sunLight);
 const ambientLight = new THREE.AmbientLight(0xffffff, 0.3); // Color, intensity
 scene.add(ambientLight);
+
+const raycaster = new THREE.Raycaster();
+const mouse = new THREE.Vector2();
+let intersectedObject = null; // Store the currently hovered object
+
+// Handle mouse movement
+window.addEventListener("mousemove", onMouseMove, false);
+
+function onMouseMove(event) {
+    // Convert mouse coordinates to normalized device coordinates (-1 to +1)
+    mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+    // Update the raycaster with the mouse position
+    raycaster.setFromCamera(mouse, camera);
+
+    // Get the list of intersected objects
+    const intersects = raycaster.intersectObjects(scene.children);
+
+    if (intersects.length > 0) {
+        const firstIntersected = intersects[0].object;
+
+        if (intersectedObject !== firstIntersected) {
+            // Mouse just entered a new object
+            if (intersectedObject) {
+                // Reset the color or material of the previously intersected object
+                if (intersectedObject.originalMaterial) {
+                    intersectedObject.material = intersectedObject.originalMaterial;  // Restore original material
+                } else if (intersectedObject.originalColor) {
+                    intersectedObject.material.color.set(intersectedObject.originalColor);  // Restore original color
+                }
+                console.log("Mouse left the object:", intersectedObject);
+            }
+
+            // Store the original material or color if it's the first time being hovered
+            if (!firstIntersected.originalMaterial && firstIntersected.material) {
+                if (firstIntersected.material.map) {
+                    // If it has a texture, store the original material
+                    firstIntersected.originalMaterial = firstIntersected.material.clone(); // Store original material
+                } else {
+                    // If it's color-based, store the original color
+                    firstIntersected.originalColor = firstIntersected.material.color.clone();
+                }
+            }
+
+            // Clone the material before modifying it, so we don't permanently change it
+            if (firstIntersected.material.map) {
+                firstIntersected.material = firstIntersected.originalMaterial.clone(); // Clone before modifying
+            }
+
+            // Highlight the new intersected object by changing its color
+            if (firstIntersected.material.color) {
+                firstIntersected.material.color.set(0xffff00);  // Set to yellow
+            }
+            intersectedObject = firstIntersected;
+            console.log("Mouse entered:", firstIntersected);
+        }
+    } else {
+        if (intersectedObject) {
+            // Mouse left the current object, reset to original material or color
+            if (intersectedObject.originalMaterial) {
+                intersectedObject.material = intersectedObject.originalMaterial;  // Restore original material
+            } else if (intersectedObject.originalColor) {
+                intersectedObject.material.color.set(intersectedObject.originalColor);  // Restore original color
+            }
+            console.log("Mouse left the object:", intersectedObject);
+            intersectedObject = null;  // No object is intersected now
+        }
+    }
+}
+
+
+function add_star(){
+  const geometry = new THREE.SphereGeometry(100000, 100, 100); // Adjust the size of the star if needed
+  const material = new THREE.MeshStandardMaterial({color: 0xffffff});
+  const star = new THREE.Mesh(geometry, material);
+  
+  // Place stars further out by increasing the random spread
+  const [x, y, z] = Array(3).fill().map(() => THREE.MathUtils.randFloatSpread(500000000)); // Increase spread to 500,000,000
+
+  // Optionally, scale the stars to make them more visible
+  star.scale.set(5, 5, 5); // Increase the scale to make stars larger
+
+  // Set the star's position in 3D space
+  star.position.set(x, y, z);
+
+  // Add the star to the scene
+  scene.add(star);
+}
+
+// Generate more stars with the new settings
+Array(200).fill().forEach(add_star);
+
+Array(200).fill().forEach(add_star);
 
 function animate() {
 	requestAnimationFrame(animate);
