@@ -257,7 +257,31 @@ function onMouseMove(event) {
         }
     }
 }
-console.log("siuu" + scene.children);
+
+
+function add_star(){
+  const geometry = new THREE.SphereGeometry(100000, 100, 100); // Adjust the size of the star if needed
+  const material = new THREE.MeshStandardMaterial({color: 0xffffff});
+  const star = new THREE.Mesh(geometry, material);
+  
+  // Place stars further out by increasing the random spread
+  const [x, y, z] = Array(3).fill().map(() => THREE.MathUtils.randFloatSpread(500000000)); // Increase spread to 500,000,000
+
+  // Optionally, scale the stars to make them more visible
+  star.scale.set(5, 5, 5); // Increase the scale to make stars larger
+
+  // Set the star's position in 3D space
+  star.position.set(x, y, z);
+
+  // Add the star to the scene
+  scene.add(star);
+}
+
+// Generate more stars with the new settings
+Array(200).fill().forEach(add_star);
+
+Array(200).fill().forEach(add_star);
+
 function animate() {
 	requestAnimationFrame(animate);
 	angles.mercury += rotationSpeeds.mercury;
