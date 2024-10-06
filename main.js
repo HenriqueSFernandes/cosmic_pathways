@@ -4,6 +4,7 @@ import * as planetController from "./controllers/planetController.js";
 import { EffectComposer } from "three/addons/postprocessing/EffectComposer.js";
 import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
 import { UnrealBloomPass } from "three/addons/postprocessing/UnrealBloomPass.js";
+import { RGBELoader } from "three/addons/loaders/RGBELoader.js";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
@@ -13,7 +14,7 @@ const camera = new THREE.PerspectiveCamera(
 	100000000000,
 );
 camera.position.set(0, 15000000, 150000000);
-for (let i = 1; i <= 10; i++) {
+for (let i = 1; i <= 11; i++) {
 	camera.layers.enable(i);
 }
 
@@ -41,6 +42,14 @@ const bloomPass = new UnrealBloomPass(
 	0.85, // Threshold
 );
 composer.addPass(bloomPass);
+
+const rgbeLoader = new RGBELoader();
+rgbeLoader.load("./assets/hdr/sky.hdr", function(texture) {
+	texture.mapping = THREE.EquirectangularReflectionMapping; // Set the mapping type for the environment
+
+	scene.background = texture; // Set the HDR as background
+	scene.environment = texture; // Set the HDR for reflections/environment lighting
+});
 
 const AU = 15000000;
 const sun = planetController.createPlanet(
@@ -159,10 +168,10 @@ const angles = {
 	neptune: 0,
 };
 
-// orbits.forEach((orbit) => {
-// 	orbit.layers.set(1);
-// 	return scene.add(orbit);
-// });
+orbits.forEach((orbit) => {
+	orbit.layers.set(1);
+	return scene.add(orbit);
+});
 
 let order = 2;
 planets.forEach((planet) => {
@@ -187,14 +196,14 @@ scene.add(ambientLight);
 
 function animate() {
 	requestAnimationFrame(animate);
-	// angles.mercury += rotationSpeeds.mercury;
-	// angles.venus += rotationSpeeds.venus;
-	// angles.earth += rotationSpeeds.earth;
-	// angles.mars += rotationSpeeds.mars;
-	// angles.jupiter += rotationSpeeds.jupiter;
-	// angles.saturn += rotationSpeeds.saturn;
-	// angles.uranus += rotationSpeeds.uranus;
-	// angles.neptune += rotationSpeeds.neptune;
+	angles.mercury += rotationSpeeds.mercury;
+	angles.venus += rotationSpeeds.venus;
+	angles.earth += rotationSpeeds.earth;
+	angles.mars += rotationSpeeds.mars;
+	angles.jupiter += rotationSpeeds.jupiter;
+	angles.saturn += rotationSpeeds.saturn;
+	angles.uranus += rotationSpeeds.uranus;
+	angles.neptune += rotationSpeeds.neptune;
 
 	mercury.position.x = Math.cos(angles.mercury) * (0.39 * AU + 10000000);
 	mercury.position.z = Math.sin(angles.mercury) * (0.39 * AU + 10000000);
