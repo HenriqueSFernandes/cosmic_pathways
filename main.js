@@ -196,43 +196,66 @@ let intersectedObject = null; // Store the currently hovered object
 window.addEventListener("mousemove", onMouseMove, false);
 
 function onMouseMove(event) {
-	console.log("elecas");
-	// Convert mouse coordinates to normalized device coordinates (-1 to +1)
-	mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-	mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+    // Convert mouse coordinates to normalized device coordinates (-1 to +1)
+    mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
 
-	// Update the raycaster with the mouse position
-	raycaster.setFromCamera(mouse, camera);
+    // Update the raycaster with the mouse position
+    raycaster.setFromCamera(mouse, camera);
 
-	// Get the list of intersected objects
-	const intersects = raycaster.intersectObjects(scene.children);
+    // Get the list of intersected objects
+    const intersects = raycaster.intersectObjects(scene.children);
 
-	if (intersects.length > 0) {
-		// Get the first intersected object
-		console.log("elecinhas");
-		const firstIntersected = intersects[0].object;
+    if (intersects.length > 0) {
+        const firstIntersected = intersects[0].object;
 
-		if (intersectedObject !== firstIntersected) {
-			// Mouse just entered a new object
-			if (intersectedObject) {
-				// Reset the color of the previously intersected object
-				intersectedObject.material.color.set(0x00ff00); // Reset to the original color
-				console.log("Mouse left the object:", intersectedObject);
-			}
+        if (intersectedObject !== firstIntersected) {
+            // Mouse just entered a new object
+            if (intersectedObject) {
+                // Reset the color or material of the previously intersected object
+                if (intersectedObject.originalMaterial) {
+                    intersectedObject.material = intersectedObject.originalMaterial;  // Restore original material
+                } else if (intersectedObject.originalColor) {
+                    intersectedObject.material.color.set(intersectedObject.originalColor);  // Restore original color
+                }
+                console.log("Mouse left the object:", intersectedObject);
+            }
 
-			// Highlight the new intersected object
-			firstIntersected.material.color.set(0xffff00); // Set color to yellow
-			intersectedObject = firstIntersected; // Update the tracked intersected object
-			console.log("Mouse entered:", firstIntersected);
-		}
-	} else {
-		if (intersectedObject) {
-			// Mouse left the current object
-			intersectedObject.material.color.set(0x00ff00); // Reset the color to original
-			console.log("Mouse left the object:", intersectedObject);
-			intersectedObject = null; // No object is intersected now
-		}
-	}
+            // Store the original material or color if it's the first time being hovered
+            if (!firstIntersected.originalMaterial && firstIntersected.material) {
+                if (firstIntersected.material.map) {
+                    // If it has a texture, store the original material
+                    firstIntersected.originalMaterial = firstIntersected.material.clone(); // Store original material
+                } else {
+                    // If it's color-based, store the original color
+                    firstIntersected.originalColor = firstIntersected.material.color.clone();
+                }
+            }
+
+            // Clone the material before modifying it, so we don't permanently change it
+            if (firstIntersected.material.map) {
+                firstIntersected.material = firstIntersected.originalMaterial.clone(); // Clone before modifying
+            }
+
+            // Highlight the new intersected object by changing its color
+            if (firstIntersected.material.color) {
+                firstIntersected.material.color.set(0xffff00);  // Set to yellow
+            }
+            intersectedObject = firstIntersected;
+            console.log("Mouse entered:", firstIntersected);
+        }
+    } else {
+        if (intersectedObject) {
+            // Mouse left the current object, reset to original material or color
+            if (intersectedObject.originalMaterial) {
+                intersectedObject.material = intersectedObject.originalMaterial;  // Restore original material
+            } else if (intersectedObject.originalColor) {
+                intersectedObject.material.color.set(intersectedObject.originalColor);  // Restore original color
+            }
+            console.log("Mouse left the object:", intersectedObject);
+            intersectedObject = null;  // No object is intersected now
+        }
+    }
 }
 console.log("siuu" + scene.children);
 function animate() {
