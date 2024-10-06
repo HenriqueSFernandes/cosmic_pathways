@@ -165,16 +165,22 @@ window.addEventListener("resize", () => {
 	camera.updateProjectionMatrix();
 });
 
+const sunLight = new THREE.PointLight(0xffffff, 1e16, 1e200); // Adjust intensity and distance as needed
+sunLight.position.set(0, 0, 0); // Place the light at the sun's position
+scene.add(sunLight);
+const lightHelper = new THREE.PointLightHelper(sunLight, 1000000);
+scene.add(lightHelper);
+
 function animate() {
 	requestAnimationFrame(animate);
-	angles.mercury += rotationSpeeds.mercury;
-	angles.venus += rotationSpeeds.venus;
-	angles.earth += rotationSpeeds.earth;
-	angles.mars += rotationSpeeds.mars;
-	angles.jupiter += rotationSpeeds.jupiter;
-	angles.saturn += rotationSpeeds.saturn;
-	angles.uranus += rotationSpeeds.uranus;
-	angles.neptune += rotationSpeeds.neptune;
+	// angles.mercury += rotationSpeeds.mercury;
+	// angles.venus += rotationSpeeds.venus;
+	// angles.earth += rotationSpeeds.earth;
+	// angles.mars += rotationSpeeds.mars;
+	// angles.jupiter += rotationSpeeds.jupiter;
+	// angles.saturn += rotationSpeeds.saturn;
+	// angles.uranus += rotationSpeeds.uranus;
+	// angles.neptune += rotationSpeeds.neptune;
 
 	mercury.position.x = Math.cos(angles.mercury) * (0.39 * AU + 10000000);
 	mercury.position.z = Math.sin(angles.mercury) * (0.39 * AU + 10000000);

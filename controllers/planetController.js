@@ -14,7 +14,14 @@ export function createPlanet(
 	);
 	const loader = new THREE.TextureLoader();
 	const texture = loader.load(texturePath);
-	const material = new THREE.MeshBasicMaterial({ map: texture });
+	let material;
+	if (texturePath == "./assets/textures/sun_texture.jpg") {
+		material = new THREE.MeshBasicMaterial({
+			map: texture,
+		});
+	} else {
+		material = new THREE.MeshStandardMaterial({ map: texture });
+	}
 	const sphere = new THREE.Mesh(geometry, material);
 	sphere.position.set(position.x, position.y, position.z);
 	return sphere;
