@@ -15,9 +15,6 @@ const camera = new THREE.PerspectiveCamera(
 	100000000000,
 );
 camera.position.set(0, 15000000, 150000000);
-for (let i = 1; i <= 11; i++) {
-	camera.layers.enable(i);
-}
 
 const renderer = new THREE.WebGLRenderer();
 renderer.sortObjects = false;
@@ -170,14 +167,10 @@ const angles = {
 };
 
 orbits.forEach((orbit) => {
-	orbit.layers.set(1);
 	return scene.add(orbit);
 });
 
-let order = 2;
 planets.forEach((planet) => {
-	planet.layers.set(order);
-	order++;
 	return scene.add(planet);
 });
 
