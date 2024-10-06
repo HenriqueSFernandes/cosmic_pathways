@@ -1,6 +1,9 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 import * as planetController from "./controllers/planetController.js";
+import { EffectComposer } from "three/addons/postprocessing/EffectComposer.js";
+import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
+import { UnrealBloomPass } from "three/addons/postprocessing/UnrealBloomPass.js";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
@@ -27,6 +30,17 @@ controls.maxPolarAngle = Math.PI / 2;
 controls.target.set(0, 0, 0);
 // controls.autoRotate = 1;
 controls.update();
+
+const composer = new EffectComposer(renderer);
+composer.addPass(new RenderPass(scene, camera));
+
+const bloomPass = new UnrealBloomPass(
+	new THREE.Vector2(window.innerWidth, window.innerHeight),
+	0.3, // Strength of the bloom
+	0.2, // Bloom radius
+	0.85, // Threshold
+);
+composer.addPass(bloomPass);
 
 const AU = 15000000;
 const sun = planetController.createPlanet(
@@ -145,10 +159,10 @@ const angles = {
 	neptune: 0,
 };
 
-orbits.forEach((orbit) => {
-	orbit.layers.set(1);
-	return scene.add(orbit);
-});
+// orbits.forEach((orbit) => {
+// 	orbit.layers.set(1);
+// 	return scene.add(orbit);
+// });
 
 let order = 2;
 planets.forEach((planet) => {
@@ -168,8 +182,8 @@ window.addEventListener("resize", () => {
 const sunLight = new THREE.PointLight(0xffffff, 1e16, 1e200); // Adjust intensity and distance as needed
 sunLight.position.set(0, 0, 0); // Place the light at the sun's position
 scene.add(sunLight);
-const lightHelper = new THREE.PointLightHelper(sunLight, 1000000);
-scene.add(lightHelper);
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.3); // Color, intensity
+scene.add(ambientLight);
 
 function animate() {
 	requestAnimationFrame(animate);
@@ -207,6 +221,7 @@ function animate() {
 	neptune.position.z = Math.sin(angles.neptune) * (11 * AU);
 	controls.update();
 	renderer.render(scene, camera);
+	composer.render();
 }
 
 animate();

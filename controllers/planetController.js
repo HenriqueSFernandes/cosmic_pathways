@@ -16,8 +16,11 @@ export function createPlanet(
 	const texture = loader.load(texturePath);
 	let material;
 	if (texturePath == "./assets/textures/sun_texture.jpg") {
-		material = new THREE.MeshBasicMaterial({
+		material = new THREE.MeshStandardMaterial({
 			map: texture,
+			emissiveMap: texture,
+			emissive: new THREE.Color(0xffff00),
+			emissiveIntensity: 1.7,
 		});
 	} else {
 		material = new THREE.MeshStandardMaterial({ map: texture });
