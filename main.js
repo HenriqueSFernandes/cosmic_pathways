@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import AudioHandler from "./controllers/sound_class.js"; // Import your AudioHandler
+import AudiHandler from "./controllers/sound_class_2.js";
 
 const scene = new THREE.Scene();
 const camera = new THREE.PerspectiveCamera(
@@ -14,7 +14,11 @@ renderer.setSize(window.innerWidth, window.innerHeight);
 document.body.appendChild(renderer.domElement);
 
 // Instantiate the AudioHandler
-window.addEventListener('click', ()=> {new AudioHandler(camera, "../sound/galaxy_2.mp3")})
+const sound1 = new AudiHandler(camera, "../sound/galaxy_2.mp3");
+window.addEventListener("click", () => {
+  sound1.loadAudio();
+  setTimeout(() => {window.location.href="./views/solar.html"},5000)
+});
 
 const geometry = new THREE.BoxGeometry(1, 1, 1);
 const material = new THREE.MeshBasicMaterial({ color: 0x00ff00 });
@@ -29,8 +33,3 @@ function animate() {
 }
 
 renderer.setAnimationLoop(animate);
-
-// // Example of using setTimeout to change window location
-// setTimeout(() => {
-//     window.location.href = "https://example.com"; // Ensure correct property name
-// }, 5000); // Change to your desired URL and time
