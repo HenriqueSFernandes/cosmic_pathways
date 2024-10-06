@@ -44,13 +44,13 @@ const bloomPass = new UnrealBloomPass(
 );
 composer.addPass(bloomPass);
 
-const rgbeLoader = new RGBELoader();
-rgbeLoader.load("./assets/hdr/sky.hdr", function(texture) {
-	texture.mapping = THREE.EquirectangularReflectionMapping; // Set the mapping type for the environment
-
-	scene.background = texture; // Set the HDR as background
-	scene.environment = texture; // Set the HDR for reflections/environment lighting
-});
+// const rgbeLoader = new RGBELoader();
+// rgbeLoader.load("./assets/hdr/sky.hdr", function(texture) {
+// 	texture.mapping = THREE.EquirectangularReflectionMapping; // Set the mapping type for the environment
+//
+// 	scene.background = texture; // Set the HDR as background
+// 	scene.environment = texture; // Set the HDR for reflections/environment lighting
+// });
 
 const AU = 15000000;
 const sun = planetController.createPlanet(
@@ -195,6 +195,53 @@ scene.add(sunLight);
 const ambientLight = new THREE.AmbientLight(0xffffff, 0.3); // Color, intensity
 scene.add(ambientLight);
 
+const raycaster = new THREE.Raycaster();
+const mouse = new THREE.Vector2();
+let intersectedObject = null; // Store the currently hovered object
+
+// Handle mouse movement
+window.addEventListener("mousemove", onMouseMove, false);
+
+function onMouseMove(event) {
+	console.log("elecas");
+	// Convert mouse coordinates to normalized device coordinates (-1 to +1)
+	mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+	mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+	// Update the raycaster with the mouse position
+	raycaster.setFromCamera(mouse, camera);
+
+	// Get the list of intersected objects
+	const intersects = raycaster.intersectObjects(scene.children);
+
+	if (intersects.length > 0) {
+		// Get the first intersected object
+		console.log("elecinhas");
+		const firstIntersected = intersects[0].object;
+
+		if (intersectedObject !== firstIntersected) {
+			// Mouse just entered a new object
+			if (intersectedObject) {
+				// Reset the color of the previously intersected object
+				intersectedObject.material.color.set(0x00ff00); // Reset to the original color
+				console.log("Mouse left the object:", intersectedObject);
+			}
+
+			// Highlight the new intersected object
+			firstIntersected.material.color.set(0xffff00); // Set color to yellow
+			intersectedObject = firstIntersected; // Update the tracked intersected object
+			console.log("Mouse entered:", firstIntersected);
+		}
+	} else {
+		if (intersectedObject) {
+			// Mouse left the current object
+			intersectedObject.material.color.set(0x00ff00); // Reset the color to original
+			console.log("Mouse left the object:", intersectedObject);
+			intersectedObject = null; // No object is intersected now
+		}
+	}
+}
+console.log("siuu" + scene.children);
 function animate() {
 	requestAnimationFrame(animate);
 	angles.mercury += rotationSpeeds.mercury;
