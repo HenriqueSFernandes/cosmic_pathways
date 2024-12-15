@@ -2,7 +2,7 @@
 
 Cosmic Pathways is a 3D web application that models the universe in an immersive and visually engaging way, merging realistic astronomical data with an artistic touch. This project was developed as part of the NASA Space Apps Challenge 2024 and was awarded the winning project in Lisbon.
 
-Here is a 30 second demo video that was presented in the competition (with music):
+Here is a 30-second demo video that was presented in the competition (with music):
 
 https://github.com/user-attachments/assets/68a6f61a-15ac-4cab-8210-c9b8ce2caab9
 
